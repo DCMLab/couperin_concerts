@@ -217,7 +217,10 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Eva-Maria Hamberger</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1722</metaTag>
+    <metaTag name="composed_start">1722</metaTag>
     <metaTag name="composer">François Couperin</metaTag>
     <metaTag name="copyright">© Les Éditions Outremontaises, 2006</metaTag>
     <metaTag name="creationDate">2019-10-09</metaTag>
@@ -228,6 +231,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">Johannes Menke</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
