@@ -1305,7 +1305,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vio64</name>
+            <name>#vio64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
