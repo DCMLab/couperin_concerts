@@ -2318,7 +2318,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vio64</name>
+            <name>#vio64</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2329,7 +2329,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
