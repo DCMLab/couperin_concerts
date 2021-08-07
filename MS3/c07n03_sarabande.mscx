@@ -2367,7 +2367,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vio6</name>
+            <name>#vio6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
