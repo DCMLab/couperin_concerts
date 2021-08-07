@@ -1963,7 +1963,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.viio64/iv</name>
+            <name>i.#viio64/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
