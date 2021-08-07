@@ -2974,7 +2974,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>@none</name>
+            <name>bIII.I-@none</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3062,7 +3062,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I[I</name>
+            <name>I[I</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
