@@ -1760,7 +1760,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
+            <name>ii%43</name>
             <offset x="0" y="-3.2"/>
             </Harmony>
           <Chord>
@@ -1780,7 +1780,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>ii%65</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
