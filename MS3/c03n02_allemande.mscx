@@ -1733,7 +1733,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.VI7</name>
+            <name>vi.VIM7</name>
             <offset x="0" y="-2.8"/>
             </Harmony>
           <Beam>
