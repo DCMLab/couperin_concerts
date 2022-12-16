@@ -8,7 +8,7 @@ mc	mn	quarterbeats	duration_qb	keysig	timesig	act_dur	mc_offset	numbering_offset
 7	6	16	3.0	-1	3/4	3/4	0										8
 8	7	19	3.0	-1	3/4	3/4	0										9
 9	8	22	2.0	-1	3/4	1/2	0					end	fine				1, 10, -1
-10	8	24	1.0	-1	3/4	1/4	1/2		1		line	start					11
+10	8	24	1.0	-1	3/4	1/4	1/2		1		line	start	1e				11
 11	9	25	3.0	-1	3/4	3/4	0										12
 12	10	28	3.0	-1	3/4	3/4	0										13
 13	11	31	3.0	-1	3/4	3/4	0										14
@@ -16,8 +16,8 @@ mc	mn	quarterbeats	duration_qb	keysig	timesig	act_dur	mc_offset	numbering_offset
 15	13	37	3.0	-1	3/4	3/4	0										16
 16	14	40	3.0	-1	3/4	3/4	0										17
 17	15	43	3.0	-1	3/4	3/4	0										18
-18	16	46	2.0	-1	3/4	1/2	0			double				start		end	1
-19	16	48	1.0	-1	3/4	1/4	0		1								20
+18	16	46	2.0	-1	3/4	1/2	0			double				start	2e	fine	1
+19	16	48	1.0	-1	3/4	1/4	0		1				segno				20
 20	17	49	3.0	-1	3/4	3/4	0										21
 21	18	52	3.0	-1	3/4	3/4	0				line						22
 22	19	55	3.0	-1	3/4	3/4	0										23
