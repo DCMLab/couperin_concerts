@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -49,6 +49,7 @@
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -211,7 +212,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.5875</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -885,13 +885,14 @@
         </Measure>
       <Measure len="2/8">
         <endRepeat>2</endRepeat>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="-2.06129" y="5.69666"/>
+          <text>Fin</text>
+          <label>fine</label>
+          </Marker>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="4.30887" y="12.5612"/>
-            <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Fin</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
@@ -919,13 +920,14 @@
         </Measure>
       <Measure len="4/8">
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="2.57662" y="5.43251"/>
+          <text>1e Couplet</text>
+          <label>segno</label>
+          </Marker>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="0" y="1.16667"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>1<font size="7.5"></font><font face="SnellRoundhand BoldScript"></font>er<font size="12"></font><font face="SnellRoundhand BoldScript"></font> Couplet</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -1390,13 +1392,17 @@
           </voice>
         </Measure>
       <Measure len="2/8">
+        <Jump>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <minDistance>-3.78582</minDistance>
+          <offset x="-1.71774" y="5.31525"/>
+          <text>Rxx</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt>2e</continueAt>
+          </Jump>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="0" y="14.7"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>Rxx</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
@@ -1429,13 +1435,14 @@
         </Measure>
       <Measure len="4/8">
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="1.88952" y="5.52606"/>
+          <text>2e Couplet</text>
+          <label>2e</label>
+          </Marker>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="0" y="2.5"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>2<font size="7.5"></font><font face="SnellRoundhand BoldScript"></font>e<font size="12"></font><font face="SnellRoundhand BoldScript"></font> Couplet</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -2009,13 +2016,17 @@
           </voice>
         </Measure>
       <Measure len="2/8">
+        <Jump>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <minDistance>-7.9084</minDistance>
+          <offset x="-1.37419" y="9.82493"/>
+          <text>Rxx</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt>3e</continueAt>
+          </Jump>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="0" y="14.4"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>Rxx</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
@@ -2035,13 +2046,14 @@
         </Measure>
       <Measure len="4/8">
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="-0.515323" y="10.1011"/>
+          <text>3e Couplet</text>
+          <label>3e</label>
+          </Marker>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="0" y="2.5"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>3<font size="7.5"></font><font face="SnellRoundhand BoldScript"></font>e<font size="12"></font><font face="SnellRoundhand BoldScript"></font> Couplet</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -3508,14 +3520,17 @@
           </voice>
         </Measure>
       <Measure len="2/8">
-        <endRepeat>2</endRepeat>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <minDistance>-3.61405</minDistance>
+          <offset x="-2.57662" y="13.5193"/>
+          <text>Rxx</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt>4e</continueAt>
+          </Jump>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <family>Times</family>
-            <offset x="0" y="13.8"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>Rxx</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
@@ -3536,20 +3551,26 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="4/8">
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <minDistance>-9.11936</minDistance>
+          <offset x="9.27581" y="12.4999"/>
+          <text>4e Couplet. Mineur.</text>
+          <label>4e</label>
+          </Marker>
         <voice>
           <KeySig>
             <accidental>1</accidental>
             <mode>minor</mode>
             </KeySig>
-          <StaffText>
-            <family>Times</family>
-            <offset x="-1.59756" y="-9.35773"/>
-            <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>4<font size="7.5"></font><font face="SnellRoundhand BoldScript"></font>e<font size="12"></font><font face="SnellRoundhand BoldScript"></font> Couplet. Mineur</text>
-            </StaffText>
           <StaffText>
             <placement>below</placement>
             <family>Times</family>
@@ -4524,6 +4545,16 @@
           </voice>
         </Measure>
       <Measure len="2/8">
+        <Jump>
+          <autoplace>0</autoplace>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="9.96291" y="16.1355"/>
+          <text>au Rondeau pour finir</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -7290,6 +7321,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <Chord>
