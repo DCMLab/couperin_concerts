@@ -16,3 +16,7 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 20) ms3.Parse.couperin_concerts.c08n
 INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 44) ms3.Parse.couperin_concerts.c09n07_douceur
 	The incomplete MC 44 (timesig 3/8, act_dur 3/16) is completed by 1 incorrect duration (expected: 3/16):
 	{18: Fraction(3, 8)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 22) ms3.Parse.couperin_concerts.c10n03_plainte
+	The incomplete MC 22 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{23: Fraction(7, 8)}

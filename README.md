@@ -173,7 +173,7 @@ Concerts 12 & 13 not annotated
 |c09n08_caetera              |      23|    73|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c10n01_gravement            |      14|    73|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c10n02_air                  |      32|   122|2.1.0   |Tobias Drewelius   |Johannes Menke|
-|c10n03_plainte              |      37|    88|2.1.0   |Tobias Drewelius   |Johannes Menke|
+|c10n03_plainte              |      36|    88|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c10n04_tromba               |      42|    66|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n01_majestueusement      |      38|    85|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n02_allemande            |      22|   116|2.1.0   |Tobias Drewelius   |Johannes Menke|
