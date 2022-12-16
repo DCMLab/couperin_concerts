@@ -574,13 +574,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <Marker>
-          <style>Repeat Text Left</style>
-          <offset x="11.637" y="-4.76643"/>
-          <text><sym>segno</sym></text>
-          <label>segno</label>
-          </Marker>
+      <Measure len="3/8">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -602,6 +596,19 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Left</style>
+          <text><sym>segno</sym></text>
+          <label>segno</label>
+          </Marker>
+        <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
@@ -4552,7 +4559,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4570,10 +4577,20 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
           <StaffText>
             <text>renvoy</text>
             </StaffText>
