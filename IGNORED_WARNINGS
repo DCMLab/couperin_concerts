@@ -1,0 +1,6 @@
+UNUSED_FINE_MARKER_WARNING (20, 14) ms3.Parse.couperin_concerts.c07n01_grave
+	Piece has a Fine but the last MC is missing a repeat sign or a D.C. (da capo) or D.S. (dal segno). Ignoring Fine.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 33) ms3.Parse.couperin_concerts.c06n02_allemande
+	The incomplete MC 33 (timesig 1, act_dur 1/8) is completed by 1 incorrect duration (expected: 7/8):
+	{13: Fraction(5, 8)}
