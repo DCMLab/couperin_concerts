@@ -1,0 +1,425 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw#",
+    {
+      "@language": "en "
+    }
+  ],
+  "dc:title": "DCML harmony annotations for couperin_concerts",
+  "dialect": {
+    "delimiter": "\t"
+  },
+  "dc:description": "One feature matrix per score, containing one line per label. The first columns (until 'label') are the same as in extracted 'labels' tables with the difference that only those harmony labels that match the DCML harmony annotation standard (dcmlab.github.io/standards) are included. Since these follow a specific syntax, they can be split into their components (features) and transformed into scale degrees. For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
+  "dc:created": "2022-12-16T11:29:50",
+  "dc:creator": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/johentsch/ms3",
+      "name": "ms3",
+      "description": "A parser for MuseScore 3 files.",
+      "author": {
+        "name": "Johannes Hentschel",
+        "@id": "https://orcid.org/0000-0002-1986-9545"
+      },
+      "softwareVersion": "1.0.3"
+    }
+  ],
+  "tables": [
+    {
+      "url": "c01n01_prelude.tsv"
+    },
+    {
+      "url": "c01n02_allemande.tsv"
+    },
+    {
+      "url": "c01n03_sarabande.tsv"
+    },
+    {
+      "url": "c01n04_gavotte.tsv"
+    },
+    {
+      "url": "c01n05_gigue.tsv"
+    },
+    {
+      "url": "c01n06_menuet_en_trio.tsv"
+    },
+    {
+      "url": "c02n01_prelude.tsv"
+    },
+    {
+      "url": "c02n02_allemande_fuguee.tsv"
+    },
+    {
+      "url": "c02n03_air_tendre.tsv"
+    },
+    {
+      "url": "c02n04_air_contrefugue.tsv"
+    },
+    {
+      "url": "c02n05_echos.tsv"
+    },
+    {
+      "url": "c03n01_prelude.tsv"
+    },
+    {
+      "url": "c03n02_allemande.tsv"
+    },
+    {
+      "url": "c03n03_courante.tsv"
+    },
+    {
+      "url": "c03n04_sarabande_grave.tsv"
+    },
+    {
+      "url": "c03n05_gavotte.tsv"
+    },
+    {
+      "url": "c03n06_musette_1.tsv"
+    },
+    {
+      "url": "c03n07_musette_2.tsv"
+    },
+    {
+      "url": "c03n08_chaconne_legere.tsv"
+    },
+    {
+      "url": "c04n01_prelude.tsv"
+    },
+    {
+      "url": "c04n02_allemande.tsv"
+    },
+    {
+      "url": "c04n03_courante_francoise.tsv"
+    },
+    {
+      "url": "c04n04_courante_a_litalienne.tsv"
+    },
+    {
+      "url": "c04n05_sarabande.tsv"
+    },
+    {
+      "url": "c04n06_rigaudon.tsv"
+    },
+    {
+      "url": "c04n07_forlane.tsv"
+    },
+    {
+      "url": "c05n01_prelude.tsv"
+    },
+    {
+      "url": "c05n02_allemande.tsv"
+    },
+    {
+      "url": "c05n03_sarabande.tsv"
+    },
+    {
+      "url": "c05n04_gavote.tsv"
+    },
+    {
+      "url": "c05n05_musete.tsv"
+    },
+    {
+      "url": "c06n01_grave.tsv"
+    },
+    {
+      "url": "c06n02_allemande.tsv"
+    },
+    {
+      "url": "c06n03_sarabande.tsv"
+    },
+    {
+      "url": "c06n04_air_diable.tsv"
+    },
+    {
+      "url": "c06n05_siciliene.tsv"
+    },
+    {
+      "url": "c07n01_grave.tsv"
+    },
+    {
+      "url": "c07n02_allemande.tsv"
+    },
+    {
+      "url": "c07n03_sarabande.tsv"
+    },
+    {
+      "url": "c07n04_fuguete.tsv"
+    },
+    {
+      "url": "c07n05_gavote.tsv"
+    },
+    {
+      "url": "c07n06_siciliene.tsv"
+    },
+    {
+      "url": "c08n01_ouverture.tsv"
+    },
+    {
+      "url": "c08n02_ritournele.tsv"
+    },
+    {
+      "url": "c08n03_air.tsv"
+    },
+    {
+      "url": "c08n04_air_tendre.tsv"
+    },
+    {
+      "url": "c08n05_air_leger.tsv"
+    },
+    {
+      "url": "c08n06_Loure.tsv"
+    },
+    {
+      "url": "c08n07_air.tsv"
+    },
+    {
+      "url": "c08n08_sarabande.tsv"
+    },
+    {
+      "url": "c08n09_air_leger.tsv"
+    },
+    {
+      "url": "c08n10_air_lentement.tsv"
+    },
+    {
+      "url": "c08n11_air_baccantes.tsv"
+    },
+    {
+      "url": "c09n01_charme.tsv"
+    },
+    {
+      "url": "c09n02_lenjouement.tsv"
+    },
+    {
+      "url": "c09n03_graces.tsv"
+    },
+    {
+      "url": "c09n04_Lejene.tsv"
+    },
+    {
+      "url": "c09n05_vivacite.tsv"
+    },
+    {
+      "url": "c09n06_Sarabande.tsv"
+    },
+    {
+      "url": "c09n07_douceur.tsv"
+    },
+    {
+      "url": "c09n08_caetera.tsv"
+    },
+    {
+      "url": "c10n01_gravement.tsv"
+    },
+    {
+      "url": "c10n02_air.tsv"
+    },
+    {
+      "url": "c10n03_plainte.tsv"
+    },
+    {
+      "url": "c10n04_tromba.tsv"
+    },
+    {
+      "url": "c11n01_majestueusement.tsv"
+    },
+    {
+      "url": "c11n02_allemande.tsv"
+    },
+    {
+      "url": "c11n03_seconde_allemande.tsv"
+    },
+    {
+      "url": "c11n04_courante.tsv"
+    },
+    {
+      "url": "c11n05_seconde_courante.tsv"
+    },
+    {
+      "url": "c11n06_sarabande.tsv"
+    },
+    {
+      "url": "c11n07_gigue.tsv"
+    },
+    {
+      "url": "c11n08_Rondeau.tsv"
+    },
+    {
+      "url": "c14n01_gravement.tsv"
+    },
+    {
+      "url": "c14n02_allemande.tsv"
+    },
+    {
+      "url": "c14n03_sarabande.tsv"
+    },
+    {
+      "url": "c14n04_fuguete.tsv"
+    },
+    {
+      "url": "parnasse_01.tsv"
+    },
+    {
+      "url": "parnasse_02.tsv"
+    },
+    {
+      "url": "parnasse_03.tsv"
+    },
+    {
+      "url": "parnasse_04.tsv"
+    },
+    {
+      "url": "parnasse_05.tsv"
+    },
+    {
+      "url": "parnasse_06.tsv"
+    },
+    {
+      "url": "parnasse_07.tsv"
+    }
+  ],
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "mc",
+        "datatype": "integer",
+        "dc:description": "Measure count."
+      },
+      {
+        "titles": "mn",
+        "datatype": "string",
+        "dc:description": "Measure number."
+      },
+      {
+        "titles": "quarterbeats",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "duration_qb",
+        "datatype": "float"
+      },
+      {
+        "titles": "mc_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MC."
+      },
+      {
+        "titles": "mn_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MN."
+      },
+      {
+        "titles": "timesig",
+        "datatype": "string"
+      },
+      {
+        "titles": "staff",
+        "datatype": "integer"
+      },
+      {
+        "titles": "voice",
+        "datatype": "integer"
+      },
+      {
+        "titles": "volta",
+        "datatype": "integer"
+      },
+      {
+        "titles": "label",
+        "datatype": "string"
+      },
+      {
+        "titles": "alt_label",
+        "datatype": "string"
+      },
+      {
+        "titles": "globalkey",
+        "datatype": "string"
+      },
+      {
+        "titles": "localkey",
+        "datatype": "string"
+      },
+      {
+        "titles": "pedal",
+        "datatype": "string"
+      },
+      {
+        "titles": "chord",
+        "datatype": "string"
+      },
+      {
+        "titles": "numeral",
+        "datatype": "string"
+      },
+      {
+        "titles": "form",
+        "datatype": "string"
+      },
+      {
+        "titles": "figbass",
+        "datatype": "string"
+      },
+      {
+        "titles": "changes",
+        "datatype": "string"
+      },
+      {
+        "titles": "relativeroot",
+        "datatype": "string"
+      },
+      {
+        "titles": "cadence",
+        "datatype": "string"
+      },
+      {
+        "titles": "phraseend",
+        "datatype": "string"
+      },
+      {
+        "titles": "chord_type",
+        "datatype": "string"
+      },
+      {
+        "titles": "globalkey_is_minor",
+        "datatype": "boolean"
+      },
+      {
+        "titles": "localkey_is_minor",
+        "datatype": "boolean"
+      },
+      {
+        "titles": "chord_tones",
+        "datatype": {
+          "base": "string",
+          "format": "\\(-?\\d+, ?-?\\d+\\)"
+        }
+      },
+      {
+        "titles": "added_tones",
+        "datatype": {
+          "base": "string",
+          "format": "\\(-?\\d+, ?-?\\d+\\)"
+        }
+      },
+      {
+        "titles": "root",
+        "datatype": "integer"
+      },
+      {
+        "titles": "bass_note",
+        "datatype": "integer"
+      }
+    ]
+  }
+}
