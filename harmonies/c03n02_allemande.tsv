@@ -1,5 +1,5 @@
 mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	0	1/4	0.25	1/16	5/16	4/4	1	1	.A.I	A	I		I	I							M	0	0	0, 4, 1		0	0
+1	0	1/4	0.25	1/16	5/16	4/4	1	1	A.I	A	I		I	I							M	0	0	0, 4, 1		0	0
 1	0	1/2	0.5	1/8	3/8	4/4	1	1	viio6	A	I		viio6	vii	o	6					o	0	0	2, -1, 5		5	2
 1	0	1	0.5	1/4	1/2	4/4	1	1	I6	A	I		I6	I		6					M	0	0	4, 1, 0		0	4
 1	0	3/2	0.5	3/8	5/8	4/4	1	1	I	A	I		I	I							M	0	0	0, 4, 1		0	0
@@ -48,9 +48,9 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 10	8	31	1.0	0	0	4/4	1	1	I	A	I		I	I							M	0	0	0, 4, 1		0	0
 10	8	32	0.5	1/4	1/4	4/4	1	1	I6	A	I		I6	I		6					M	0	0	4, 1, 0		0	4
 10	8	65/2	0.5	3/8	3/8	4/4	1	1	IM7	A	I		IM7	I	M	7					MM7	0	0	0, 4, 1, 5		0	0
-10	8	33	1.0	1/2	1/2	4/4	1	1	vi.VI7	A	vi		VI7	VI		7					Mm7	0	1	-4, 0, -3, -6		-4	-4
-10	8	34	0.5	3/4	3/4	4/4	1	1	vii%43	A	vi		vii%43	vii	%	43					%7	0	1	-8, -4, -2, -5		-2	-8
-10	8	69/2	0.5	7/8	7/8	4/4	1	1	vii%65	A	vi		vii%65	vii	%	65					%7	0	1	-5, -8, -4, -2		-2	-5
+10	8	33	1.0	1/2	1/2	4/4	1	1	vi.VIM7	A	vi		VIM7	VI	M	7					MM7	0	1	-4, 0, -3, 1		-4	-4
+10	8	34	0.5	3/4	3/4	4/4	1	1	ii%43	A	vi		ii%43	ii	%	43					%7	0	1	-4, 0, 2, -1		2	-4
+10	8	69/2	0.5	7/8	7/8	4/4	1	1	ii%65	A	vi		ii%65	ii	%	65					%7	0	1	-1, -4, 0, 2		2	-1
 11	8	35	1.0	0	0	4/4	1	1	V	A	vi		V	V							M	0	1	1, 5, 2		1	1
 11	8	36	1.0	1/4	1/4	4/4	1	1	III+6	A	vi		III+6	III	+	6					+	0	1	1, 5, -3		-3	1
 11	8	37	1.0	1/2	1/2	4/4	1	1	VI	A	vi		VI	VI							M	0	1	-4, 0, -3		-4	-4
