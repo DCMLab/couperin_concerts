@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -5130,14 +5130,13 @@
           </voice>
         </Measure>
       <Measure>
-        <Marker>
-          <style>Repeat Text Right</style>
-          <placement>below</placement>
-          <offset x="-0.512228" y="17.3576"/>
-          <text>Fine</text>
-          <label>fine</label>
-          </Marker>
         <voice>
+          <StaffText>
+            <placement>below</placement>
+            <size>11</size>
+            <offset x="-0.177574" y="5.49563"/>
+            <text>Fin</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
