@@ -4215,6 +4215,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.58693</minDistance>
+            <offset x="0.0193234" y="0.0129725"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4232,6 +4234,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-2.68836</minDistance>
+            <offset x="0.0193234" y="2.12431"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4247,6 +4251,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>7</digit>
               </FiguredBassItem>
+            <minDistance>-6.90086</minDistance>
+            <offset x="0" y="0.0117087"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4375,7 +4381,8 @@
               <digit>3</digit>
               <continuationLine>2</continuationLine>
               </FiguredBassItem>
-            <offset x="0.34916" y="5.88361"/>
+            <minDistance>-3.22044</minDistance>
+            <offset x="-0.0198556" y="-0.0206403"/>
             </FiguredBass>
           <location>
             <fractions>1/8</fractions>
@@ -4483,7 +4490,7 @@
               </Note>
             </Chord>
           <FiguredBass>
-            <ticks>1/4</ticks>
+            <ticks>2/8</ticks>
             <FiguredBassItem>
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>6</digit>
@@ -4497,6 +4504,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.58693</minDistance>
+            <offset x="0.0193234" y="0.0129725"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4514,6 +4523,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-2.68836</minDistance>
+            <offset x="0.0193234" y="2.12431"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4524,11 +4535,13 @@
               </Note>
             </Chord>
           <FiguredBass>
-            <ticks>1/4</ticks>
+            <ticks>2/8</ticks>
             <FiguredBassItem>
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>7</digit>
               </FiguredBassItem>
+            <minDistance>-3.59186</minDistance>
+            <offset x="0" y="0.132348"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
