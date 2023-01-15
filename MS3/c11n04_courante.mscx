@@ -1965,7 +1965,7 @@
       <Measure>
         <Marker>
           <style>Repeat Text Left</style>
-          <offset x="17.8837" y="-1.63765"/>
+          <offset x="13.0306" y="-1.65585"/>
           <text><sym>segno</sym></text>
           <label>segno</label>
           </Marker>
@@ -1975,6 +1975,7 @@
             <name>V</name>
             </Harmony>
           <Chord>
+            <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
@@ -2034,22 +2035,10 @@
             <harmonyType>1</harmonyType>
             <name>iv7</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -2063,14 +2052,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
+            <durationType>16th</durationType>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -2346,6 +2328,7 @@
               </next>
             </Spanner>
           <Chord>
+            <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
@@ -2391,7 +2374,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-5/16</fractions>
+            <fractions>-3/8</fractions>
             </location>
           <Spanner type="Volta">
             <prev>
@@ -2401,7 +2384,7 @@
               </prev>
             </Spanner>
           <location>
-            <fractions>5/16</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2414,15 +2397,6 @@
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>3/16</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -2436,14 +2410,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-3/16</fractions>
-                  </location>
-                </prev>
-              </Spanner>
+            <durationType>16th</durationType>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
