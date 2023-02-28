@@ -1,20 +1,20 @@
-mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline	breaks	repeats	markers	jump_bwd	jump_fwd	play_until	next
-1	0	-2	6/4	1/8	11/8			1			firstMeasure					2
-2	1	-2	6/4	3/2	0											3
-3	2	-2	6/4	3/2	0											4
-4	3	-2	6/4	3/2	0											5
-5	4	-2	6/4	3/2	0											6
-6	5	-2	6/4	3/2	0											7
-7	6	-2	6/4	3/2	0											8
-8	7	-2	6/4	11/8	0						end					1, 9
-9	7	-2	6/4	1/8	11/8			1			start					10
-10	8	-2	6/4	3/2	0											11
-11	9	-2	6/4	3/2	0											12
-12	10	-2	6/4	3/2	0											13
-13	11	-2	6/4	3/2	0											14
-14	12	-2	6/4	3/2	0											15
-15	13	-2	6/4	3/2	0											16
-16	14	-2	6/4	3/2	0							segno				17
-17	15	-2	6/4	3/2	0											18, 19
-18	16	-2	6/4	11/8	0	1					end	fine				9
-19	16	-2	6/4	3/4	0	2		1			end		segno		fine	16
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline	breaks	repeats	markers	jump_bwd	jump_fwd	play_until	next
+1	0	0	0	0.5	-2	6/4	1/8	11/8			1			firstMeasure					2
+2	1	1/2	1/2	6.0	-2	6/4	3/2	0											3
+3	2	13/2	13/2	6.0	-2	6/4	3/2	0											4
+4	3	25/2	25/2	6.0	-2	6/4	3/2	0											5
+5	4	37/2	37/2	6.0	-2	6/4	3/2	0											6
+6	5	49/2	49/2	6.0	-2	6/4	3/2	0											7
+7	6	61/2	61/2	6.0	-2	6/4	3/2	0											8
+8	7	73/2	73/2	5.5	-2	6/4	11/8	0						end					1, 9
+9	7	42	42	0.5	-2	6/4	1/8	11/8			1			start					10
+10	8	85/2	85/2	6.0	-2	6/4	3/2	0											11
+11	9	97/2	97/2	6.0	-2	6/4	3/2	0											12
+12	10	109/2	109/2	6.0	-2	6/4	3/2	0											13
+13	11	121/2	121/2	6.0	-2	6/4	3/2	0											14
+14	12	133/2	133/2	6.0	-2	6/4	3/2	0											15
+15	13	145/2	145/2	6.0	-2	6/4	3/2	0											16
+16	14	157/2	157/2	6.0	-2	6/4	3/2	0							segno				17
+17	15	169/2	169/2	6.0	-2	6/4	3/2	0											18, 19
+18	16		181/2	5.5	-2	6/4	11/8	0	1					end	fine				9
+19	16	181/2	96	3.0	-2	6/4	3/4	0	2		1			end		segno		fine	16

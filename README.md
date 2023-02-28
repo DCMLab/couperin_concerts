@@ -142,7 +142,7 @@ Concerts 12 & 13 not annotated
 |c05n04_gavote               |      32|    98|2.1.0   |Johannes Menke     |              |
 |c05n05_musete               |      54|   118|2.1.0   |Johannes Menke     |              |
 |c06n01_grave                |      24|   108|2.1.0   |Johannes Menke     |              |
-|c06n02_allemande            |      31|   124|2.1.0   |Johannes Menke     |              |
+|c06n02_allemande            |      31|   123|2.1.0   |Johannes Menke     |              |
 |c06n03_sarabande            |      44|   114|2.1.0   |Johannes Menke     |              |
 |c06n04_air_diable           |      44|   100|2.1.0   |Johannes Menke     |              |
 |c06n05_siciliene            |      21|   125|2.1.0   |Johannes Menke     |              |
@@ -201,3 +201,6 @@ Concerts 12 & 13 not annotated
 |parnasse_05                 |      26|    99|2.1.0   |Johannes Menke     |              |
 |parnasse_06                 |      32|    56|2.1.0   |Johannes Menke     |              |
 |parnasse_07                 |      53|   224|2.1.0   |Johannes Menke     |              |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
