@@ -1275,7 +1275,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>III.V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1355,7 +1355,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.ii65</name>
+            <name>ii65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
