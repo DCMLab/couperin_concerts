@@ -3066,7 +3066,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V</name>
+            <name>i.iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3102,6 +3102,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/III</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
