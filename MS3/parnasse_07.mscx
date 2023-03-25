@@ -6099,10 +6099,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -6119,7 +6115,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>V/iv</name>
+            <offset x="-0.224822" y="-2.61241"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
