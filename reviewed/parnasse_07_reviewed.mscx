@@ -3738,13 +3738,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6703,7 +6697,7 @@
           <style>Repeat Text Right</style>
           <placement>below</placement>
           <offset x="-1.98335" y="29.2044"/>
-          <text>Fine</text>
+          <text>Fin.</text>
           <label>fine</label>
           </Marker>
         <voice>
