@@ -6532,7 +6532,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <StaffText>
             <placement>below</placement>
