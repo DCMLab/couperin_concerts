@@ -4563,7 +4563,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7/iv</name>
+            <name>ii%7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
