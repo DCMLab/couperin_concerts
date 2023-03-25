@@ -4,14 +4,5 @@ Warnings encountered during the last execution of ms3 review (v1.2.5)
 UNUSED_FINE_MARKER_WARNING (20, 53) ms3.Parse.couperin_concerts.parnasse_07 -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 266) __init__():
 	Piece has a Fine but the last MC is missing a repeat sign or a D.C. (da capo) or D.S. (dal segno). Ignoring Fine.
 Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
-                                        mc  mn mc_onset        label      chord_tones added_tones  n_colored  n_untouched  count_ratio
-couperin_concerts MS3/parnasse_07.mscx  16  16      7/8  i.viio64/iv      (-4, 2, -1)          ()          5            0     1.000000
-                  MS3/parnasse_07.mscx  17  17      3/4         vi%7  (1, -2, -5, -1)          ()          1            0     1.000000
-                  MS3/parnasse_07.mscx  21  21      1/2         vi%7  (0, -3, -6, -2)          ()         10            0     1.000000
-                  MS3/parnasse_07.mscx  25  25      3/8        iio64        (0, 6, 3)          ()          2            0     1.000000
-                  MS3/parnasse_07.mscx  31  31      3/8            V       (6, 10, 7)          ()          2            1     0.666667
-                  MS3/parnasse_07.mscx  33  33      1/4          vi7   (1, -2, 2, -1)          ()          2            1     0.666667
-                  MS3/parnasse_07.mscx  38  38      1/2         vi%7   (2, -1, -4, 0)          ()          2            0     1.000000
-                  MS3/parnasse_07.mscx  39  39        0      vi%7/iv  (1, -2, -5, -1)          ()          3            0     1.000000
-                  MS3/parnasse_07.mscx  44  44      1/2        viio6       (0, -3, 3)          ()          8            1     0.888889
-                  MS3/parnasse_07.mscx  50  50      1/4           iv        (4, 1, 5)          ()          2            1     0.666667
+                                        mc  mn mc_onset label chord_tones added_tones  n_colored  n_untouched  count_ratio
+couperin_concerts MS3/parnasse_07.mscx  31  31      3/8     V  (6, 10, 7)          ()          2            1     0.666667
