@@ -5078,7 +5078,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14845,6 +14845,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>2</digit>
               </FiguredBassItem>
+            <minDistance>-2.87233</minDistance>
+            <offset x="-0.112411" y="0.727448"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14868,6 +14870,8 @@
               <prefix>4</prefix>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-5.57019</minDistance>
+            <offset x="0.337233" y="0.556923"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -14887,6 +14891,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.77161</minDistance>
+            <offset x="-0.786876" y="0.385084"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14928,6 +14934,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-4.22126</minDistance>
+            <offset x="-0.112411" y="1.1784"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
