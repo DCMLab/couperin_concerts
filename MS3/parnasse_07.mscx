@@ -6529,13 +6529,6 @@
           </voice>
         </Measure>
       <Measure>
-        <Marker>
-          <style>Repeat Text Right</style>
-          <placement>below</placement>
-          <offset x="-1.98335" y="29.2044"/>
-          <text>Fin.</text>
-          <label>fine</label>
-          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
