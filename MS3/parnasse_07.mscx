@@ -6188,7 +6188,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>V/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6268,7 +6268,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>V/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
