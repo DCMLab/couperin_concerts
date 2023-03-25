@@ -4453,6 +4453,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v.i</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4480,7 +4484,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
