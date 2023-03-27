@@ -814,7 +814,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.V</name>
+            <name>V.V/V</name>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -825,7 +825,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7</name>
+            <name>I6</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -865,7 +865,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -912,7 +912,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -941,7 +941,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.vi7</name>
+            <name>vi7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
