@@ -1927,6 +1927,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <minDistance>-2.19786</minDistance>
+            <offset x="0.224822" y="-3.18201"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2167,7 +2169,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2191,7 +2193,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii.i</name>
+            <name>iii.i{</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5474,6 +5476,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.77161</minDistance>
+            <offset x="0.224822" y="2.10564"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
