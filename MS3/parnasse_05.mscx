@@ -275,7 +275,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>D.I</name>
+            <name>D.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.6333333333333333</tempo>
@@ -337,7 +337,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
