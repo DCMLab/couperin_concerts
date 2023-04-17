@@ -1541,7 +1541,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>ii6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
