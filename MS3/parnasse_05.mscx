@@ -1736,6 +1736,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/VII</name>
+            <offset x="-0.786876" y="-5.08545"/>
             </Harmony>
           </voice>
         </Measure>
@@ -1744,8 +1745,8 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII</name>
-            <minDistance>-1.41098</minDistance>
-            <offset x="0.337233" y="-3.04889"/>
+            <minDistance>-4.33367</minDistance>
+            <offset x="-0.337233" y="-2.71166"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1787,7 +1788,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>viio7/i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
