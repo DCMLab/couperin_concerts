@@ -3261,16 +3261,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -3422,6 +3412,9 @@
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <text>35</text>
+          </MeasureNumber>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -14330,6 +14323,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-4.6709</minDistance>
+            <offset x="0" y="3.02865"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
