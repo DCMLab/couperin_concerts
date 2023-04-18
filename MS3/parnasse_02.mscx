@@ -5453,7 +5453,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7</name>
+            <name>VIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16201,6 +16201,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.6475</minDistance>
+            <offset x="0" y="0.95227"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
