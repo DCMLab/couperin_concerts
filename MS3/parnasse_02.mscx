@@ -4999,7 +4999,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII6</name>
+            <name>V6/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15831,6 +15831,8 @@
               <digit>2</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-8.49287</minDistance>
+            <offset x="0" y="1.00657"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
