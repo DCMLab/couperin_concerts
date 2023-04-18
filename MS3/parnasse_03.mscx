@@ -3072,7 +3072,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v.i6</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -3082,13 +3082,20 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V43</name>
+            <name>V43</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
