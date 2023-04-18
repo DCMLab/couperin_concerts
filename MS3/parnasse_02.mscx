@@ -795,7 +795,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.ii7</name>
+            <name>iv7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -813,7 +813,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -825,7 +825,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -836,7 +836,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
