@@ -279,7 +279,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>D.V</name>
+            <name>D.V{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -493,7 +493,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
