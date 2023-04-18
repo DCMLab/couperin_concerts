@@ -282,7 +282,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>D.IV</name>
+            <name>D.IV{</name>
             </Harmony>
           <Tempo>
             <tempo>2.3333333333333335</tempo>
@@ -616,7 +616,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
