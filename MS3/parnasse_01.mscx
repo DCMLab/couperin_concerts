@@ -2344,7 +2344,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
