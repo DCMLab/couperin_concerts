@@ -263,7 +263,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.i</name>
+            <name>d.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.9000000000000001</tempo>
@@ -484,7 +484,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1007,6 +1007,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/IV</name>
+            <minDistance>0.5</minDistance>
+            <offset x="0" y="-3.41999"/>
             </Harmony>
           </voice>
         </Measure>
