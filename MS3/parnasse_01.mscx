@@ -2229,7 +2229,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.PHR}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5694,6 +5694,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-4.89572</minDistance>
+            <offset x="-0.337233" y="0.50394"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
