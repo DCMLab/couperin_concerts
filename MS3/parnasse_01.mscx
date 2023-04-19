@@ -1103,7 +1103,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V65</name>
+            <name>V65/vi</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -1128,7 +1128,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)</name>
+            <name>vi(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
