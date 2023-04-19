@@ -1021,6 +1021,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.112411" y="0.674465"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1105,6 +1106,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/VII</name>
+            <minDistance>-0.286876</minDistance>
+            <offset x="0.112411" y="-2.83312"/>
             </Harmony>
           </voice>
         </Measure>
@@ -1126,6 +1129,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.449643" y="1.12411"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1320,7 +1324,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6711,6 +6715,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6592</minDistance>
+            <offset x="0.224822" y="0.440572"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
