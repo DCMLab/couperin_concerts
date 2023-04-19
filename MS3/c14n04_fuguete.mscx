@@ -4505,7 +4505,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7</name>
+            <name>vii%7/VII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
