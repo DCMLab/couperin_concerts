@@ -978,7 +978,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v7</name>
+            <name>#viio(2)/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1001,19 +1001,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65/IV</name>
-            <minDistance>0.5</minDistance>
-            <offset x="0" y="-3.41999"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
