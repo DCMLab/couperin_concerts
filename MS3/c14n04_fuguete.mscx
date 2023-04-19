@@ -2128,7 +2128,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -7404,6 +7404,8 @@
               <prefix>4</prefix>
               <digit>2</digit>
               </FiguredBassItem>
+            <minDistance>-4.22126</minDistance>
+            <offset x="-0.337233" y="-0.121482"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
