@@ -2473,7 +2473,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2525,6 +2525,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v.i</name>
+            <minDistance>-5.00813</minDistance>
+            <offset x="-0.562054" y="-3.47157"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2534,6 +2536,8 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.337233" y="4.1592"/>
               </Articulation>
             <Note>
               <Accidental>
