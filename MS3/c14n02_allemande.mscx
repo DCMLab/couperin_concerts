@@ -3018,6 +3018,7 @@
         </Measure>
       <Measure len="1/8">
         <endRepeat>2</endRepeat>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3053,6 +3054,10 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
