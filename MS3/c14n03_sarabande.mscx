@@ -1318,7 +1318,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1348,6 +1348,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/iv</name>
+            <offset x="0.112411" y="-3.82956"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
