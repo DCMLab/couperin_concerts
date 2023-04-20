@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -145,7 +146,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -266,6 +266,12 @@
             <harmonyType>1</harmonyType>
             <name>d.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>0.8666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 52</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
