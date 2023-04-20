@@ -1,9 +1,9 @@
 Warnings encountered during the last execution of ms3 review (v1.2.5)
 =====================================================================
 
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.couperin_concerts.c14n02_allemande -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
-	The incomplete MC 9 (timesig 1, act_dur 1/8) is completed by 1 incorrect duration (expected: 7/8):
-	{1: Fraction(1, 1), 10: Fraction(7, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 24) ms3.Parse.couperin_concerts.c14n02_allemande -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 24 (timesig 1, act_dur 1/8) is completed by 1 incorrect duration (expected: 7/8):
+	{1: Fraction(1, 1)}
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c14n02_allemande -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5144) check_phrase_annotations():
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
@@ -11,18 +11,17 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c14n02_allema
 	            3a         {             6a         }
 	            6a         {             7a         }
 	            7a         {             9a         }
+	            9a         {            11a         }
+	           11a         {            13a         }
+	           13a         {            16a         }
+	           16a         {            18a         }
+	           18a         {            24a         }
 	            1b         {             3b         }
 	            3b         {             6b         }
 	            6b         {             7b         }
 	            7b         {             9b         }
-	            9b         {            11a         }
-	           11a         {            13a         }
-	           13a         {            16a         }
-	           16a         {            18a         }
-	           18a         {            24a        }{
-	           24a        }{            11b         }
-	           24a         {            13b         }
-	           11b         {            16b         }
-	           13b         {            18b         }
-	           16b         {            24b         }
+	            9b         {            11b         }
+	           11b         {            13b         }
+	           13b         {            16b         }
+	           16b         {            18b         }
 	           18b         {            NaN       NaN
