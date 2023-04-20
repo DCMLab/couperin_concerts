@@ -1258,7 +1258,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.PHR}</name>
+            <name>V|HC.PHR}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1287,7 +1287,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III{</name>
+            <name>III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
