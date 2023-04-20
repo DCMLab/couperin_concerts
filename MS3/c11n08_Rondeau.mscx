@@ -717,7 +717,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(11#72)</name>
+            <name>III+M7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4302,6 +4302,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-4.6709</minDistance>
+            <offset x="-0.112411" y="0.728761"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
