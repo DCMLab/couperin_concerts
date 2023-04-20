@@ -1265,8 +1265,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/8">
-        <endRepeat>2</endRepeat>
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1291,19 +1290,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure len="7/8">
-        <startRepeat/>
-        <irregular>1</irregular>
-        <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III{</name>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -1331,13 +1321,13 @@
             <harmonyType>1</harmonyType>
             <name>VII</name>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -3031,7 +3021,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3060,10 +3050,6 @@
       <Measure>
         <irregular>1</irregular>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
-            </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -3080,7 +3066,7 @@
               <beginText>2.</beginText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.1498"/>
+                <offset x="0" y="-8.33862"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <endings>2</endings>
@@ -4040,7 +4026,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/8">
+      <Measure>
         <voice>
           <FiguredBass>
             <ticks>1/8</ticks>
@@ -4058,19 +4044,12 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure len="7/8">
-        <voice>
           <StaffText>
             <offset x="0" y="-6.67581"/>
             <text>Reprise</text>
             </StaffText>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
