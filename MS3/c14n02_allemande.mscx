@@ -2200,6 +2200,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43</name>
+            <minDistance>-6.8067</minDistance>
+            <offset x="-0.674465" y="-2.98088"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2230,6 +2232,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.224822" y="-3.1475"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -3008,7 +3011,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3039,7 +3042,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
