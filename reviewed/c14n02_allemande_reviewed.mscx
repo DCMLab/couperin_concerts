@@ -3061,6 +3061,7 @@
         </Measure>
       <Measure len="1/8">
         <endRepeat>2</endRepeat>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3084,15 +3085,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3105,6 +3097,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -3130,22 +3127,7 @@
               </next>
             </Spanner>
           <Chord>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
+            <durationType>whole</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
@@ -5298,15 +5280,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5319,22 +5292,7 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <dots>2</dots>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
+            <durationType>whole</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>38</pitch>
