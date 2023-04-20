@@ -2353,10 +2353,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/iv</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2366,7 +2362,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6/iv</name>
+            <name>VII6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
