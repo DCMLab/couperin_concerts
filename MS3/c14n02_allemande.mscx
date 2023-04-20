@@ -3041,6 +3041,15 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -3078,7 +3087,22 @@
               </next>
             </Spanner>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>2</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>74</pitch>
@@ -5209,6 +5233,15 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5221,7 +5254,22 @@
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>2</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>38</pitch>
