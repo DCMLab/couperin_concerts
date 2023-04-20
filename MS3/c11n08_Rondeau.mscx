@@ -1434,7 +1434,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V</name>
+            <name>i.V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1946,6 +1946,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="3.25991"/>
               </Articulation>
             <Note>
               <pitch>65</pitch>
@@ -1954,7 +1956,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1978,7 +1980,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i</name>
+            <name>i.i{</name>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
