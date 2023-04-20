@@ -935,7 +935,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3734,6 +3734,8 @@
               <digit>7</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-2.42268</minDistance>
+            <offset x="0.112411" y="3.61436"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
