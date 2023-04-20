@@ -260,7 +260,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.i</name>
+            <name>d.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.4333333333333333</tempo>
@@ -392,7 +392,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.TEN}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
