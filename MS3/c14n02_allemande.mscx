@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
@@ -144,7 +145,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -250,7 +250,7 @@
           <text>c14n02</text>
           </Text>
         </VBox>
-      <Measure len="1/8">
+      <Measure>
         <voice>
           <TimeSig>
             <subtype>1</subtype>
@@ -261,23 +261,20 @@
             <offset x="-0.0951596" y="-4.71989"/>
             <text>Vivement</text>
             </SystemText>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure len="7/8">
-        <startRepeat/>
-        <irregular>1</irregular>
-        <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>d.i</name>
             <offset x="0.190319" y="-2.78548"/>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -309,9 +306,6 @@
             <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3097,7 +3091,7 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure len="1/8">
+      <Measure>
         <voice>
           <TimeSig>
             <subtype>1</subtype>
@@ -3107,15 +3101,8 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      <Measure len="7/8">
-        <voice>
           <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <FiguredBass>
             <ticks>1/8</ticks>
