@@ -1421,7 +1421,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V</name>
+            <name>i.V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1913,6 +1913,8 @@
         <endRepeat>2</endRepeat>
         <Jump>
           <style>Repeat Text Right</style>
+          <minDistance>-1.06413</minDistance>
+          <offset x="-6.85706" y="-3.91576"/>
           <text>D.S.</text>
           <jumpTo>segno</jumpTo>
           <playUntil>end</playUntil>
@@ -1931,6 +1933,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="3.25991"/>
               </Articulation>
             <Note>
               <pitch>65</pitch>
@@ -1939,7 +1943,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1954,7 +1958,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i</name>
+            <name>i.i{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1970,6 +1974,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
