@@ -624,7 +624,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2902,6 +2902,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-5.12054</minDistance>
+            <offset x="-0.112411" y="0.279118"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
