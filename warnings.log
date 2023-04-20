@@ -19,9 +19,10 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c14n02_allema
 	           11a         {            13a         }
 	           13a         {            16a         }
 	           16a         {            18a         }
-	           18a         {            24a         }
-	           24a         {            11b         }
-	           11b         {            13b         }
-	           13b         {            16b         }
-	           16b         {            18b         }
+	           18a         {            24a        }{
+	           24a        }{            11b         }
+	           24a         {            13b         }
+	           11b         {            16b         }
+	           13b         {            18b         }
+	           16b         {            24b         }
 	           18b         {            NaN       NaN
