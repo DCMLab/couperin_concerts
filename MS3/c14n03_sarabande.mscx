@@ -534,18 +534,21 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.253997" y="-4.51599"/>
+            <minDistance>-7.70599</minDistance>
+            <offset x="0.478819" y="-2.4035"/>
             <text>♯</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
+            <offset x="0" y="-5.94008"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0.224822" y="-0.786876"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -612,7 +615,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
