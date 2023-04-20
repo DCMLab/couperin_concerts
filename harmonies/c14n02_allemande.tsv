@@ -38,8 +38,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 8	8	30	1.0	1/2	1/2	4/4	1	1		iv	d	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
 8	8	31	0.5	3/4	3/4	4/4	1	1		iv6	d	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
 8	8	63/2	0.5	7/8	7/8	4/4	1	1		ii%43	d	i		ii%43	ii	%	43					%7	1	1	-4, 0, 2, -1		2	-4
-9	9	32	0.5	0	0	4/4	1	1		V|HC.PHR}	d	i		V	V					HC.PHR	}	M	1	1	1, 5, 2		1	1
-10	9	65/2	1.5	0	1/8	4/4	1	1		III{	d	i		III	III						{	M	1	1	-3, 1, -2		-3	-3
+9	9	32	0.5	0	0	4/4	1	1		V|HC.PHR}{	d	i		V	V					HC.PHR	}{	M	1	1	1, 5, 2		1	1
+10	9	65/2	1.5	0	1/8	4/4	1	1		III	d	i		III	III							M	1	1	-3, 1, -2		-3	-3
 10	9	34	2.0	3/8	1/2	4/4	1	1		VII	d	i		VII	VII							M	1	1	-2, 2, -1		-2	-2
 11	10	36	1.5	0	0	4/4	1	1		iv	d	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
 11	10	75/2	0.5	3/8	3/8	4/4	1	1		i64	d	i		i64	i		64					m	1	1	1, 0, -3		0	1
@@ -58,7 +58,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 14	13	50	4.0	1/2	1/2	4/4	1	1		I[I	d	VII	I	I	I							M	1	0	0, 4, 1		0	0
 15	14	54	2.0	1/2	1/2	4/4	1	1		V43	d	VII	I	V43	V		43					Mm7	1	0	2, -1, 1, 5		1	2
 16	15	56	2.0	0	0	4/4	1	1		I]	d	VII	I	I	I							M	1	0	0, 4, 1		0	0
-16	15	58	1.0	1/2	1/2	4/4	1	1		V65/III	d	VII		V65/III	V		65		III			Mm7	1	0	9, 6, 3, 5		5	9
+16	15	58	1.0	1/2	1/2	4/4	1	1		V65/IV	d	VII		V65/IV	V		65		IV			Mm7	1	0	4, 1, -2, 0		0	4
 16	15	59	1.0	3/4	3/4	4/4	1	1		IV	d	VII		IV	IV							M	1	0	-1, 3, 0		-1	-1
 17	16	60	0.5	0	0	4/4	1	1		I|PC}{	d	VII		I	I					PC	}{	M	1	0	0, 4, 1		0	0
 17	16	121/2	1.5	1/8	1/8	4/4	1	1		i.v6	d	i		v6	v		6					m	1	1	-2, 2, 1		1	-2
@@ -90,5 +90,5 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 24	23	181/2	0.5	5/8	5/8	4/4	1	1		ii%65	d	i		ii%65	ii	%	65					%7	1	1	-1, -4, 0, 2		2	-1
 24	23	91	0.5	3/4	3/4	4/4	1	1		V	d	i		V	V							M	1	1	1, 5, 2		1	1
 24	23	183/2	0.5	7/8	7/8	4/4	1	1		V7	d	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
-25	24			0	0	4/4	1	1	1	i|PAC}	d	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
-26	24	92	4.0	0	0	4/4	1	1	2	i|PAC	d	i		i	i					PAC		m	1	1	0, -3, 1		0	0
+25	24			0	0	4/4	1	1	1	i|PAC}{	d	i		i	i					PAC	}{	m	1	1	0, -3, 1		0	0
+26	24	92	4.0	0	0	4/4	1	1	2	i|PAC}	d	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
