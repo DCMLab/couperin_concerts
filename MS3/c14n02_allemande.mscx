@@ -1937,7 +1937,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V65</name>
+            <name>V65/III</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1964,7 +1964,8 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>IV</name>
+            <offset x="0.337233" y="-3.43645"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1995,7 +1996,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>I|PC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
