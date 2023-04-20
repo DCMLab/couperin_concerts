@@ -273,7 +273,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.i</name>
+            <name>d.i{</name>
             <offset x="0.190319" y="-2.78548"/>
             </Harmony>
           <Chord>
@@ -464,7 +464,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
