@@ -1287,7 +1287,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>III{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1468,7 +1468,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
