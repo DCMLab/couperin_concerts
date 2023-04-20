@@ -970,7 +970,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.vi7</name>
+            <name>ii7</name>
+            <offset x="0.112411" y="-3.54"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -1008,7 +1009,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>v</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1043,7 +1044,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/IV</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
