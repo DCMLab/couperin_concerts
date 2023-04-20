@@ -42,6 +42,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolPosBelow x="0" y="-4.5"/>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
@@ -147,7 +148,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -274,6 +274,13 @@
             <harmonyType>1</harmonyType>
             <name>c.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.6500000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-0.786876" y="-8.01922"/>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 66</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -1368,6 +1375,8 @@
         <endRepeat>2</endRepeat>
         <Jump>
           <style>Repeat Text Right</style>
+          <minDistance>-1.21</minDistance>
+          <offset x="-6.85706" y="-4.71989"/>
           <text>D.S.</text>
           <jumpTo>segno</jumpTo>
           <playUntil>end</playUntil>
@@ -1386,6 +1395,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="2.69786"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
