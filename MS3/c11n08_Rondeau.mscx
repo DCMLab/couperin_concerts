@@ -272,7 +272,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>c.i</name>
+            <name>c.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.6500000000000001</tempo>
@@ -907,7 +907,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -6662,6 +6662,7 @@
               <digit>5</digit>
               <suffix>8</suffix>
               </FiguredBassItem>
+            <offset x="0.224822" y="2.01344"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
