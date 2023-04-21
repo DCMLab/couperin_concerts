@@ -1427,7 +1427,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC</name>
             <offset x="0" y="-5.8"/>
             </Harmony>
           <Fermata>
@@ -1467,7 +1467,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv6{</name>
             <offset x="0" y="-5.8"/>
             </Harmony>
           <Spanner type="Volta">
