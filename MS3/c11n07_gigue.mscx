@@ -3850,10 +3850,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i2</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
