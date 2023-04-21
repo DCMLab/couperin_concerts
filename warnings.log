@@ -5,20 +5,22 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c11n07_gigue 
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
 	            0a         {             4a         }
-	            6a        }{             6a        }{
-	           14a        }{            14a        }{
-	           14a         {             4b         }
-	            6b        }{             6b        }{
-	           18a        }{            18a        }{
-	           22a        }{            22a        }{
-	           26a        }{            26a        }{
-	           30a        }{            30a        }{
-	           34a        }{            34a        }{
-	           39a        }{            39a        }{
-	           18b        }{            43a         }
-	           22b        }{            18b        }{
-	           26b        }{            22b        }{
-	           30b        }{            26b        }{
-	           34b        }{            30b        }{
-	           39b        }{            34b        }{
-	           NaN       NaN            39b        }{
+	            6a         {             6a         }
+	           14a         {            14a         }
+	            6b         {             4b         }
+	           14b         {             6b         }
+	           18a         {            14b         }
+	           22a         {            18a         }
+	           26a         {            22a         }
+	           30a         {            26a         }
+	           34a         {            30a         }
+	           39a         {            34a         }
+	           43a         {            39a         }
+	           18b         {            43a         }
+	           22b         {            18b         }
+	           26b         {            22b         }
+	           30b         {            26b         }
+	           34b         {            30b         }
+	           39b         {            34b         }
+	           NaN       NaN            39b         }
+	           NaN       NaN            43b         }
