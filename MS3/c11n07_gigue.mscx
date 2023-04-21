@@ -3243,10 +3243,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VII2</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
