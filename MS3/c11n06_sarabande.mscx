@@ -404,7 +404,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>VII.IV</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -452,7 +452,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -485,7 +485,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.ii7</name>
+            <name>ii7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
