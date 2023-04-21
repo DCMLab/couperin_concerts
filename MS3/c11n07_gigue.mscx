@@ -42,6 +42,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolPosBelow x="0" y="-4.5"/>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
@@ -147,7 +148,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -268,6 +268,12 @@
             <harmonyType>1</harmonyType>
             <name>c.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.1000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 84</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -4077,7 +4083,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v.iv6</name>
-            <offset x="-0.698319" y="-8.12773"/>
+            <offset x="-0.473497" y="-4.98023"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4096,7 +4102,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <offset x="0" y="-8.89328"/>
+            <offset x="-1.34893" y="-4.73408"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
