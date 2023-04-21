@@ -279,6 +279,12 @@
             <offset x="0.116387" y="-9.9013"/>
             <text>Majeur</text>
             </StaffText>
+          <Tempo>
+            <tempo>2.3333333333333335</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 140</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
