@@ -2044,6 +2044,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <offset x="0.449643" y="-3.28688"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -2066,6 +2067,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.899287" y="1.46134"/>
               </Articulation>
             <Note>
               <pitch>72</pitch>
@@ -2095,7 +2098,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
