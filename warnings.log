@@ -15,11 +15,10 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c11n07_gigue 
 	           30a        }{            30a        }{
 	           34a        }{            34a        }{
 	           39a        }{            39a        }{
-	           43a        }{            43a        }{
-	           18b        }{            18b        }{
-	           22b        }{            22b        }{
-	           26b        }{            26b        }{
-	           30b        }{            30b        }{
-	           34b        }{            34b        }{
-	           39b        }{            39b        }{
-	           NaN       NaN            43b         }
+	           18b        }{            43a         }
+	           22b        }{            18b        }{
+	           26b        }{            22b        }{
+	           30b        }{            26b        }{
+	           34b        }{            30b        }{
+	           39b        }{            34b        }{
+	           NaN       NaN            39b        }{
