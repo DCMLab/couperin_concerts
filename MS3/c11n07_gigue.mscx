@@ -3499,6 +3499,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III+6</name>
+            <offset x="-1.0117" y="-3.96134"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3527,7 +3528,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>VI7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
