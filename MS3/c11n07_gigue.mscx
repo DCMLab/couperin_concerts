@@ -611,6 +611,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -3430,7 +3434,7 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.307337" y="-4.6269"/>
+            <offset x="0.532159" y="-9.39781"/>
             <text>♭</text>
             </StaffText>
           <Beam>
@@ -3441,6 +3445,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.34893"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -4113,7 +4118,7 @@
               <beginText>2.</beginText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-4.19239"/>
+                <offset x="0" y="-10.1494"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <endings>2</endings>
@@ -7190,6 +7195,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-4.55849</minDistance>
+            <offset x="0" y="1.05967"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
