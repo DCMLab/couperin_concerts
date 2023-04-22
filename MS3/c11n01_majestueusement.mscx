@@ -283,7 +283,11 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+<<<<<<< HEAD
             <name>c.i-@none</name>
+=======
+            <name>c.i{</name>
+>>>>>>> f2443a3 (4: HC.SIM)
             </Harmony>
           <Tempo>
             <tempo>3</tempo>
@@ -522,7 +526,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
