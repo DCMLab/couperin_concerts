@@ -1342,7 +1342,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2801,6 +2801,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.54679</minDistance>
+            <offset x="0.224822" y="0.0529831"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
