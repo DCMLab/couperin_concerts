@@ -927,7 +927,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
