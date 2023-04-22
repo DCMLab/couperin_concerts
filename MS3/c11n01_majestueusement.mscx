@@ -285,6 +285,12 @@
             <harmonyType>1</harmonyType>
             <name>c.i-@none</name>
             </Harmony>
+          <Tempo>
+            <tempo>3</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text> = 180</text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
