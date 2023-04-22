@@ -1458,7 +1458,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>@none</name>
+            <name>{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
