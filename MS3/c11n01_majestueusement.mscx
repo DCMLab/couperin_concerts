@@ -1510,6 +1510,8 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.224822" y="1.23652"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1519,12 +1521,14 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6\\</name>
+            <name>V6|EC}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.34893"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3821,6 +3825,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.45777</minDistance>
+            <offset x="0" y="-0.0581146"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
@@ -3977,6 +3983,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="0.112411" y="0.165394"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
