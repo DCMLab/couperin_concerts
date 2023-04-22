@@ -2323,6 +2323,8 @@
         <irregular>1</irregular>
         <Jump>
           <style>Repeat Text Right</style>
+          <minDistance>-5.34536</minDistance>
+          <offset x="-7.86876" y="-2.79451"/>
           <text>D.S. al Fine</text>
           <jumpTo>segno</jumpTo>
           <playUntil>fine</playUntil>
@@ -2331,7 +2333,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             <offset x="0" y="-6.1"/>
             </Harmony>
           <Fermata>
