@@ -1961,7 +1961,7 @@
       <Measure>
         <Marker>
           <style>Repeat Text Left</style>
-          <offset x="17.8837" y="-1.63765"/>
+          <offset x="1.2469" y="-6.39174"/>
           <text><sym>segno</sym></text>
           <label>segno</label>
           </Marker>
@@ -2102,7 +2102,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(11#72)</name>
+            <name>III+M7(9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
