@@ -1337,7 +1337,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>ii.V2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3469,6 +3469,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.97304</minDistance>
+            <offset x="0" y="-0.173152"/>
             </FiguredBass>
           <location>
             <fractions>1/4</fractions>
