@@ -818,7 +818,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+<<<<<<< HEAD
             <name>i.i-@none</name>
+=======
+            <name>i.i</name>
+>>>>>>> 80a5d01 (9: removed atnone)
             </Harmony>
           <Chord>
             <dots>1</dots>
