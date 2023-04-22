@@ -1511,7 +1511,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>ii65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
