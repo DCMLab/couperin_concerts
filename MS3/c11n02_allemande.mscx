@@ -275,7 +275,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>c.i6</name>
+            <name>c.i6{</name>
             </Harmony>
           <Tempo>
             <tempo>1.3</tempo>
@@ -370,7 +370,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -509,7 +509,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.PHR}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
