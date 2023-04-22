@@ -1114,7 +1114,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1172,7 +1172,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V</name>
+            <name>I.V{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
