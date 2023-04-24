@@ -270,7 +270,7 @@
             <tempo>1.1000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 66</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 66</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -381,7 +381,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}{</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -404,7 +404,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.IV</name>
+            <name>VII.IV{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -593,7 +593,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}{</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -629,7 +629,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1197,7 +1197,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|IAC}{</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1270,7 +1270,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.V65</name>
+            <name>iv.V65{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -1463,7 +1463,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1490,7 +1490,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.V</name>
+            <name>VII.V{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1785,7 +1785,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}{</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1835,7 +1835,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I6</name>
+            <name>III.I6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2082,7 +2082,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2168,7 +2168,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V/iv</name>
+            <name>i.V/iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2454,7 +2454,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}{</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2524,7 +2524,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>ii%65{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
