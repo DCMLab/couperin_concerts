@@ -1,0 +1,10 @@
+Warnings encountered during the last execution of ms3 review (v1.2.5)
+=====================================================================
+
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                        mc  mn mc_onset label    chord_tones added_tones  n_colored  n_untouched  count_ratio
+couperin_concerts MS3/parnasse_02.mscx  15  15      5/8    V7  (7, 11, 8, 5)          ()          2            1     0.666667
+                  MS3/parnasse_02.mscx  32  32      5/8    V7   (5, 9, 6, 3)          ()          2            1     0.666667
+                  MS3/parnasse_02.mscx  40  40      5/8    V7  (6, 10, 7, 4)          ()          2            1     0.666667
+                  MS3/parnasse_02.mscx  59  59      5/8    V7  (6, 10, 7, 4)          ()          2            1     0.666667
+                  MS3/parnasse_02.mscx  61  61      5/8    V7  (6, 10, 7, 4)          ()          2            1     0.666667

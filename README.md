@@ -195,7 +195,7 @@ Concerts 12 & 13 not annotated
 |c14n03_sarabande            |      28|    55|2.1.0   |Johannes Menke                             |              |
 |c14n04_fuguete              |      56|   215|2.1.0   |Johannes Menke                             |              |
 |parnasse_01                 |      18|    81|2.1.0   |Johannes Menke                             |              |
-|parnasse_02                 |      62|   237|2.3.0   |Johannes Menke(2.1.1), Hanné Becker (2.3.0)|              |
+|parnasse_02                 |      62|   250|2.3.0   |Johannes Menke(2.1.1), Hanné Becker (2.3.0)|              |
 |parnasse_03                 |      58|   105|2.1.0   |Johannes Menke                             |              |
 |parnasse_04                 |      57|    98|2.1.0   |Johannes Menke                             |              |
 |parnasse_05                 |      26|    99|2.1.0   |Johannes Menke                             |              |
