@@ -4472,6 +4472,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.00813</minDistance>
+            <offset x="0.337233" y="0.391529"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
