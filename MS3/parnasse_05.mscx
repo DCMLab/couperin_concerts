@@ -281,7 +281,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <tempo>1.6333333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 98</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 98</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1359,7 +1359,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1369,6 +1369,10 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1618,7 +1622,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1634,6 +1638,10 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1847,7 +1855,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1857,6 +1865,10 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2216,7 +2228,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2229,6 +2241,10 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2658,7 +2674,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2670,7 +2686,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/IV</name>
+            <name>V65/IV{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
