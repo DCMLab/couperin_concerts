@@ -180,7 +180,7 @@ Concerts 12 & 13 not annotated
 |c11n03_seconde_allemande    |      20|   113|2.1.0   |Tobias Drewelius                              |Johannes Menke|
 |c11n04_courante             |      16|    72|2.1.0   |Tobias Drewelius                              |Johannes Menke|
 |c11n05_seconde_courante     |      21|    83|2.1.0   |Tobias Drewelius                              |Johannes Menke|
-|c11n06_sarabande            |      36|    66|2.3.0   |Tobias Drewelius (2.1.1), Hanné Becker (2.3.0)|Johannes Menke|
+|c11n06_sarabande            |      36|    67|2.3.0   |Tobias Drewelius (2.1.1), Hanné Becker (2.3.0)|Johannes Menke|
 |c11n07_gigue                |      43|   165|2.1.0   |Tobias Drewelius                              |Johannes Menke|
 |c11n08_Rondeau              |      57|   129|2.1.0   |Tobias Drewelius                              |Johannes Menke|
 |c12n01_pointe               |      41|     0|2.1.0   |Johannes Menke                                |              |
