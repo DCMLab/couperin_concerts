@@ -197,7 +197,7 @@ Concerts 12 & 13 not annotated
 |parnasse_01                 |      18|    81|2.1.0   |Johannes Menke                              |              |
 |parnasse_02                 |      62|   243|2.1.0   |Johannes Menke                              |              |
 |parnasse_03                 |      58|   105|2.1.0   |Johannes Menke                              |              |
-|parnasse_04                 |      57|    97|2.3.0   |Johannes Menke (2.1.1), Hanné Becker (2.3.0)|              |
+|parnasse_04                 |      57|   105|2.3.0   |Johannes Menke (2.1.1), Hanné Becker (2.3.0)|              |
 |parnasse_05                 |      26|    99|2.1.0   |Johannes Menke                              |              |
 |parnasse_06                 |      32|    56|2.1.0   |Johannes Menke                              |              |
 |parnasse_07                 |      53|   224|2.1.0   |Johannes Menke                              |              |
