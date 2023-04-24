@@ -1,5 +1,5 @@
 mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note	n_colored	n_untouched	count_ratio	dur_colored	dur_untouched	dur_ratio
-1	0	1/8	1/2	4/4	1	1	c.i{				c	i		i	i						{	m	1	1	0, -3, 1		0.0	0.0	1	2	0.3333333333333333	0.0625	0.1875	0.25
+1	0	0	3/8	4/4	1	1	c.i{				c	i		i	i						{	m	1	1	0, -3, 1		0.0	0.0	1	3	0.25	0.0625	0.3125	0.16666666666666666
 1	0	3/8	3/4	4/4	1	1	V				c	i		V	V							M	1	1	1, 5, 2		1.0	1.0	2	3	0.4	0.125	0.25	0.3333333333333333
 2	1	0	0	4/4	1	1	i				c	i		i	i							m	1	1	0, -3, 1		0.0	0.0	2	4	0.3333333333333333	0.125	0.375	0.25
 2	1	1/4	1/4	4/4	1	1	V43				c	i		V43	V		43					Mm7	1	1	2, -1, 1, 5		1.0	2.0	4	4	0.5	0.25	0.25	0.5
@@ -48,8 +48,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	globa
 10	8	5/8	5/8	4/4	1	1	ii6				c	iv		ii6	ii		6					m	1	1	-2, 2, 1		1.0	-2.0	1	2	0.3333333333333333	0.0625	0.1875	0.25
 10	8	3/4	3/4	4/4	1	1	V(4)				c	iv		V(4)	V			4				M	1	1	0, -1, 1		0.0	0.0	0	2	0.0	0.0	0.3125	0.0
 10	8	7/8	7/8	4/4	1	1	V				c	iv		V	V							M	1	1	0, 4, 1		0.0	0.0	0	2	0.0	0.0	0.1875	0.0
-11	9	0	0	4/4	1	1	I|PAC}{				c	iv		I	I					PAC	}{	M	1	1	-1, 3, 0		-1.0	-1.0	2	3	0.4	0.0625	0.4375	0.125
-11	9	1/4	1/4	4/4	1	1	III.V2/V				c	III		V2/V	V		2		V			Mm7	1	0	-3, -1, 3, 0		-1.0	-3.0	1	4	0.2	0.0625	0.3125	0.16666666666666666
+11	9	0	0	4/4	1	1	I|PAC}				c	iv		I	I					PAC	}	M	1	1	-1, 3, 0		-1.0	-1.0	2	3	0.4	0.0625	0.4375	0.125
+11	9	1/4	1/4	4/4	1	1	III.V2/V{				c	III		V2/V	V		2		V		{	Mm7	1	0	-3, -1, 3, 0		-1.0	-3.0	1	4	0.2	0.0625	0.3125	0.16666666666666666
 11	9	1/2	1/2	4/4	1	1	V6				c	III		V6	V		6					M	1	0	2, -1, -2		-2.0	2.0	1	3	0.25	0.0625	0.4375	0.125
 11	9	3/4	3/4	4/4	1	1	V65/V				c	III		V65/V	V		65		V			Mm7	1	0	3, 0, -3, -1		-1.0	3.0	1	2	0.3333333333333333	0.0625	0.1875	0.25
 11	9	7/8	7/8	4/4	1	1	V7/V				c	III		V7/V	V		7		V			Mm7	1	0	-1, 3, 0, -3		-1.0	-1.0	0	3	0.0	0.0	0.25	0.0
@@ -108,5 +108,6 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	globa
 21	19	3/8	3/8	4/4	1	1	V7				c	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1.0	1.0	0	3	0.0	0.0	0.25	0.0
 21	19	1/2	1/2	4/4	1	1	i				c	i		i	i							m	1	1	0, -3, 1		0.0	0.0	0	2	0.0	0.0	0.3125	0.0
 21	19	5/8	5/8	4/4	1	1	ii%65				c	i		ii%65	ii	%	65					%7	1	1	-1, -4, 0, 2		2.0	-1.0	0	2	0.0	0.0	0.1875	0.0
-21	19	3/4	3/4	4/4	1	1	V				c	i		V	V							M	1	1	1, 5, 2		1.0	1.0	1	2	0.3333333333333333	0.0625	0.4375	0.125
+21	19	3/4	3/4	4/4	1	1	V				c	i		V	V							M	1	1	1, 5, 2		1.0	1.0	0	2	0.0	0.0	0.4375	0.0
+21	19	7/8	7/8	4/4	1	1	V7	0	-3.17447	/	c	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1.0	1.0	1	0	1.0	0.0625	0.0	1.0
 22	20	0	0	4/4	1	1	i|PAC}				c	i		i	i					PAC	}	m	1	1	0, -3, 1		0.0	0.0	0	2	0.0	0.0	0.75	0.0
