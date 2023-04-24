@@ -776,7 +776,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -819,10 +819,14 @@
           <Harmony>
             <harmonyType>1</harmonyType>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <name>i.i-@none</name>
 =======
             <name>i.i</name>
 >>>>>>> 80a5d01 (9: removed atnone)
+=======
+            <name>i.i{</name>
+>>>>>>> cad5bed (Phrase structures)
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1057,7 +1061,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1083,7 +1087,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1313,7 +1317,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1375,7 +1379,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V6</name>
+            <name>III.V6{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1521,7 +1525,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6|EC}{</name>
+            <name>V6|EC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1549,7 +1553,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
@@ -2357,7 +2361,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2376,7 +2380,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i6</name>
+            <name>i.i6{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
