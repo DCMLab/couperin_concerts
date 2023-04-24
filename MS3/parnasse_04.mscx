@@ -272,7 +272,7 @@
             <tempo>1.5750000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 63</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 63</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -2459,6 +2459,16 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
