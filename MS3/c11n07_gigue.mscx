@@ -272,7 +272,7 @@
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 84</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 84</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -3533,7 +3533,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI7</name>
+            <name>VIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
