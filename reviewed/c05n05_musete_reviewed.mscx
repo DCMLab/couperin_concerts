@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -145,7 +146,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -583,13 +583,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <Marker>
-          <style>Repeat Text Left</style>
-          <offset x="11.637" y="-4.76643"/>
-          <text><sym>segno</sym></text>
-          <label>segno</label>
-          </Marker>
+      <Measure len="3/8">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -611,6 +605,19 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Left</style>
+          <text><sym>segno</sym></text>
+          <label>segno</label>
+          </Marker>
+        <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
@@ -808,9 +815,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1353,6 +1357,13 @@
       <Measure len="3/8">
         <startRepeat/>
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="3.30532" y="6.94582"/>
+          <text>1e Couplet</text>
+          <label>1e</label>
+          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1415,9 +1426,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1985,9 +1993,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2268,6 +2273,16 @@
         </Measure>
       <Measure len="3/8">
         <endRepeat>2</endRepeat>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <minDistance>-999</minDistance>
+          <offset x="-3.44304" y="6.71811"/>
+          <text>au renvoy</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt>2e</continueAt>
+          </Jump>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2294,6 +2309,13 @@
       <Measure len="3/8">
         <startRepeat/>
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="3.16759" y="6.8781"/>
+          <text>2e Couplet</text>
+          <label>2e</label>
+          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2638,9 +2660,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3032,7 +3051,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3041,7 +3060,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -3058,7 +3076,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3389,9 +3406,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3439,9 +3453,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="66.3845" y="-2.27216"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -3596,9 +3607,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="5.4542" y="-1.98335"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -3753,9 +3761,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="6.44587" y="-2.47918"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -4225,6 +4230,16 @@
         </Measure>
       <Measure len="3/8">
         <endRepeat>2</endRepeat>
+        <Jump>
+          <autoplace>0</autoplace>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="1.79038" y="21.7652"/>
+          <text>au renvoy</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>fine</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4638,7 +4653,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4656,10 +4671,20 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          </voice>
+        </Measure>
+      <Measure len="3/8">
+        <voice>
           <StaffText>
             <text>renvoy</text>
             </StaffText>
@@ -5471,10 +5496,6 @@
         </Measure>
       <Measure len="3/8">
         <voice>
-          <StaffText>
-            <offset x="-0.449972" y="-6.34982"/>
-            <text>1e Couplet</text>
-            </StaffText>
           <FiguredBass>
             <ticks>1/8</ticks>
             <FiguredBassItem>
@@ -6577,9 +6598,6 @@
         </Measure>
       <Measure len="3/8">
         <voice>
-          <StaffText>
-            <text>au renvoy</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -6604,10 +6622,6 @@
         </Measure>
       <Measure len="3/8">
         <voice>
-          <StaffText>
-            <offset x="-1.19992" y="-3.5"/>
-            <text>2e Couplet</text>
-            </StaffText>
           <FiguredBass>
             <ticks>1/8</ticks>
             <FiguredBassItem>
@@ -7649,7 +7663,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -7666,7 +7679,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -8672,10 +8684,6 @@
         </Measure>
       <Measure len="3/8">
         <voice>
-          <StaffText>
-            <offset x="-0.449972" y="-6.04984"/>
-            <text>au renvoy</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
