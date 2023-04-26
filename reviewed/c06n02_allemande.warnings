@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review (v1.2.6)
+=====================================================================
+
+DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.couperin_concerts.c06n02_allemande -- /usr/local/lib/python3.10/site-packages/ms3/annotations.py (line 382) expand_dcml():
+	Score contains 1 labels that don't (and 123 that do) match the DCML standard:
+	    mc  mn label harmony_layer
+	13   4   3   I6)             1
