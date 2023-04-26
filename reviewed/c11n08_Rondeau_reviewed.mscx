@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -42,6 +42,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolPosBelow x="0" y="-4.5"/>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
@@ -147,7 +148,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -256,12 +256,6 @@
         </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
-        <Marker>
-          <style>Repeat Text Left</style>
-          <offset x="7.00696" y="-1.55003"/>
-          <text><sym>segno</sym></text>
-          <label>segno</label>
-          </Marker>
         <voice>
           <KeySig>
             <accidental>-2</accidental>
@@ -408,8 +402,11 @@
             <appoggiatura/>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -904,9 +901,9 @@
         <Marker>
           <style>Repeat Text Right</style>
           <placement>below</placement>
-          <offset x="-0.899943" y="20.8483"/>
-          <text>Fine</text>
-          <label>fine</label>
+          <offset x="-5.22838" y="6.00793"/>
+          <text>Fin</text>
+          <label>segno</label>
           </Marker>
         <voice>
           <Harmony>
@@ -927,7 +924,15 @@
           </voice>
         </Measure>
       <Measure len="1/8">
+        <startRepeat/>
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="5.56514" y="6.7383"/>
+          <text>1e Couplet</text>
+          <label>1e</label>
+          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1383,10 +1388,12 @@
         <endRepeat>2</endRepeat>
         <Jump>
           <style>Repeat Text Right</style>
-          <text>D.S.</text>
-          <jumpTo>segno</jumpTo>
-          <playUntil>end</playUntil>
-          <continueAt></continueAt>
+          <placement>below</placement>
+          <offset x="-3.71009" y="6.73883"/>
+          <text>D.C.</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>segno</playUntil>
+          <continueAt>2e</continueAt>
           </Jump>
         <voice>
           <Harmony>
@@ -1421,7 +1428,15 @@
           </voice>
         </Measure>
       <Measure len="1/8">
+        <startRepeat/>
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="6.64725" y="7.02334"/>
+          <text>2e Couplet</text>
+          <label>2e</label>
+          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1926,10 +1941,12 @@
         <endRepeat>2</endRepeat>
         <Jump>
           <style>Repeat Text Right</style>
-          <text>D.S.</text>
-          <jumpTo>segno</jumpTo>
-          <playUntil>end</playUntil>
-          <continueAt></continueAt>
+          <placement>below</placement>
+          <offset x="-2.93716" y="7.048"/>
+          <text>D.C.</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>segno</playUntil>
+          <continueAt>3e</continueAt>
           </Jump>
         <voice>
           <Harmony>
@@ -1963,26 +1980,21 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/16">
+        <startRepeat/>
+        <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="4.01927" y="7.14169"/>
+          <text>3e Couplet</text>
+          <label>3e</label>
+          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i.i</name>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
-          <Chord>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -3781,8 +3793,11 @@
             <appoggiatura/>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <pitch>70</pitch>
-              <tpc>12</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Beam>
@@ -4273,13 +4288,6 @@
         </Measure>
       <Measure len="2/8">
         <endRepeat>2</endRepeat>
-        <Jump>
-          <style>Repeat Text Right</style>
-          <text>D.S. al Fine</text>
-          <jumpTo>segno</jumpTo>
-          <playUntil>fine</playUntil>
-          <continueAt></continueAt>
-          </Jump>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -4757,10 +4765,6 @@
         </Measure>
       <Measure len="1/8">
         <voice>
-          <StaffText>
-            <offset x="-5.39966" y="-6.19983"/>
-            <text>1e Couplet</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -5147,10 +5151,6 @@
         </Measure>
       <Measure len="1/8">
         <voice>
-          <StaffText>
-            <offset x="-0.899943" y="-6.79979"/>
-            <text>2. Couplet</text>
-            </StaffText>
           <FiguredBass>
             <ticks>1/8</ticks>
             <FiguredBassItem>
@@ -5557,35 +5557,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/16">
         <voice>
-          <StaffText>
-            <offset x="2.39985" y="-5.29989"/>
-            <text>3. Couplet</text>
-            </StaffText>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
           <Rest>
             <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -6767,9 +6745,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -6868,10 +6848,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="-0.432444" y="-6.11694"/>
-            <text>Reprise du Rondeau, sans renvoi.</text>
-            </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -6926,6 +6902,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="-0.123314" y="-5.34398"/>
+            <text>Reprise du Rondeau, sans renvoi.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>

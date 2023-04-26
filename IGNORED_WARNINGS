@@ -1,0 +1,43 @@
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.couperin_concerts.c05n02_allemande
+	The incomplete MC 45 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{13: Fraction(1, 1)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 33) ms3.Parse.couperin_concerts.c06n02_allemande
+	The incomplete MC 33 (timesig 1, act_dur 1/8) is completed by 1 incorrect duration (expected: 7/8):
+	{13: Fraction(5, 8)}
+
+UNUSED_FINE_MARKER_WARNING (20, 14) ms3.Parse.couperin_concerts.c07n01_grave
+	Piece has a Fine but the last MC is missing a repeat sign or a D.C. (da capo) or D.S. (dal segno). Ignoring Fine.
+
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 47) ms3.Parse.couperin_concerts.c08n10_air_lentement
+	Volta group of MC 47 contains voltas with different lengths: [2, 1]
+	That is because the beginning of second section's beginning (originally m. 20) needs to be adapted to the little bass transition at the end of the piece.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 20) ms3.Parse.couperin_concerts.c08n11_air_baccantes
+	The incomplete MC 20 (timesig 3/2, act_dur 3/4) is completed by 1 incorrect duration (expected: 3/4):
+	{10: Fraction(1, 1)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 44) ms3.Parse.couperin_concerts.c09n07_douceur
+	The incomplete MC 44 (timesig 3/8, act_dur 3/16) is completed by 1 incorrect duration (expected: 3/16):
+	{18: Fraction(3, 8)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 22) ms3.Parse.couperin_concerts.c10n03_plainte
+	The incomplete MC 22 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{23: Fraction(7, 8)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.couperin_concerts.c11n08_Rondeau
+	The incomplete MC 9 (timesig 3/8, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/8):
+	{1: Fraction(1, 8), 10: Fraction(1, 8), 19: Fraction(1, 8), 28: Fraction(3, 16)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 60) ms3.Parse.couperin_concerts.c11n08_Rondeau
+	The incomplete MC 60 (timesig 3/8, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/8):
+	{28: Fraction(3, 16)}
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 2) ms3.Parse.couperin_concerts.c14n02_allemande
+	The incomplete MC 2 (timesig 1, act_dur 7/8) is completed by 1 incorrect duration (expected: 1/8):
+	{3: Fraction(1, 1)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.couperin_concerts.c14n02_allemande
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/8       7/8        <NA>              <NA>
+	1   2   1     7/8       1/8           1              <NA>
+	=> modernize this one would either delete the first eigth rest and make MC 1 anacrustic m. 0, or one would introduce a seconda volta after the first eight bars

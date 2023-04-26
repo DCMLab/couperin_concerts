@@ -125,7 +125,7 @@ Concerts 12 & 13 not annotated
 |c03n02_allemande            |      17|   106|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c03n03_courante             |      25|    97|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c03n04_sarabande_grave      |      32|    70|2.1.0   |Tobias Drewelius   |Johannes Menke|
-|c03n05_gavotte              |      25|    89|2.1.0   |Tobias Drewelius   |Johannes Menke|
+|c03n05_gavotte              |      25|    87|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c03n06_musette_1            |      28|    28|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c03n07_musette_2            |      27|    33|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c03n08_chaconne_legere      |      87|   280|2.1.0   |Tobias Drewelius   |Johannes Menke|
@@ -161,7 +161,7 @@ Concerts 12 & 13 not annotated
 |c08n07_air                  |      28|    73|2.1.0   |Johannes Menke     |              |
 |c08n08_sarabande            |      24|    64|2.1.0   |Johannes Menke     |              |
 |c08n09_air_leger            |      29|    45|2.1.0   |Johannes Menke     |              |
-|c08n10_air_lentement        |      46|    99|2.1.0   |Johannes Menke     |              |
+|c08n10_air_lentement        |      46|   101|2.1.0   |Johannes Menke     |              |
 |c08n11_air_baccantes        |      18|    58|2.1.0   |Johannes Menke     |              |
 |c09n01_charme               |      20|   125|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c09n02_lenjouement          |      34|   173|2.1.0   |Tobias Drewelius   |Johannes Menke|
@@ -173,16 +173,16 @@ Concerts 12 & 13 not annotated
 |c09n08_caetera              |      23|    73|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c10n01_gravement            |      14|    73|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c10n02_air                  |      32|   122|2.1.0   |Tobias Drewelius   |Johannes Menke|
-|c10n03_plainte              |      37|    88|2.1.0   |Tobias Drewelius   |Johannes Menke|
+|c10n03_plainte              |      36|    88|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c10n04_tromba               |      42|    66|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n01_majestueusement      |      38|    85|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n02_allemande            |      22|   116|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n03_seconde_allemande    |      20|   113|2.1.0   |Tobias Drewelius   |Johannes Menke|
-|c11n04_courante             |      16|    72|2.1.0   |Tobias Drewelius   |Johannes Menke|
+|c11n04_courante             |      18|    81|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n05_seconde_courante     |      21|    83|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n06_sarabande            |      36|    67|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c11n07_gigue                |      43|   165|2.1.0   |Tobias Drewelius   |Johannes Menke|
-|c11n08_Rondeau              |      57|   129|2.1.0   |Tobias Drewelius   |Johannes Menke|
+|c11n08_Rondeau              |      56|   129|2.1.0   |Tobias Drewelius   |Johannes Menke|
 |c12n01_pointe               |      41|     0|2.1.0   |Johannes Menke     |              |
 |c12n02_badinage             |      59|     0|2.1.0   |Johannes Menke     |              |
 |c12n03_air                  |      58|     0|2.1.0   |Johannes Menke     |              |
@@ -203,4 +203,4 @@ Concerts 12 & 13 not annotated
 |parnasse_07                 |      53|   224|2.1.0   |Johannes Menke     |              |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.5.*

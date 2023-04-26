@@ -49,6 +49,7 @@
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
       <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
@@ -210,7 +211,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.5875</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -650,7 +650,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64</name>
+            <name>#viio64</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -677,7 +677,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

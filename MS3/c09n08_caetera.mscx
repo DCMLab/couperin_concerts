@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -145,7 +146,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -1626,6 +1626,7 @@
           </voice>
         </Measure>
       <Measure len="3/8">
+        <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -1645,20 +1646,19 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
+        <startRepeat/>
         <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>4</accidental>
             </KeySig>
           <StaffText>
-            <offset x="0.0699717" y="-6.50878"/>
-            <text>2eme Partie</text>
+            <offset x="0.0699717" y="-9.02973"/>
+            <text>2eme Partie
+que ce jouë alternativement avec la première</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1994,6 +1994,7 @@
           </voice>
         </Measure>
       <Measure len="3/8">
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3744,9 +3745,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">

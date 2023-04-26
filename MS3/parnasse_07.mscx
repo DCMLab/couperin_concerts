@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -145,7 +146,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -1963,7 +1963,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.viio64/iv</name>
+            <name>i.#viio64/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4551,7 +4551,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7/iv</name>
+            <name>#vi%7/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5305,7 +5305,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>#viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -6524,18 +6524,18 @@
           </voice>
         </Measure>
       <Measure>
-        <Marker>
-          <style>Repeat Text Right</style>
-          <placement>below</placement>
-          <offset x="-1.98335" y="29.2044"/>
-          <text>Fine</text>
-          <label>fine</label>
-          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
             </Harmony>
+          <StaffText>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <size>11</size>
+            <offset x="0" y="3.64155"/>
+            <text>Fin</text>
+            </StaffText>
           <Chord>
             <durationType>whole</durationType>
             <StemDirection>up</StemDirection>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -145,7 +146,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -709,6 +709,13 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="5.28697" y="7.27422"/>
+          <text>1e Couplet</text>
+          <label>1e</label>
+          </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1080,8 +1087,8 @@
           <style>Repeat Text Right</style>
           <text>D.C.</text>
           <jumpTo>start</jumpTo>
-          <playUntil>end</playUntil>
-          <continueAt></continueAt>
+          <playUntil>fine</playUntil>
+          <continueAt>2e</continueAt>
           </Jump>
         <voice>
           <Harmony>
@@ -1102,6 +1109,13 @@
         </Measure>
       <Measure len="1/4">
         <irregular>1</irregular>
+        <Marker>
+          <style>Repeat Text Right</style>
+          <placement>below</placement>
+          <offset x="5.28697" y="7.4037"/>
+          <text>2e Couplet</text>
+          <label>2e</label>
+          </Marker>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1800,10 +1814,6 @@
         </Measure>
       <Measure len="1/4">
         <voice>
-          <StaffText>
-            <offset x="-1.73543" y="-5.85522"/>
-            <text>1e Couplet</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2073,10 +2083,6 @@
               <suffix>8</suffix>
               </FiguredBassItem>
             </FiguredBass>
-          <StaffText>
-            <offset x="-0.743757" y="-5.6073"/>
-            <text>2e Couplet</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>

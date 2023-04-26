@@ -41,6 +41,7 @@
       <pedalLineWidth>0.11</pedalLineWidth>
       <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolPosBelow x="0" y="-4"/>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
@@ -146,7 +147,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -283,7 +283,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>c.@none-i</name>
+            <name>c.i-@none</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -808,7 +808,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.@none-i</name>
+            <name>i.i-@none</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2843,7 +2843,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65</name>
+            <name>#viio65</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
