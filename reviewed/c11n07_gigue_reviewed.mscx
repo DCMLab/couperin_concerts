@@ -1403,7 +1403,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-6.5"/>
             </Harmony>
           <Fermata>
@@ -4059,7 +4058,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-7.75882"/>
             </Harmony>
           <Fermata>
@@ -4122,7 +4120,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v.iv6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.698319" y="-8.12773"/>
             </Harmony>
           <Rest>
@@ -4142,7 +4139,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-8.89328"/>
             </Harmony>
           <Chord>

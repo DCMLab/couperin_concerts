@@ -1,0 +1,8 @@
+Warnings encountered during the last execution of ms3 review (v1.2.7)
+=====================================================================
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '3/4', 'i.viio7') ms3.Parse.couperin_concerts.c07n06_siciliene
+	The label 'i.viio7' in m. 12, onset 3/4 (MC 14, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of g.i, it expresses the scale degrees ('4', '6', 'b1', 'b3') [('C', 'Eb', 'Gb', 'Bbb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.

@@ -203,4 +203,4 @@ Concerts 12 & 13 not annotated
 |parnasse_07                 |      53|   224|2.1.0   |Johannes Menke     |              |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.6.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.7.*

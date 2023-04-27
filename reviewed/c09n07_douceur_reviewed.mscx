@@ -1432,7 +1432,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-7.03908"/>
             </Harmony>
           <Fermata>
@@ -3387,7 +3386,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-7.85378"/>
             </Harmony>
           <Fermata>
