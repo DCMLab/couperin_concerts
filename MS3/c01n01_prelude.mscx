@@ -1052,7 +1052,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(#7)</name>
+            <name>III+M7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4280,7 +4280,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>2</digit>
               </FiguredBassItem>
-            <offset x="6.31594e-15" y="7.38793"/>
+            <offset x="-0.124909" y="-0.106598"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4334,7 +4334,7 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
-            <offset x="2.44829" y="7.08189"/>
+            <offset x="0.449749" y="0.586632"/>
             </FiguredBass>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -4362,6 +4362,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>4</digit>
               </FiguredBassItem>
+            <minDistance>-5.87035</minDistance>
+            <offset x="0.124909" y="0.049617"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4385,6 +4387,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.37217</minDistance>
+            <offset x="0.124909" y="0.233"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
