@@ -349,7 +349,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I</name>
+            <name>G.I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -562,7 +562,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-4.1832"/>
             </Harmony>
           <Chord>
@@ -639,7 +639,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi{</name>
             <offset x="-0.306036" y="-3.72414"/>
             </Harmony>
           <Chord>
