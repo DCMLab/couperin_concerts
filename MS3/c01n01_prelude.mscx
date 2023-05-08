@@ -1280,7 +1280,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.V</name>
+            <name>V.V{</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -1594,7 +1594,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1614,7 +1614,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV.ii6</name>
+            <name>IV.ii6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4480,6 +4480,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.87327</minDistance>
+            <offset x="0.249818" y="-0.0954894"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
