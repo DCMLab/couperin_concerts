@@ -928,7 +928,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -980,7 +980,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6{</name>
             <offset x="-0.153018" y="-4.79527"/>
             </Harmony>
           <Beam>
@@ -1046,7 +1046,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
-              <offset x="0.811299" y="-2.38793"/>
+              <offset x="0.68639" y="0.609881"/>
               </Articulation>
             <Note>
               <pitch>81</pitch>
@@ -1090,7 +1090,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
-              <offset x="1.42337" y="-5.29527"/>
+              <offset x="0.174282" y="-0.673644"/>
               </Articulation>
             <Note>
               <pitch>81</pitch>
