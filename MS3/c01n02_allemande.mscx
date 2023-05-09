@@ -352,7 +352,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I</name>
+            <name>G.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.4666666666666666</tempo>
@@ -611,7 +611,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -660,7 +660,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
