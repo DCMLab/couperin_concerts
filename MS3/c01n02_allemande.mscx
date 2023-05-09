@@ -1223,8 +1223,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7</name>
-            <offset x="-2.14225" y="-3.26509"/>
+            <name>IV</name>
+            <offset x="-2.14225" y="-2.89036"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
