@@ -1860,7 +1860,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.ii%65</name>
+            <name>vi.ii%65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
