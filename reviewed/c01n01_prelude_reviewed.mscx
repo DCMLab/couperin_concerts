@@ -761,7 +761,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii%43</name>
+            <name>vi%43-iii%43</name>
             <offset x="-0.153018" y="-2.65302"/>
             </Harmony>
           <location>
@@ -796,13 +796,14 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7/V</name>
+            <name>V43(4)/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -817,7 +818,6 @@
               </Spanner>
             <appoggiatura/>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -4186,6 +4186,7 @@
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
