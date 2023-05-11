@@ -597,7 +597,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -817,7 +817,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -855,7 +855,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.III</name>
+            <name>i.III{</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
