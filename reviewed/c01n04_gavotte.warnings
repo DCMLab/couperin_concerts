@@ -4,13 +4,11 @@ Warnings encountered during the last execution of ms3 review (v1.2.9)
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c01n04_gavotte
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
-	            0a         {             4a        }{
-	            4a        }{             4b         }
+	            0a         {             4b         }
 	            4a         {             8a         }
 	            4b         {            11a         }
-	            8a         {            14a        }{
-	           11a         {             8b         }
-	           14a        }{            11b         }
+	            8a         {             8b         }
+	           11a         {            11b         }
 	           14a         {            14b         }
 	            8b         {            NaN       NaN
 	           11b         {            NaN       NaN
