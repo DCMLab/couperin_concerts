@@ -2112,6 +2112,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.582908" y="2.08181"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -2174,6 +2175,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.33309" y="1.08254"/>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -2208,6 +2210,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="0.915998"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2234,7 +2237,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Spanner type="Volta">
             <Volta>
@@ -2266,7 +2269,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.IV</name>
+            <name>VII.IV{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
