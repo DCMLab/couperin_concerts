@@ -1770,7 +1770,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1844,7 +1844,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/iv</name>
+            <name>V65/iv{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
