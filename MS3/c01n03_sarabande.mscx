@@ -358,7 +358,7 @@
             <tempo>1.4333333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 86</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 86</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -503,7 +503,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.598684" y="-3.92763"/>
+            <minDistance>-999</minDistance>
+            <offset x="0.0157763" y="-1.16159"/>
             <text><sym>accidentalSharp</sym></text>
             </StaffText>
           <Harmony>
@@ -1780,6 +1781,16 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1844,12 +1855,13 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/iv{</name>
+            <name>V65/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0" y="0.99927"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1919,6 +1931,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
+            <offset x="-0.166545" y="-4.08218"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2020,6 +2033,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
+            <offset x="0.166545" y="-3.66582"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2106,6 +2120,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <offset x="-0.915998" y="-3.62863"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2276,6 +2291,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.16582"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2289,6 +2305,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
+            <offset x="0.832725" y="-3.70745"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>

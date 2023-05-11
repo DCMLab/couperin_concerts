@@ -1,0 +1,19 @@
+Warnings encountered during the last execution of ms3 review (v1.2.8)
+=====================================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c01n03_sarabande
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             4a         }
+	            5a         {             8a         }
+	            8a         {             4b         }
+	            1b         {             8b         }
+	            5b         {            12a         }
+	            8b         {            16a         }
+	           13a         {            20a         }
+	           17a         {            28a         }
+	           21a         {            12b         }
+	           28a         {            16b         }
+	           13b         {            20b         }
+	           17b         {            28b         }
+	           21b         {            NaN       NaN
