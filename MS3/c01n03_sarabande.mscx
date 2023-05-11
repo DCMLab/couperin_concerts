@@ -2284,7 +2284,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.IV{</name>
+            <name>VII.IV</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2369,7 +2369,7 @@
           <StaffText>
             <placement>below</placement>
             <family>Times</family>
-            <offset x="0" y="14.2"/>
+            <offset x="-1.74872" y="3.79093"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Fin</text>
             </StaffText>
           <Spanner type="Volta">

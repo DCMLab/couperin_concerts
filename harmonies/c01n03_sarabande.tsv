@@ -50,7 +50,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 20	19	54	1.0	0	0	3/4	1	1		V7	g	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
 20	19	55	2.0	1/4	1/4	3/4	1	1		i	g	i		i	i							m	1	1	0, -3, 1		0	0
 21	20	57	3.0	0	0	3/4	1	1		V|HC.SIM}	g	i		V	V					HC.SIM	}	M	1	1	1, 5, 2		1	1
-22	21	60	3.0	0	0	3/4	1	1		V65/iv{	g	i		V65/iv	V		65		iv		{	Mm7	1	1	4, 1, -2, 0		0	4
+21	20	58	0.0	1/4	1/4	3/4	1	1		{	g	i									{		1	1				
+22	21	60	3.0	0	0	3/4	1	1		V65/iv	g	i		V65/iv	V		65		iv			Mm7	1	1	4, 1, -2, 0		0	4
 23	22	63	1.0	0	0	3/4	1	1		iv(4)	g	i		iv(4)	iv			4				m	1	1	-1, -2, 0		-1	-1
 23	22	64	2.0	1/4	1/4	3/4	1	1		iv	g	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
 24	23	66	3.0	0	0	3/4	1	1		V65/III	g	i		V65/III	V		65		III			Mm7	1	1	2, -1, -4, -2		-2	2
