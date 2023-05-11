@@ -352,7 +352,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i</name>
+            <name>g.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.4333333333333333</tempo>
@@ -525,7 +525,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.707714" y="-1.95395"/>
+              <offset x="-0.125011" y="1.37695"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -535,7 +535,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
