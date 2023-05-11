@@ -772,7 +772,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM</name>
+            <name>V|HC.SIM}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
@@ -828,7 +828,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}</name>
+            <name>V|HC.SIM</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
@@ -1296,11 +1296,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -1329,6 +1324,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1631,7 +1632,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}</name>
+            <name>V|HC.SIM}{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
@@ -1645,11 +1646,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -1734,6 +1730,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.0832725" y="1.58218"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1955,7 +1953,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC</name>
+            <name>i|PAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
@@ -2012,7 +2010,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|PAC</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
