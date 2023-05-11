@@ -750,7 +750,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1867,7 +1867,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
