@@ -1416,6 +1416,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="0.915998"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1435,7 +1437,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
+            <offset x="-0.832725" y="-4.08218"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -1474,7 +1477,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V</name>
+            <name>III.V{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
