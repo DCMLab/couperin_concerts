@@ -348,12 +348,12 @@
             <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
             <family>Times</family>
-            <offset x="-3.63613" y="-4.87727"/>
+            <offset x="-3.63613" y="-11.2473"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Notes égales et coulées</text>
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i</name>
+            <name>g.i{</name>
             </Harmony>
           <Tempo>
             <tempo>2.6666666666666665</tempo>
@@ -415,6 +415,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.66545"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -566,6 +567,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.166545" y="0.749453"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -609,6 +611,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0" y="1.08254"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -747,11 +750,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <offset x="0.541357" y="-6.01338"/>
+            <offset x="-0.124823" y="-3.09884"/>
             </Fermata>
           <Spanner type="Volta">
             <Volta>
@@ -774,7 +777,8 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.847393" y="-0.575857"/>
+              <minDistance>-999</minDistance>
+              <offset x="-0.56824" y="2.08886"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -796,7 +800,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -829,7 +833,7 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.541357" y="-0.422839"/>
+              <offset x="-0.208096" y="0.909522"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -861,7 +865,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65{</name>
             </Harmony>
           <Spanner type="Volta">
             <prev>
