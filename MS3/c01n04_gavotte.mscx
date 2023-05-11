@@ -355,6 +355,12 @@
             <harmonyType>1</harmonyType>
             <name>g.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.6666666666666665</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteHalfUp</sym> = 80</text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
