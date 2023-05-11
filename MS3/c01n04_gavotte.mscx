@@ -750,7 +750,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}</name>
+            <name>V|HC.SIM}{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -800,7 +800,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1408,6 +1408,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.33309" y="1.91527"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1865,7 +1867,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1916,7 +1918,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
