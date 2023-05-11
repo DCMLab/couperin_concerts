@@ -928,6 +928,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0.249818" y="0.832725"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -1025,6 +1026,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.499635" y="1.66545"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -1227,7 +1229,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2074,6 +2076,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.57889</minDistance>
+            <offset x="0.166545" y="-0.245562"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
