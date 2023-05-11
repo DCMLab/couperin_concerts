@@ -1293,7 +1293,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>i.V65/iv</name>
             <offset x="-0.386726" y="-2.5"/>
             </Harmony>
           <Chord>
@@ -1361,7 +1361,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i64</name>
+            <name>i64</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
