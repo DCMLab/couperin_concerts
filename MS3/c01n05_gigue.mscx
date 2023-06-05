@@ -352,7 +352,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I</name>
+            <name>G.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.9500000000000002</tempo>
@@ -399,7 +399,7 @@
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0.743808" y="-3.2165"/>
+              <offset x="0.743808" y="1.90476"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -583,7 +583,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -596,6 +596,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
