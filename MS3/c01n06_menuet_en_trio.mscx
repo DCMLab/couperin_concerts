@@ -348,7 +348,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i</name>
+            <name>g.i{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -499,7 +499,7 @@
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0.658281" y="-3.91811"/>
+              <offset x="0.033737" y="-1.04521"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1018,7 +1018,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
