@@ -2701,7 +2701,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2748,7 +2748,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -2761,6 +2761,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.124909" y="0.99927"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
