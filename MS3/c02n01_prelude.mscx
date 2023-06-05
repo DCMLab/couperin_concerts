@@ -2134,6 +2134,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.499635" y="1.24909"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
