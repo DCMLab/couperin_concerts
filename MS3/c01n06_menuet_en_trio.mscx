@@ -483,7 +483,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43</name>
-            <offset x="0.558203" y="-5.79119"/>
+            <offset x="-0.316159" y="-5.11188"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -496,10 +496,11 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.499635" y="1.374"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0.033737" y="-1.04521"/>
+              <offset x="0.408463" y="1.07824"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -975,6 +976,7 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.249818" y="1.24909"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1118,7 +1120,7 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.622188" y="-1.03491"/>
+              <offset x="0.622188" y="0.588904"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1774,7 +1776,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1845,7 +1847,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V/iv</name>
+            <name>i.V/iv{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
