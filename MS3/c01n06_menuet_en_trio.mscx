@@ -2416,7 +2416,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataShortAbove</subtype>
@@ -2426,11 +2426,6 @@
             <Volta>
               <endHookType>1</endHookType>
               <beginText>1</beginText>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.82237"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               <endings>1</endings>
               </Volta>
             <next>
@@ -2479,7 +2474,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataShortAbove</subtype>
