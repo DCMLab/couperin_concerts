@@ -1356,7 +1356,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.TEN}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1406,7 +1406,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>iii6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
