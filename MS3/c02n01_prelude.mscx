@@ -1171,7 +1171,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1181,6 +1181,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.I{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
