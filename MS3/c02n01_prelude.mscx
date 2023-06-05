@@ -1005,7 +1005,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1487,7 +1487,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii43</name>
-            <offset x="0.874362" y="-13.1172"/>
+            <offset x="0.249818" y="-2.37504"/>
             </Harmony>
           </voice>
         </Measure>
