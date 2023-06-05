@@ -460,6 +460,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.24909"/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -570,6 +572,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.374726" y="1.12418"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -616,6 +619,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0.249818" y="0.874362"/>
               </Articulation>
             <Note>
               <pitch>72</pitch>
@@ -657,6 +661,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.249818" y="1.99854"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -769,7 +775,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -785,6 +791,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
