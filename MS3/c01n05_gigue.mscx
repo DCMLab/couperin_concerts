@@ -973,9 +973,11 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.12418"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="-0.124909" y="1.374"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -1361,7 +1363,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1409,7 +1411,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
