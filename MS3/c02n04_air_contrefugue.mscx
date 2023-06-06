@@ -1883,7 +1883,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1904,7 +1904,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
