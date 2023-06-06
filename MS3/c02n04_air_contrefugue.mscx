@@ -5602,7 +5602,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7</name>
+            <name>#vi%7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
