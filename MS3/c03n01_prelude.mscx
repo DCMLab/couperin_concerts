@@ -346,6 +346,12 @@
             <offset x="-3.42283" y="-13.8728"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Lentement</text>
             </Tempo>
+          <Tempo>
+            <tempo>1</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
