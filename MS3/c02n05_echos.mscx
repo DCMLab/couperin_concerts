@@ -3733,7 +3733,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3760,7 +3760,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.V</name>
+            <name>ii.V{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
