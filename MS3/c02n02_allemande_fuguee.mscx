@@ -1890,10 +1890,6 @@
             <offset x="0" y="15.3"/>
             <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>Reprise</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
