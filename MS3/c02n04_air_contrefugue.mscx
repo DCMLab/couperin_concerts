@@ -3845,7 +3845,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3865,7 +3865,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.VII</name>
+            <name>i.VII{</name>
             <offset x="-0.2" y="-2.5"/>
             </Harmony>
           <Chord>
