@@ -1246,7 +1246,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1328,10 +1328,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
