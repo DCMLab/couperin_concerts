@@ -5860,7 +5860,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -5906,7 +5906,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
