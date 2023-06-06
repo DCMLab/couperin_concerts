@@ -692,12 +692,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6|EC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0" y="0.99927"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -707,11 +708,15 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -732,6 +737,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0" y="0.749453"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
