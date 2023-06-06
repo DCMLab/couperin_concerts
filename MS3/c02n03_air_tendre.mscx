@@ -2269,12 +2269,14 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7</name>
+            <name>#vi%7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="0.99927"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
