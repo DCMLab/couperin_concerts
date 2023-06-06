@@ -5191,7 +5191,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7</name>
+            <name>#vi%7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9347,6 +9347,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.49854</minDistance>
+            <offset x="0" y="1.28983"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9366,6 +9368,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.99818</minDistance>
+            <offset x="0.124909" y="1.06944"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
