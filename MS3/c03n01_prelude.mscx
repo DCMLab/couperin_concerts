@@ -2904,7 +2904,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii7</name>
+            <name>vi7</name>
             <offset x="0" y="-3.2"/>
             </Harmony>
           <Beam>
@@ -3756,6 +3756,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.124909" y="1.74872"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -3784,6 +3786,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.499635" y="1.49891"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
