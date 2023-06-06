@@ -3506,7 +3506,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII/iv{</name>
+            <name>#viio/iv{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3540,7 +3540,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII/iv</name>
+            <name>#viio/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
