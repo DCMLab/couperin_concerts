@@ -349,7 +349,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>D.I</name>
+            <name>D.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.8</tempo>
