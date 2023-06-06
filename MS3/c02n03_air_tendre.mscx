@@ -1131,7 +1131,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1161,7 +1161,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>III.I{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
