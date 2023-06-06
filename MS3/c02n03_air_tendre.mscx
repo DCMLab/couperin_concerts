@@ -450,6 +450,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.124909" y="1.24909"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -483,6 +485,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0.374726" y="0.99927"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -653,7 +656,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2684,6 +2687,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.49781</minDistance>
+            <offset x="0.249818" y="-0.720033"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -2708,6 +2713,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <offset x="0" y="-0.874362"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
