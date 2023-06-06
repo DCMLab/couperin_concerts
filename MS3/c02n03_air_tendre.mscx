@@ -886,7 +886,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -935,6 +935,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2887,6 +2891,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-5.62053</minDistance>
+            <offset x="0" y="-0.287198"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -3112,6 +3118,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.87254</minDistance>
+            <offset x="0.249818" y="0.683018"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
