@@ -2530,7 +2530,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>ii%65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2549,7 +2549,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43</name>
+            <name>ii%43</name>
             <offset x="-4.13148" y="-2.95905"/>
             </Harmony>
           <Chord>
