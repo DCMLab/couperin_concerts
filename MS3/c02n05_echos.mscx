@@ -3269,7 +3269,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -3305,7 +3305,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.i</name>
+            <name>vi.i{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
