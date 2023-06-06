@@ -107,7 +107,7 @@ Concerts 12 & 13 not annotated
 | par | 7                                                                     | Remerciement de Corelli. |  |  |  |                                                                                                |parnasse_07           |
 
 
-# Overview
+## Overview
 |         file_name          |measures|labels|standard|    annotators     |  reviewers   |
 |----------------------------|-------:|-----:|--------|-------------------|--------------|
 |c01n01_prelude              |      23|    93|2.1.0   |Eva-Maria Hamberger|Johannes Menke|
@@ -203,4 +203,4 @@ Concerts 12 & 13 not annotated
 |parnasse_07                 |      53|   224|2.1.0   |Johannes Menke     |              |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.7.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
