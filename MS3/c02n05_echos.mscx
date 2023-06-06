@@ -1892,7 +1892,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1955,7 +1955,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
