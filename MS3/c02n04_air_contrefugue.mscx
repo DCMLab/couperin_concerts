@@ -3416,7 +3416,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3436,7 +3436,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.V</name>
+            <name>VII.V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8143,6 +8143,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.2458</minDistance>
+            <offset x="0.124909" y="3.11957"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
