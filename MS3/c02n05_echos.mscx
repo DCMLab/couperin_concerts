@@ -718,7 +718,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -758,7 +758,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7{</name>
             </Harmony>
           <Spanner type="TextLine">
             <TextLine>
