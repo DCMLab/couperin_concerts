@@ -484,7 +484,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi|DC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -499,7 +499,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6{</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
