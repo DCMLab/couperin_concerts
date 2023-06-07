@@ -1820,7 +1820,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1847,7 +1847,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6</name>
+            <name>III+6{</name>
             <offset x="0" y="-3.3"/>
             </Harmony>
           <Chord>
