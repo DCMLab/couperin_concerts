@@ -356,7 +356,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I</name>
+            <name>A.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.5</tempo>
@@ -385,6 +385,7 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.499635" y="0.99927"/>
               </Articulation>
             <Note>
               <pitch>68</pitch>
@@ -623,7 +624,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -641,6 +642,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
