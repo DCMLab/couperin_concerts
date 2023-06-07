@@ -1340,7 +1340,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1350,6 +1350,7 @@
             <durationType>16th</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.499635" y="0.874362"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -1587,6 +1588,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.374"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
