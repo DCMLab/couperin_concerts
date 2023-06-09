@@ -348,7 +348,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>a.i</name>
+            <name>a.i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -629,7 +629,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             <offset x="0" y="-4.5"/>
             </Harmony>
           <Chord>
@@ -661,6 +661,8 @@
             <Articulation>
               <direction>up</direction>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.74872"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -700,6 +702,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
