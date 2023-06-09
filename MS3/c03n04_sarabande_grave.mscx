@@ -2700,7 +2700,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2741,7 +2741,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             <offset x="0" y="-5.4669"/>
             </Harmony>
           <Chord>
