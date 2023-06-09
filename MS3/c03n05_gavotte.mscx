@@ -968,7 +968,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -988,7 +988,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/IV</name>
+            <name>iv/IV{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
