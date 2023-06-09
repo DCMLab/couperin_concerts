@@ -359,6 +359,12 @@
             <harmonyType>1</harmonyType>
             <name>A.I</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.25</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 90</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
