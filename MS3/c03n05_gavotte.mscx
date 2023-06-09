@@ -775,7 +775,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>III.I6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -834,7 +834,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6</name>
+            <name>viio6</name>
             <offset x="-2.44829" y="-2.95905"/>
             </Harmony>
           <Chord>
@@ -850,7 +850,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
