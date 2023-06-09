@@ -415,6 +415,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.49891"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -431,13 +433,15 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
-            <offset x="0" y="-3.8"/>
+            <offset x="0.624544" y="-3.25943"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.87363"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -566,6 +570,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.249818" y="2.37327"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1000,7 +1006,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>VI7</name>
             <offset x="0" y="-3.6"/>
             </Harmony>
           <Chord>
@@ -4474,6 +4480,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.49708</minDistance>
+            <offset x="-0.124909" y="0.058474"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
