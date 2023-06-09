@@ -340,10 +340,11 @@
             <sigD>2</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.5333299999999999</tempo>
+            <tempo>2.6666666666666665</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-3.48063" y="-6"/>
-            <text><sym>metNoteQuarterUp</sym> = 152</text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 160</b></text>
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
