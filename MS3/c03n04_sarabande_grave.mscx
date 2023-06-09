@@ -2366,7 +2366,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v</name>
+            <name>i.i</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2408,7 +2408,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/iv</name>
+            <name>#vi%65</name>
             <offset x="-3.36639" y="-2.95905"/>
             </Harmony>
           <Chord>
@@ -2514,8 +2514,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V</name>
-            <offset x="0.228223" y="-4.78223"/>
+            <name>V</name>
+            <offset x="0.228223" y="-3.28332"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
