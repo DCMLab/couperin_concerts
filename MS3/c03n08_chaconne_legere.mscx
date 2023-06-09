@@ -1785,7 +1785,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1811,6 +1811,10 @@
             <offset x="-5.87556" y="-7.96857"/>
             <text><font size="10.5"></font><font face="SnellRoundhand BoldScript"></font>( Rondeau)</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
