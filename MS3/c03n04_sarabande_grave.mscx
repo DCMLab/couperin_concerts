@@ -2166,14 +2166,16 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.IV</name>
-            <offset x="-0.0760745" y="-4.63008"/>
+            <name>V</name>
+            <offset x="-0.200983" y="-3.00627"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.624544" y="3.24763"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -2189,7 +2191,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv.iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
