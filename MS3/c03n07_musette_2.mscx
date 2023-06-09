@@ -362,7 +362,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I</name>
+            <name>A.I{</name>
             </Harmony>
           <Tempo>
             <tempo>2.25</tempo>
@@ -544,7 +544,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -592,6 +592,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -767,7 +771,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
