@@ -988,7 +988,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/IV{</name>
+            <name>V{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
