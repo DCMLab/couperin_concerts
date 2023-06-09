@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review (v1.2.9)
-=====================================================================
-
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 3: ') ms3.Parse.couperin_concerts.c03n05_gavotte
-	MC 3: #vii in major context corrected to vii.
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 3: ') ms3.Parse.couperin_concerts.c03n05_gavotte
-	MC 3: #vii in major context corrected to vii.
