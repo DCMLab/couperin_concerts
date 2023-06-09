@@ -2640,7 +2640,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.TEN}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2667,7 +2667,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
