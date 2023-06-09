@@ -1028,7 +1028,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>iv.V2-#viio64</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -1078,6 +1078,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.374"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
