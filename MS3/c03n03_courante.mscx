@@ -1853,7 +1853,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             <offset x="0" y="-3.26074"/>
             </Harmony>
           <Fermata>
@@ -2026,7 +2026,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i</name>
+            <name>i.i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2043,7 +2043,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             <offset x="0" y="-3.41289"/>
             </Harmony>
           <Fermata>
@@ -2221,6 +2221,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -4971,6 +4975,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.24872</minDistance>
+            <offset x="0" y="0.529055"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
@@ -4991,6 +4997,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.24872</minDistance>
+            <offset x="0" y="1.05811"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
