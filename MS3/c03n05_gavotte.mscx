@@ -2098,7 +2098,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2145,7 +2145,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.@none</name>
+            <name>{</name>
             <offset x="0" y="-1.58711"/>
             </Harmony>
           <Beam>
@@ -2225,7 +2225,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII6</name>
+            <name>i.VII6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4468,7 +4468,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>5</digit>
               </FiguredBassItem>
-            <offset x="0.304298" y="6.07607"/>
+            <minDistance>-1.36355</minDistance>
+            <offset x="0.429207" y="0.954809"/>
             </FiguredBass>
           <Chord>
             <durationType>32nd</durationType>
