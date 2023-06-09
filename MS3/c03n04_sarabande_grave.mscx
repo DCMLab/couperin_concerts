@@ -1206,6 +1206,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.874362" y="3.49745"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -1229,13 +1231,15 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.PHR}</name>
             <offset x="0.304298" y="-4.09756"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.74872"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1523,6 +1527,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.124909" y="2.74799"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1617,7 +1623,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
-              <offset x="0.658281" y="-2.64678"/>
+              <offset x="-0.965533" y="1.3503"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
