@@ -354,7 +354,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>a.i</name>
+            <name>a.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.5</tempo>
@@ -570,7 +570,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -590,7 +590,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V65/iv</name>
+            <name>i.V65/iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
