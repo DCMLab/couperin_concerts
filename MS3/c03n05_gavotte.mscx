@@ -2518,7 +2518,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5202,7 +5202,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
-            <offset x="-1.22414" y="3.09266"/>
+            <minDistance>-1.43311</minDistance>
+            <offset x="0.274766" y="0.344666"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
