@@ -780,7 +780,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -813,7 +813,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Spanner type="TextLine">
             <TextLine>
@@ -1062,7 +1062,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1080,7 +1080,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2186,7 +2186,7 @@
           <StaffText>
             <placement>below</placement>
             <family>Times</family>
-            <offset x="0" y="13.4"/>
+            <offset x="-2.62308" y="4.65638"/>
             <text><font size="10.5"></font><font face="SnellRoundhand BoldScript"></font>Bourdon</text>
             </StaffText>
           <Chord>
