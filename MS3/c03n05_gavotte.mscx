@@ -621,7 +621,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/VII</name>
+            <name>#viio6/VII</name>
             <offset x="-0.152149" y="-4.24971"/>
             </Harmony>
           <Chord>
