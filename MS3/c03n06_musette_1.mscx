@@ -357,7 +357,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I</name>
+            <name>A.I{</name>
             </Harmony>
           <Tempo>
             <tempo>2.25</tempo>
@@ -380,6 +380,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0.374726" y="-0.499635"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -427,6 +428,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0.749453" y="0.624544"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -542,7 +544,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -593,6 +595,10 @@
           <Breath>
             <symbol>breathMarkComma</symbol>
             </Breath>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
