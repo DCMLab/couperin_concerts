@@ -1152,7 +1152,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1220,7 +1220,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv65</name>
+            <name>i.iv65{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
