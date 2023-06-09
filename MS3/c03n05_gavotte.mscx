@@ -1416,7 +1416,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1451,7 +1451,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i</name>
+            <name>v.i{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4214,7 +4214,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>5</digit>
               </FiguredBassItem>
-            <offset x="0.459923" y="3.47477"/>
+            <minDistance>-1.55064</minDistance>
+            <offset x="-0.28953" y="0.227141"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
