@@ -2746,7 +2746,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.TEN}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2775,7 +2775,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i6</name>
+            <name>v.i6{</name>
             <offset x="0" y="-4.32579"/>
             </Harmony>
           <Beam>
