@@ -805,7 +805,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1007,7 +1007,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             <offset x="0" y="-3"/>
             </Harmony>
           <Chord>
@@ -1026,7 +1026,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             <offset x="0" y="-3"/>
             </Harmony>
           <Chord>
