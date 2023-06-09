@@ -4712,6 +4712,7 @@
             </KeySig>
           <StaffText>
             <family>Times</family>
+            <offset x="-8.99343" y="-7.91881"/>
             <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>Majeur</text>
             </StaffText>
           <StaffText>
@@ -4724,6 +4725,10 @@
             <harmonyType>1</harmonyType>
             <name>I.I{</name>
             </Harmony>
+          <StaffText>
+            <offset x="4.99635" y="-8.90355"/>
+            <text>67</text>
+            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5083,7 +5088,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5099,6 +5104,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -5203,6 +5212,10 @@
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
+          <StaffText>
+            <offset x="-6.37035" y="-5.48657"/>
+            <text>77</text>
+            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6086,6 +6099,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="2.8729"/>
               </Articulation>
             <Note>
               <pitch>68</pitch>
