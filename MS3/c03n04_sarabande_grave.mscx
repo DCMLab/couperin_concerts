@@ -2166,7 +2166,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>VII.I</name>
             <offset x="-0.200983" y="-3.00627"/>
             </Harmony>
           <Chord>
@@ -2191,7 +2191,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.iv</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2218,7 +2218,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>#vi%65</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -2327,7 +2327,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i/v</name>
             <offset x="0" y="-4.32579"/>
             </Harmony>
           <Chord>
@@ -2345,10 +2345,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -2366,7 +2362,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2408,7 +2404,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%65</name>
+            <name>#vii%65</name>
             <offset x="-3.36639" y="-2.95905"/>
             </Harmony>
           <Chord>
@@ -2514,7 +2510,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>i.V</name>
             <offset x="0.228223" y="-3.28332"/>
             </Harmony>
           <Chord>
