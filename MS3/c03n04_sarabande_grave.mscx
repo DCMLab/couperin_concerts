@@ -2519,6 +2519,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.124909" y="1.87363"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2569,7 +2571,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I65</name>
+            <name>i43</name>
             </Harmony>
           </voice>
         <voice>
