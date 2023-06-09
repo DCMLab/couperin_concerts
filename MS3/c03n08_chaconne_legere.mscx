@@ -4123,7 +4123,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4143,7 +4143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V65/iv</name>
+            <name>i.V65/iv{</name>
             <offset x="-0.153018" y="-3.26509"/>
             </Harmony>
           <Beam>
