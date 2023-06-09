@@ -5813,7 +5813,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <offset x="0.152149" y="-4.17364"/>
+            <offset x="0.651784" y="-2.92455"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5834,6 +5834,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="2.37327"/>
               </Articulation>
             <Note>
               <pitch>68</pitch>
@@ -6063,6 +6065,10 @@
             <harmonyType>1</harmonyType>
             <name>vi</name>
             </Harmony>
+          <StaffText>
+            <offset x="-9.74289" y="-6.42454"/>
+            <text>90</text>
+            </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -6146,7 +6152,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6159,6 +6165,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
