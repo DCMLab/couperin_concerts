@@ -1085,7 +1085,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             <offset x="0" y="-3.86934"/>
             </Harmony>
           <Chord>
@@ -1102,7 +1102,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i6</name>
+            <name>v.i6{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
