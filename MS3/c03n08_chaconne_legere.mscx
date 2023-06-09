@@ -7685,7 +7685,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
