@@ -2366,7 +2366,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.i</name>
+            <name>i.i</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2514,7 +2514,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V</name>
+            <name>V</name>
             <offset x="0.228223" y="-3.28332"/>
             </Harmony>
           <Chord>
