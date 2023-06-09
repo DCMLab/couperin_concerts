@@ -5213,7 +5213,7 @@
             <name>I6</name>
             </Harmony>
           <StaffText>
-            <offset x="-6.37035" y="-5.48657"/>
+            <offset x="-0.624544" y="-7.73493"/>
             <text>77</text>
             </StaffText>
           <Beam>
@@ -5247,6 +5247,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.24909"/>
               </Articulation>
             <Note>
               <pitch>73</pitch>
@@ -5297,7 +5299,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>V65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5609,7 +5611,11 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="0" y="-1.37582"/>
             </Harmony>
+          <StaffText>
+            <text>83</text>
+            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
