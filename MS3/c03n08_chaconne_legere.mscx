@@ -2640,7 +2640,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.TEN}</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2746,7 +2746,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.TEN}</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
