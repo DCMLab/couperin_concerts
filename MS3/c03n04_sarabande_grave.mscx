@@ -631,6 +631,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.62381"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -678,6 +680,8 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.249818" y="2.74799"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -714,6 +718,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-1.12418" y="2.8729"/>
               </Articulation>
             <Note>
               <pitch>77</pitch>
@@ -751,6 +756,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.124909" y="2.8729"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -813,7 +820,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -858,7 +865,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
