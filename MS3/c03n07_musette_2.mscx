@@ -1202,6 +1202,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.249818" y="1.374"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -1230,7 +1231,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             <offset x="0" y="-4.1"/>
             </Harmony>
           <Fermata>
@@ -1284,7 +1285,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i</name>
+            <name>i.i{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
