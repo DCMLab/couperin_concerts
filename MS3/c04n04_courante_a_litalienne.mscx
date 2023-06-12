@@ -4700,7 +4700,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             <offset x="-0.228223" y="-7.29269"/>
             </Harmony>
           <Fermata>
@@ -4747,6 +4747,10 @@
             <offset x="0" y="14.6"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Petite reprise</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
