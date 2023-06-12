@@ -2394,7 +2394,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/II</name>
+            <name>V/ii</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
