@@ -2609,6 +2609,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.749453" y="3.74726"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -2647,6 +2648,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.249818" y="1.87363"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -2702,7 +2705,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -4080,6 +4083,8 @@
               <prefix>4</prefix>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-1.74836</minDistance>
+            <offset x="0.249818" y="2.3472"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4095,6 +4100,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.87327</minDistance>
+            <offset x="-0.124909" y="2.25171"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4122,6 +4129,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.3729</minDistance>
+            <offset x="0.124909" y="1.65658"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
