@@ -353,7 +353,7 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>e.i</name>
+            <name>e.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.3333333333333333</tempo>
@@ -1245,7 +1245,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1277,13 +1277,14 @@
             <subtype>start-repeat</subtype>
             </BarLine>
           <StaffText>
+            <minDistance>0.35147</minDistance>
             <family>Times</family>
-            <offset x="-4.18409" y="-8.97492"/>
+            <offset x="-4.43391" y="-6.85147"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Reprise</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>III.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3032,6 +3033,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.49854</minDistance>
+            <offset x="0.499635" y="0.279237"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3140,6 +3143,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.24726</minDistance>
+            <offset x="0" y="0.308292"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3177,6 +3182,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-1.74836</minDistance>
+            <offset x="0" y="0.0294194"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3193,6 +3200,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.87181</minDistance>
+            <offset x="0.124909" y="1.96153"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
