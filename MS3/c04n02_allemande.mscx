@@ -2317,7 +2317,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2329,7 +2329,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
