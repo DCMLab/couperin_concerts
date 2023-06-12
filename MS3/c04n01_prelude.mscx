@@ -2364,7 +2364,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(64)</name>
             </Harmony>
           <Spanner type="TextLine">
             <TextLine>
@@ -2426,6 +2426,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.124909" y="1.62381"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -2494,7 +2495,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2539,7 +2540,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv6{</name>
             <offset x="0" y="-3.4"/>
             </Harmony>
           <Beam>
