@@ -1192,7 +1192,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             <offset x="-0.0760745" y="-5.23868"/>
             </Harmony>
           <Chord>
@@ -1231,7 +1231,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
