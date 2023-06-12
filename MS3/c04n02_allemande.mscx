@@ -2477,7 +2477,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>III+M7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
