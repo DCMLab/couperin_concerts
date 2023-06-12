@@ -855,7 +855,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6</name>
-            <offset x="1.90186" y="-1.58711"/>
+            <offset x="0.652772" y="-2.89194"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -863,6 +863,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.249818" y="3.87217"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -1119,7 +1121,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.TEN}</name>
             <offset x="0" y="-3.48897"/>
             </Harmony>
           <Chord>
@@ -1195,7 +1197,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV{</name>
             <offset x="-0.228223" y="-3.41289"/>
             </Harmony>
           <Chord>
@@ -1204,6 +1206,9 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="2.12345"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1214,6 +1219,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.374726" y="1.49972"/>
               </Articulation>
             <Note>
               <pitch>76</pitch>
@@ -2912,6 +2919,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.24872</minDistance>
+            <offset x="0" y="0.529055"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3025,6 +3034,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.24872</minDistance>
+            <offset x="0.124909" y="0.529055"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
