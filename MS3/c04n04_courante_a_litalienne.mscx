@@ -3956,7 +3956,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6\\</name>
+            <name>i6|EC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3977,6 +3977,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
