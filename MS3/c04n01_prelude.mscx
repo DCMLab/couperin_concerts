@@ -1600,7 +1600,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1693,8 +1693,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
-            <offset x="2.20616" y="-0.826362"/>
+            <name>v6{</name>
+            <offset x="-0.292016" y="-4.82344"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1703,6 +1703,7 @@
             <Articulation>
               <direction>up</direction>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.249818" y="0.624544"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
