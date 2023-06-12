@@ -355,6 +355,12 @@
             <harmonyType>1</harmonyType>
             <name>e.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -629,6 +635,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.374726" y="1.24909"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
