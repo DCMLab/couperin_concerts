@@ -1384,9 +1384,12 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.624544" y="1.99854"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0.624544" y="1.99854"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1401,7 +1404,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1566,7 +1569,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -4173,6 +4176,8 @@
               <prefix>4</prefix>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-1.74836</minDistance>
+            <offset x="0" y="0.0294194"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4217,6 +4222,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.87327</minDistance>
+            <offset x="0" y="-0.0954894"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4305,6 +4312,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.87181</minDistance>
+            <offset x="0.124909" y="-0.316252"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
