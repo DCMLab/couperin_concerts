@@ -4653,8 +4653,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
-            <offset x="-0.608596" y="-8.20558"/>
+            <name>i|PAC}</name>
+            <offset x="-0.608596" y="-3.70886"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
