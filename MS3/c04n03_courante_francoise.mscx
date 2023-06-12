@@ -350,6 +350,12 @@
             <offset x="-2.56533" y="-13.9093"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Galament</text>
             </Tempo>
+          <Tempo>
+            <tempo>2.6333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 79</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
