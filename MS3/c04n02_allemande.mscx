@@ -1051,7 +1051,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.ii%65/v</name>
+            <name>v.ii%65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
