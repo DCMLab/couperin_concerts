@@ -895,7 +895,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>iii6</name>
             <offset x="-0.68467" y="-3.94541"/>
             </Harmony>
           <Chord>
@@ -903,6 +903,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.49891"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
