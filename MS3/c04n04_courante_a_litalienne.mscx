@@ -2291,7 +2291,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>{III.V</name>
+            <offset x="0" y="-2.74982"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
