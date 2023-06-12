@@ -365,7 +365,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>e.i</name>
+            <name>e.i{</name>
             <offset x="-0.380372" y="-4.47794"/>
             </Harmony>
           <Chord>
@@ -734,7 +734,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             <offset x="0" y="-3.33682"/>
             </Harmony>
           <Chord>
@@ -761,7 +761,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
