@@ -1610,7 +1610,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8167,7 +8167,7 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
-            <offset x="0" y="11.5883"/>
+            <offset x="0.249818" y="6.34213"/>
             </FiguredBass>
           </voice>
         <voice>
