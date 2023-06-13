@@ -1768,6 +1768,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC.SIM}</name>
+            <offset x="-1.374" y="-5.59911"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1814,12 +1815,14 @@
           <StaffText>
             <placement>below</placement>
             <family>Times</family>
-            <offset x="-1.88158" y="1.03026"/>
+            <offset x="-0.382674" y="3.0288"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Reprise</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <minDistance>-4.24653</minDistance>
+            <offset x="0.624544" y="-2.64756"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -3977,10 +3980,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -3995,7 +3994,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7(9)</name>
+            <name>IV7(9){</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
