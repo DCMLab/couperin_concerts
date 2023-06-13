@@ -1088,10 +1088,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -3168,6 +3164,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.62199</minDistance>
+            <offset x="0" y="-0.0553549"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
