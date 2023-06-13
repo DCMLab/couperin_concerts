@@ -905,7 +905,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -938,6 +938,10 @@
           <label>segno</label>
           </Marker>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -1731,9 +1735,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.41366" y="-2.50603"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2878,9 +2879,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.3494" y="-2.50603"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3893,9 +3891,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.46039" y="-1.57722"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
