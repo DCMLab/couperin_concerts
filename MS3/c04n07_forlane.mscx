@@ -2729,6 +2729,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.249818" y="1.12418"/>
               </Articulation>
             <Note>
               <pitch>80</pitch>
@@ -2842,6 +2843,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.374726" y="1.49891"/>
               </Articulation>
             <Note>
               <pitch>75</pitch>
@@ -2908,6 +2911,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.499635" y="0.249818"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2921,7 +2925,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2931,6 +2935,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -3911,6 +3919,9 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="1.46039" y="-1.57722"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
