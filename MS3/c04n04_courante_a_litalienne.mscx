@@ -2294,7 +2294,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{III.V</name>
+            <name>III.V{</name>
             <offset x="0" y="-2.74982"/>
             </Harmony>
           <Chord>
@@ -3980,6 +3980,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -3994,7 +3998,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7(9){</name>
+            <name>IV7(9)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
