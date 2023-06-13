@@ -1122,7 +1122,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-4.09756"/>
             </Harmony>
           <Chord>
@@ -1201,7 +1201,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.ii%43</name>
+            <name>ii.ii%43{</name>
             <offset x="-1.44541" y="-4.40186"/>
             </Harmony>
           <Chord>
