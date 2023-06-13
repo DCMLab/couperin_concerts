@@ -2048,7 +2048,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2073,6 +2073,10 @@
           <label>3e</label>
           </Marker>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2887,6 +2891,9 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="1.3494" y="-2.50603"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3899,6 +3906,9 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o4 x="1.46039" y="-1.57722"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
