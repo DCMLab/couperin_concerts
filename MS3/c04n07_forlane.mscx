@@ -356,6 +356,12 @@
             <offset x="0" y="14.3"/>
             <text><font size="12"></font><font face="SnellRoundhand BoldScript"></font>Rondeau</text>
             </StaffText>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
