@@ -2149,10 +2149,16 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
             </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -2310,6 +2316,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0" y="0.786876"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -2378,7 +2385,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2399,7 +2406,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2530,7 +2537,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2551,7 +2558,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV65</name>
+            <name>IV65{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -2914,7 +2921,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2976,7 +2983,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
