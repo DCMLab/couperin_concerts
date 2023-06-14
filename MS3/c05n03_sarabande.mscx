@@ -1831,6 +1831,10 @@
           <label>fine</label>
           </Marker>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
