@@ -50,6 +50,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 11	10	81/2	1.0	1/2	1/2	2/2	1	1		V(64)	F	V		V(64)	V			64				M	0	0	1, 0, 4		1	1
 11	10	83/2	1.0	3/4	3/4	2/2	1	1		V	F	V		V	V							M	0	0	1, 5, 2		1	1
 12	11			0	0	2/2	1	1	1	I|PAC}	F	V		I	I					PAC	}	M	0	0	0, 4, 1		0	0
+12	11		0.0	1/8	1/8	2/2	1	1	1	{	F	V									{		0	0				
 13	11	85/2	1.5	0	0	2/2	1	1	2	I|PAC}	F	V		I	I					PAC	}	M	0	0	0, 4, 1		0	0
 13	11	43	0.0	1/8	1/8	2/2	1	1	2	{	F	V									{		0	0				
 13	11	44	0.5	3/8	3/8	2/2	1	1	2	I.V	F	I		V	V							M	0	0	1, 5, 2		1	1
@@ -153,5 +154,5 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 44	42	168	0.5	3/8	3/8	2/2	1	1		I	F	I		I	I							M	0	0	0, 4, 1		0	0
 44	42	337/2	1.0	1/2	1/2	2/2	1	1		V(64)	F	I		V(64)	V			64				M	0	0	1, 0, 4		1	1
 44	42	339/2	1.0	3/4	3/4	2/2	1	1		V7	F	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
-45	43			0	0	2/2	1	1	1	I|PAC}	F	I		I	I					PAC	}	M	0	0	0, 4, 1		0	0
+45	43			0	0	2/2	1	1	1	I|PAC	F	I		I	I					PAC		M	0	0	0, 4, 1		0	0
 46	43	341/2	4.0	0	0	2/2	1	1	2	I|PAC}	F	I		I	I					PAC	}	M	0	0	0, 4, 1		0	0

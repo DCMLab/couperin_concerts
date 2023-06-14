@@ -808,6 +808,7 @@
             <harmonyType>1</harmonyType>
             <name>{</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="0.674465" y="-2.5"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -820,6 +821,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.899287" y="1.12411"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1528,6 +1531,15 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="2.92268" y="-3.62411"/>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -2149,6 +2161,7 @@
             <harmonyType>1</harmonyType>
             <name>{</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="0.224822" y="-2.5"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4818,7 +4831,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
