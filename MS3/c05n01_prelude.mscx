@@ -1483,7 +1483,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.i6(#7)</name>
+            <name>V.bIII+7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4468,6 +4468,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.00813</minDistance>
+            <offset x="-0.112411" y="0.391529"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
