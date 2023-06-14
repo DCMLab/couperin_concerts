@@ -459,6 +459,10 @@
             <offset x="3.37233" y="-0.0656207"/>
             <text>)</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -492,7 +496,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -618,6 +622,10 @@
             <offset x="3.03509" y="0.271612"/>
             <text>)</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -651,7 +659,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI65</name>
+            <name>VI65{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3838,6 +3846,8 @@
               <digit>6</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.63581</minDistance>
+            <offset x="0" y="0.164081"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4028,6 +4038,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="0" y="0.165394"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
