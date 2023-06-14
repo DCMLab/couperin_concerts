@@ -279,7 +279,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>f.i</name>
+            <name>f.i{</name>
             </Harmony>
           <Tempo>
             <tempo>2</tempo>
@@ -819,7 +819,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -890,7 +890,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3336,6 +3336,8 @@
               <digit>6</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="-0.224822" y="0.276492"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
