@@ -1483,12 +1483,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.bIII+7(9)</name>
+            <name>V.bIII+M7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.12411"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -1580,7 +1581,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1622,6 +1623,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
