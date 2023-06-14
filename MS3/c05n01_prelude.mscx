@@ -3169,6 +3169,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
             </Harmony>
+          <SystemText>
+            <minDistance>-999</minDistance>
+            <offset x="0.112411" y="-7.80047"/>
+            <text>Gravé par L.Huë</text>
+            </SystemText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
