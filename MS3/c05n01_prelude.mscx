@@ -1746,6 +1746,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii65/vi</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4070,6 +4074,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.63581</minDistance>
+            <offset x="0" y="0.164081"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
