@@ -1969,7 +1969,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
-              <offset x="0.658281" y="-1.81374"/>
+              <offset x="-0.128595" y="0.209655"/>
               </Articulation>
             <Note>
               <Spanner type="Tie">
@@ -2098,7 +2098,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -2149,6 +2149,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
