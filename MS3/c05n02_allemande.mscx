@@ -2635,7 +2635,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2648,6 +2648,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6581,6 +6585,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.20956</minDistance>
+            <offset x="0.224822" y="0.390216"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6807,6 +6813,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.75991</minDistance>
+            <offset x="0" y="0.839859"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
