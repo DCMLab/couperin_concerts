@@ -1511,6 +1511,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -1735,7 +1739,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi6</name>
-            <offset x="0.137707" y="-4.70332"/>
+            <offset x="-0.536758" y="-4.02885"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1842,7 +1846,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1861,6 +1865,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
