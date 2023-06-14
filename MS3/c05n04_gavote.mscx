@@ -1609,7 +1609,7 @@
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
-            <offset x="9.3301" y="-0.020668"/>
+            <offset x="11.2411" y="-0.020668"/>
             <text>)</text>
             </StaffText>
           <Chord>
@@ -2010,11 +2010,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
-            <offset x="5.28331" y="-0.329601"/>
+            <offset x="6.29501" y="-0.329601"/>
             <text>)</text>
             </StaffText>
           <Chord>
@@ -2027,7 +2027,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
