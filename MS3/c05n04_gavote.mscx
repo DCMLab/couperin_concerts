@@ -2157,6 +2157,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0" y="0.449643"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2164,9 +2165,19 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>}</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
