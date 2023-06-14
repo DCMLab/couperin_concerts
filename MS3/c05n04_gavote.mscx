@@ -2289,11 +2289,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
-            <offset x="8.20599" y="0.291743"/>
+            <offset x="6.40742" y="0.291743"/>
             <text>)</text>
             </StaffText>
           <Chord>
@@ -2309,7 +2309,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i</name>
+            <name>i.i{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
