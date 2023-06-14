@@ -2432,11 +2432,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
-            <offset x="9.44251" y="-0.908257"/>
+            <offset x="10.5666" y="-0.795846"/>
             <text>)</text>
             </StaffText>
           <Chord>
@@ -2457,6 +2457,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
