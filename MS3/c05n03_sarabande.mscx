@@ -772,7 +772,7 @@
           <StaffText>
             <placement>below</placement>
             <offset x="0" y="5.09921"/>
-            <text>reprise</text>
+            <text>Reprise</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -994,6 +994,11 @@
             <harmonyType>1</harmonyType>
             <name>V\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.37233" y="-0.666833"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -1493,6 +1498,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.25991" y="0.384023"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
