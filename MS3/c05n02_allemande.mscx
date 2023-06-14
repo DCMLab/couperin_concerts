@@ -2508,6 +2508,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.337233" y="4.1592"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -2545,6 +2547,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="2.36063"/>
               </Articulation>
             <Note>
               <pitch>72</pitch>
@@ -6223,6 +6227,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.86063</minDistance>
+            <offset x="0.337233" y="1.73915"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6284,7 +6290,6 @@
             <ticks>1/2</ticks>
             <FiguredBassItem>
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
-              <prefix>4</prefix>
               <digit>6</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
