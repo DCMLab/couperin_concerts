@@ -1,0 +1,25 @@
+Warnings encountered during the last execution of ms3 review (v1.2.9)
+=====================================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c05n02_allemande
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {             5a         }
+	            5a         {             7a         }
+	            7a         {            11a         }
+	           11a         {             5b         }
+	            5b         {             7b         }
+	            7b         {            11b         }
+	           11b         {            14a         }
+	           14a         {            16a         }
+	           16a         {            22a         }
+	           22a         {            28a         }
+	           28a         {            38a         }
+	           38a         {            43a         }
+	           43a         {            43a         }
+	           14b         {            14b         }
+	           16b         {            16b         }
+	           22b         {            22b         }
+	           28b         {            28b         }
+	           38b         {            38b         }
+	           NaN       NaN            43b         }
