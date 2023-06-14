@@ -3267,14 +3267,14 @@
         <Marker>
           <style>Repeat Text Right</style>
           <placement>below</placement>
-          <offset x="-0.299981" y="19.3484"/>
+          <offset x="-2.5482" y="16.763"/>
           <text>Fine</text>
           <label>fine</label>
           </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5997,6 +5997,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.31027</minDistance>
+            <offset x="0" y="-0.510384"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -6033,6 +6035,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="0.786876" y="0.165394"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
