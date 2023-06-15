@@ -1693,7 +1693,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1708,7 +1708,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I6</name>
+            <name>I.I6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
