@@ -268,7 +268,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>B.I</name>
+            <name>B.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.5</tempo>
@@ -883,7 +883,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -912,6 +912,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -4464,6 +4468,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="-0.224822" y="0.165394"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4619,6 +4625,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>2</digit>
               </FiguredBassItem>
+            <offset x="0.674465" y="0.165394"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4760,6 +4767,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="0" y="0.165394"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4835,6 +4844,8 @@
               <digit>4</digit>
               <suffix>6</suffix>
               </FiguredBassItem>
+            <minDistance>-3.77161</minDistance>
+            <offset x="0.112411" y="2.12805"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
