@@ -273,7 +273,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.I</name>
+            <name>Bb.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.3333333333333333</tempo>
@@ -506,7 +506,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -557,7 +557,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
