@@ -268,7 +268,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.I</name>
+            <name>Bb.I{</name>
             </Harmony>
           <Tempo>
             <tempo>2.1000000000000001</tempo>
@@ -561,7 +561,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -586,6 +586,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
