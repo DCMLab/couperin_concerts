@@ -3423,14 +3423,14 @@
         <Marker>
           <style>Repeat Text Right</style>
           <placement>below</placement>
-          <offset x="0.209915" y="19.8895"/>
+          <offset x="-13.167" y="17.3041"/>
           <text>Fine</text>
           <label>fine</label>
           </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
