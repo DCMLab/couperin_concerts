@@ -993,7 +993,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1013,7 +1013,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
