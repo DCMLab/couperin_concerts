@@ -3753,7 +3753,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3791,7 +3791,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.vi</name>
+            <name>I.vi{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
