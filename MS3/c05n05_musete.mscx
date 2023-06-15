@@ -2260,7 +2260,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2298,7 +2298,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.i6</name>
+            <name>vi.i6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5564,7 +5564,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>6</digit>
               </FiguredBassItem>
-            <offset x="-0.55083" y="7.37707"/>
+            <offset x="0.236046" y="0.407598"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
