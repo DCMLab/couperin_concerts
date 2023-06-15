@@ -2670,6 +2670,11 @@
             <harmonyType>1</harmonyType>
             <name>I\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.69786" y="0.232454"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2777,6 +2782,11 @@
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.59715" y="-0.0247839"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -5370,6 +5380,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.20956</minDistance>
+            <offset x="0" y="2.16802"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
