@@ -3146,7 +3146,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -3163,7 +3163,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV.ii6</name>
+            <name>IV.ii6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
