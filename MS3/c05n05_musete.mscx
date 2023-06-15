@@ -617,6 +617,7 @@
         <irregular>1</irregular>
         <Marker>
           <style>Repeat Text Left</style>
+          <offset x="0.112411" y="-5.48474"/>
           <text><sym>segno</sym></text>
           <label>segno</label>
           </Marker>
@@ -1340,6 +1341,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

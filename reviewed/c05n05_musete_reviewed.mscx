@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision></programRevision>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -151,24 +151,25 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Johannes Menke</metaTag>
+    <metaTag name="annotators">Johannes Menke (2.1.0), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1724</metaTag>
     <metaTag name="composed_start">1724</metaTag>
-    <metaTag name="composer">Franz Schubert</metaTag>
+    <metaTag name="composer">Francois Couperin</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-08-01</metaTag>
-    <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Menuett Nr. 1</metaTag>
+    <metaTag name="workTitle">Musete c05n05</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -272,7 +273,19 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>F.I</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>F.I{</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 80</text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -597,6 +610,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.69786" y="0.0467902"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -787,6 +805,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.68616" y="0.271612"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1036,6 +1059,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1092,6 +1121,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1224,6 +1259,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1248,7 +1289,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1340,6 +1380,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1368,6 +1414,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1473,6 +1525,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.68616" y="0.0467902"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1542,6 +1599,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.I6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1566,7 +1629,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1582,7 +1644,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1598,7 +1659,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1618,7 +1678,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1627,6 +1686,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1638,7 +1698,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1652,7 +1711,6 @@
             <durationType>16th</durationType>
             <grace16after/>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -1691,7 +1749,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -1710,6 +1767,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1725,6 +1788,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.I6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2287,6 +2356,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2296,6 +2371,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.47304" y="0.271612"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -2320,6 +2400,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi.i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi.i6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2779,6 +2865,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC.SIM}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2797,6 +2889,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3180,6 +3278,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3195,6 +3299,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.IV{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3645,10 +3755,16 @@
             <harmonyType>1</harmonyType>
             <name>I</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.68616" y="-1.13719"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.674465" y="0.674465"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -3798,6 +3914,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|IAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3837,6 +3959,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.vi{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4244,6 +4372,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5412,7 +5546,6 @@
               <subtype>ornamentShortTrill</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5649,7 +5782,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>6</digit>
               </FiguredBassItem>
-            <offset x="-0.55083" y="7.37707"/>
+            <offset x="0.236046" y="0.407598"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -5659,6 +5792,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>0.314124</minDistance>
+            <offset x="1.68616" y="-2.08902"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -5832,7 +5970,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5841,6 +5978,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -5855,7 +5993,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5875,7 +6012,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5884,6 +6020,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -5891,7 +6028,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5962,6 +6098,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.32197</minDistance>
+            <offset x="0.112411" y="0.277805"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -7747,6 +7885,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.98474</minDistance>
+            <offset x="0" y="0.615037"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>

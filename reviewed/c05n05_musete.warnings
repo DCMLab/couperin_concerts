@@ -1,18 +1,26 @@
-Warnings encountered during the last execution of ms3 review (v1.2.7)
+Warnings encountered during the last execution of ms3 review (v1.2.9)
 =====================================================================
 
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '0', 'I6') ms3.Parse.couperin_concerts.c05n05_musete
-	The label 'I6' in m. 13, onset 0 (MC 15, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of F.I, it expresses the scale degrees ('6', '1', '4') [('D', 'F', 'Bb')].
-	The corresponding score segment has 2 within-label and 4 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 21, '0', 'I6') ms3.Parse.couperin_concerts.c05n05_musete
-	The label 'I6' in m. 18, onset 0 (MC 21, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of F.I, it expresses the scale degrees ('6', '1', '4') [('D', 'F', 'Bb')].
-	The corresponding score segment has 2 within-label and 4 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 21, '3/8', 'V43') ms3.Parse.couperin_concerts.c05n05_musete
-	The label 'V43' in m. 18, onset 3/8 (MC 21, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of F.I, it expresses the scale degrees ('5', 'b7', '1', '3') [('C', 'Eb', 'F', 'A')].
-	The corresponding score segment has 2 within-label and 4 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c05n05_musete
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {            10a         }
+	           10a         {            14a         }
+	           14a         {            10b         }
+	           10b         {            14b         }
+	           14b         {            20a         }
+	           20a         {            28a         }
+	           28a         {            20b         }
+	           20b         {            28b         }
+	           10c         {            10c         }
+	           28c         {            14d         }
+	           34a         {            34a         }
+	           40a         {            40a         }
+	           48a         {            48a         }
+	           54a         {            54a         }
+	           34b         {            34b         }
+	           40b         {            40b         }
+	           48b         {            48b         }
+	           10d         {            54b         }
+	           NaN       NaN            10d         }
+	           NaN       NaN            14e         }
