@@ -7,20 +7,22 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c05n05_musete
 	            0a         {            10a         }
 	           10a         {            14a         }
 	           14a         {            10b         }
-	           10b         {            14b         }
-	           14b         {            20a         }
-	           20a         {            28a         }
-	           28a         {            20b         }
-	           20b         {            28b         }
-	           10c         {            10c         }
-	           28c         {            14d         }
-	           34a         {            34a         }
-	           40a         {            40a         }
-	           48a         {            48a         }
-	           54a         {            54a         }
-	           34b         {            34b         }
-	           40b         {            40b         }
-	           48b         {            48b         }
-	           10d         {            54b         }
-	           NaN       NaN            10d         }
-	           NaN       NaN            14e         }
+	           14a         {            14b         }
+	           10b         {            20a         }
+	           14b         {            28a         }
+	           14b         {            20b         }
+	           20a         {            28b         }
+	           28a         {            10c         }
+	           20b         {            14d         }
+	           10c         {            34a         }
+	           14d         {            40a         }
+	           28c         {            48a         }
+	           34a         {            54a         }
+	           40a         {            34b         }
+	           48a         {            40b         }
+	           54a         {            48b         }
+	           34b         {            54b         }
+	           40b         {            10d         }
+	           48b         {            14e         }
+	           10d         {            NaN       NaN
+	           14e         {            NaN       NaN
