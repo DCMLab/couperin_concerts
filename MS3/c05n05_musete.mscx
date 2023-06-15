@@ -274,6 +274,12 @@
             <harmonyType>1</harmonyType>
             <name>F.I</name>
             </Harmony>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 80</text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5869,6 +5875,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.32197</minDistance>
+            <offset x="0.112411" y="0.277805"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -7621,6 +7629,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.98474</minDistance>
+            <offset x="0" y="0.615037"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
