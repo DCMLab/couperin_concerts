@@ -2623,7 +2623,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.TEN}</name>
+            <offset x="-0.449643" y="-4.29"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2633,6 +2634,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.449643" y="2.0234"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -2651,6 +2653,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
