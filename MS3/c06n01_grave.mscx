@@ -268,7 +268,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.I</name>
+            <name>Bb.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.2666666666666666</tempo>
@@ -504,7 +504,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -521,7 +521,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I64{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1994,12 +1994,15 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <offset x="0" y="-4.10071"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="2.36063"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -2054,6 +2057,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.224822" y="2.0234"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -4107,6 +4112,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.53509</minDistance>
+            <offset x="0" y="1.0735"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4274,6 +4281,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.08545</minDistance>
+            <offset x="0" y="1.51432"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4902,6 +4911,8 @@
               <digit>6</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="0.112411" y="0.165394"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5897,6 +5908,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.99643</minDistance>
+            <offset x="-0.449643" y="1.38096"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
