@@ -1396,7 +1396,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V{</name>
+            <name>{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -1489,6 +1489,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.23652"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
