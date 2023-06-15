@@ -2342,6 +2342,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0.224822" y="1.0117"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2483,6 +2484,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.224822" y="1.34893"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2559,7 +2562,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2576,7 +2579,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV.ii</name>
+            <name>IV.ii{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
