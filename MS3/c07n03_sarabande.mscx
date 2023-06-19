@@ -1677,7 +1677,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1705,7 +1705,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>ii%65{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
