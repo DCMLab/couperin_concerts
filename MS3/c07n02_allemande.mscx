@@ -825,7 +825,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>{iv.i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -845,10 +845,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -896,7 +892,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -911,14 +907,15 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>V(4)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.iio6</name>
+            <name>v.iio65</name>
+            <offset x="-0.112411" y="-2.61241"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5071,7 +5068,7 @@
               <prefix>4</prefix>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
-            <offset x="0.137707" y="6.82624"/>
+            <offset x="0.0252962" y="1.43052"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5191,6 +5188,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.08545</minDistance>
+            <offset x="0.449643" y="-0.285563"/>
             </FiguredBass>
           </voice>
         </Measure>
