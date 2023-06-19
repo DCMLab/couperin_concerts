@@ -968,7 +968,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1049,7 +1049,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>III.I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
