@@ -1709,6 +1709,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.337233" y="1.12411"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2241,7 +2243,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6|EC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2279,11 +2281,15 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5308,6 +5314,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.29857</minDistance>
+            <offset x="0" y="1.01297"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
