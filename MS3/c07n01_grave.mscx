@@ -1530,7 +1530,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1550,7 +1550,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.IV6</name>
+            <name>i.IV6{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
