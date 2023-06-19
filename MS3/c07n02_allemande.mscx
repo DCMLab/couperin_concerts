@@ -709,7 +709,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7000,6 +7000,8 @@
               <prefix>2</prefix>
               <digit>7</digit>
               </FiguredBassItem>
+            <minDistance>-2.53509</minDistance>
+            <offset x="0" y="1.89734"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7073,6 +7075,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.20956</minDistance>
+            <offset x="0.449643" y="0.390216"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
