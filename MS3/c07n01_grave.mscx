@@ -1373,7 +1373,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1390,7 +1390,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII.IV6</name>
+            <name>VII.IV6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3353,6 +3353,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.63581</minDistance>
+            <offset x="0" y="1.96397"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
