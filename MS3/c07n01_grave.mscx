@@ -1043,7 +1043,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1119,7 +1119,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V43</name>
+            <name>v.V43{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
