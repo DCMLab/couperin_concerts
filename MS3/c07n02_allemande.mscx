@@ -3254,6 +3254,11 @@
             <harmonyType>1</harmonyType>
             <name>i\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.58545" y="1.91862"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
