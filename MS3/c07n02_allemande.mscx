@@ -3682,6 +3682,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="12.1404"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -3748,6 +3750,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="2.81027"/>
               </Articulation>
             <Note>
               <pitch>57</pitch>
@@ -3767,6 +3771,10 @@
       <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
