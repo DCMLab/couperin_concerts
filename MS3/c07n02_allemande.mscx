@@ -825,7 +825,8 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{iv.i</name>
+            <name>iv.i{</name>
+            <offset x="-0.112411" y="-2.72482"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1245,7 +1246,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1257,7 +1258,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>iv7{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
