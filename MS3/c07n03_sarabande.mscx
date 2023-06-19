@@ -1320,7 +1320,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1341,7 +1341,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i64</name>
+            <name>i.i64{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
