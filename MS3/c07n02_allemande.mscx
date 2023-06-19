@@ -3456,7 +3456,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5551,6 +5551,8 @@
               <prefix>2</prefix>
               <digit>7</digit>
               </FiguredBassItem>
+            <minDistance>-1.74822</minDistance>
+            <offset x="0.337233" y="2.37275"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
