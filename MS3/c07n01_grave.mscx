@@ -2023,6 +2023,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.224822" y="1.34893"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -2426,14 +2427,14 @@
         <Marker>
           <style>Repeat Text Right</style>
           <placement>below</placement>
-          <offset x="-0.761992" y="19.4844"/>
+          <offset x="-12.9024" y="16.4493"/>
           <text>Fine</text>
           <label>fine</label>
           </Marker>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -3603,6 +3604,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-3.09715</minDistance>
+            <offset x="0.112411" y="0.502626"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3779,6 +3782,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-2.75991</minDistance>
+            <offset x="-0.112411" y="0.839859"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3890,6 +3895,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-3.32197</minDistance>
+            <offset x="0.224822" y="0.277805"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3955,6 +3962,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.07375</minDistance>
+            <offset x="0" y="0.726135"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4066,6 +4075,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-2.31027</minDistance>
+            <offset x="-0.224822" y="1.2895"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
