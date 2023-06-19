@@ -267,7 +267,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.V</name>
+            <name>g.V{</name>
             </Harmony>
           <Tempo>
             <tempo>1.3</tempo>
@@ -388,7 +388,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -464,7 +464,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv6{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2478,6 +2478,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-3.43438</minDistance>
+            <offset x="0" y="0.165394"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2537,6 +2539,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.41098</minDistance>
+            <offset x="0" y="0.388902"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -2614,6 +2618,8 @@
               <prefix>3</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="-0.337233" y="0.276492"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -2629,6 +2635,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-0.399287</minDistance>
+            <offset x="0" y="1.67709"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
