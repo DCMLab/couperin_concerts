@@ -2055,7 +2055,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2071,9 +2071,15 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0" y="-4.85465"/>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-0.112411" y="2.85711"/>
             <text>doux</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
