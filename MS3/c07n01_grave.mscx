@@ -269,6 +269,12 @@
             <harmonyType>1</harmonyType>
             <name>g.V</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.3</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 78</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
