@@ -268,7 +268,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i</name>
+            <name>g.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.9000000000000001</tempo>
@@ -554,6 +554,10 @@
             <offset x="2.69786" y="-0.178032"/>
             <text>)</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -563,7 +567,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
