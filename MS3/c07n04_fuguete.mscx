@@ -2514,6 +2514,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.449643" y="1.0117"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -2558,7 +2559,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.i6{</name>
+            <name>iv.i6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6730,6 +6731,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.07375</minDistance>
+            <offset x="-0.112411" y="2.24108"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
