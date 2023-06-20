@@ -806,7 +806,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V}</name>
             <minDistance>-2.42268</minDistance>
             <offset x="-0.337233" y="-4.48454"/>
             </Harmony>
@@ -1529,9 +1529,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.469195"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
