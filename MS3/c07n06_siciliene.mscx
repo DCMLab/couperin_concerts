@@ -2240,7 +2240,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2263,7 +2263,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
