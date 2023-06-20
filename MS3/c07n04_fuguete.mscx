@@ -752,6 +752,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.449643" y="1.46134"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -786,6 +788,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.224822" y="1.57375"/>
               </Articulation>
             <Note>
               <pitch>72</pitch>
@@ -1226,7 +1230,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1280,7 +1284,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio43{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -5574,6 +5578,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-2.87233</minDistance>
+            <offset x="0.224822" y="1.91826"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
