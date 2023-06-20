@@ -288,6 +288,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.112411" y="1.68616"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -676,6 +678,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.92268" y="0.0876269"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -815,6 +822,11 @@
             <harmonyType>1</harmonyType>
             <name>V\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="6.29501" y="-0.967299"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1734,6 +1746,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.03509" y="-0.0779056"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2227,6 +2244,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.37233" y="2.30754"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -3181,6 +3203,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.92268" y="-1.18973"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3347,6 +3374,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.29857</minDistance>
+            <offset x="0" y="0.501313"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3441,6 +3470,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.99643</minDistance>
+            <offset x="0.224822" y="-0.39666"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3880,6 +3911,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.29857</minDistance>
+            <offset x="0" y="0.501313"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -3900,6 +3933,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>4</digit>
               </FiguredBassItem>
+            <minDistance>-4.10884</minDistance>
+            <offset x="0" y="-0.00907112"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -3944,6 +3979,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-5.23295</minDistance>
+            <offset x="0.224822" y="0.166707"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4031,6 +4068,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.6592</minDistance>
+            <offset x="0.112411" y="0.440572"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4174,6 +4213,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.53509</minDistance>
+            <offset x="0" y="1.56468"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4190,6 +4231,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-5.00813</minDistance>
+            <offset x="-0.112411" y="1.95621"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4207,6 +4250,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-2.75991</minDistance>
+            <offset x="-0.337233" y="0.996182"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4437,6 +4482,11 @@
               <digit>3</digit>
               </FiguredBassItem>
             </FiguredBass>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.59715" y="-0.0656207"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
