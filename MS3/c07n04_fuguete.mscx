@@ -270,6 +270,12 @@
             <harmonyType>1</harmonyType>
             <name>g.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.9000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 76</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
