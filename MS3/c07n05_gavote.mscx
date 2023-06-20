@@ -1477,6 +1477,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.112411" y="2.0234"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1602,7 +1604,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>III.V{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1692,7 +1694,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1766,7 +1768,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>i.iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1811,7 +1813,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.iio</name>
+            <name>iio</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
