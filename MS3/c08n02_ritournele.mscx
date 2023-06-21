@@ -516,7 +516,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.PHR}</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -785,7 +785,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}</name>
+            <name>I}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -900,7 +900,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -3929,9 +3929,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.11269" y="0.33807"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3976,9 +3973,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.366853"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
