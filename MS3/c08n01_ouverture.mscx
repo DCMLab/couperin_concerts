@@ -1479,6 +1479,12 @@
             <subtype>start-repeat</subtype>
             <visible>0</visible>
             </BarLine>
+          <Tempo>
+            <tempo>2.6666666666666665</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 160</b></text>
+            </Tempo>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -1970,7 +1976,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1987,6 +1993,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
