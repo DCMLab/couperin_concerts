@@ -654,7 +654,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -671,7 +671,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.V2</name>
+            <name>iv.V2{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
