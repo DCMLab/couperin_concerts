@@ -2820,7 +2820,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2846,7 +2846,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.IV</name>
+            <name>i.IV{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
