@@ -1274,6 +1274,13 @@
             <harmonyType>1</harmonyType>
             <name>V{</name>
             </Harmony>
+          <Tempo>
+            <tempo>3.3333333333333335</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="0.112411" y="-9.2908"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 200</b></text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -1400,7 +1407,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1458,7 +1465,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I6</name>
+            <name>III.I6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
