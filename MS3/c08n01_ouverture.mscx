@@ -4470,7 +4470,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -6905,6 +6905,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.97304</minDistance>
+            <offset x="-0.224822" y="-0.173152"/>
             </FiguredBass>
           </voice>
         </Measure>
