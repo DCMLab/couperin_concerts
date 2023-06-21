@@ -2670,7 +2670,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}</name>
+            <name>I}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2809,7 +2809,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.CON}</name>
+            <name>V}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
