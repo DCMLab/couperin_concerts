@@ -3089,7 +3089,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(11#72)</name>
+            <name>III+M7(9)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3109,6 +3109,8 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.562054" y="1.79857"/>
               </Articulation>
             <Note>
               <Spanner type="Tie">
