@@ -1867,7 +1867,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -1891,7 +1891,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
