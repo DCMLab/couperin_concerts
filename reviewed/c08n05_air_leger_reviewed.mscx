@@ -356,11 +356,6 @@
             <offset x="9.55492" y="0.384023"/>
             <text>)</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -368,11 +363,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -428,11 +418,6 @@
             <offset x="1.57375" y="-0.0656207"/>
             <text>)</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -440,11 +425,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -655,11 +635,6 @@
             <offset x="1.68616" y="-0.0656207"/>
             <text>)</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -667,11 +642,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1096,11 +1066,6 @@
             <offset x="2.0234" y="0.0467902"/>
             <text>)</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1132,11 +1097,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1348,11 +1308,6 @@
             <offset x="1.68616" y="-0.290442"/>
             <text>)</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1360,11 +1315,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1653,14 +1603,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
