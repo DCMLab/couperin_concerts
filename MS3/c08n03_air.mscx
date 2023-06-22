@@ -1669,12 +1669,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.337233" y="1.12411"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
