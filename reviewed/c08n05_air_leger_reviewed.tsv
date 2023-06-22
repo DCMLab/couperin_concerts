@@ -70,4 +70,4 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	volta
 40	37	0	0	3/8	1	1	V(64)					G	I		V(64)	V			64				M	0	0	2, 1, 5		2	2	2	2	0.5	0.0625	0.1875	0.25
 40	37	1/8	1/8	3/8	1	1	V					G	I		V	V							M	0	0	2, 6, 3		2	2	0	2	0.0	0.0	0.4375	0.0
 40	37	1/4	1/4	3/8	1	1	V7					G	I		V7	V		7					Mm7	0	0	2, 6, 3, 0		2	2	1	0	1.0	0.0625	0.0	1.0
-41	38	0	0	3/8	1	1	I\\					G	I		I	I						\\	M	0	0	1, 5, 2		1	1	0	2	0.0	0.0	0.5	0.0
+41	38	0	0	3/8	1	1	I|PAC}					G	I		I	I					PAC	}	M	0	0	1, 5, 2		1	1	0	2	0.0	0.0	0.5	0.0
