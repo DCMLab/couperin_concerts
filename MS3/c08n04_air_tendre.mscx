@@ -1502,6 +1502,7 @@
         <endRepeat>2</endRepeat>
         <Jump>
           <style>Repeat Text Right</style>
+          <offset x="-2.47304" y="-6.51847"/>
           <text>D.C. al Fine</text>
           <jumpTo>start</jumpTo>
           <playUntil>fine</playUntil>
@@ -1510,7 +1511,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1942,6 +1943,8 @@
               <prefix>2</prefix>
               <digit>7</digit>
               </FiguredBassItem>
+            <minDistance>-0.84893</minDistance>
+            <offset x="0" y="0.950957"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -1999,6 +2002,8 @@
               <prefix>2</prefix>
               <digit>7</digit>
               </FiguredBassItem>
+            <minDistance>-1.63581</minDistance>
+            <offset x="0.112411" y="0.164081"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -2050,6 +2055,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.31027</minDistance>
+            <offset x="0" y="-0.510384"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -2160,6 +2167,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.41098</minDistance>
+            <offset x="0.112411" y="0.388902"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
