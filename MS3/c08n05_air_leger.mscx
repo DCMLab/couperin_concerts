@@ -266,6 +266,12 @@
             <harmonyType>1</harmonyType>
             <name>G.I</name>
             </Harmony>
+          <Tempo>
+            <tempo>2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
