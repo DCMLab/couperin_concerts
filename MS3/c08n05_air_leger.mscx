@@ -264,7 +264,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I</name>
+            <name>G.I{</name>
             </Harmony>
           <Tempo>
             <tempo>2</tempo>
@@ -350,6 +350,10 @@
             <offset x="9.55492" y="0.384023"/>
             <text>)</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -357,6 +361,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -412,6 +420,10 @@
             <offset x="1.57375" y="-0.0656207"/>
             <text>)</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -419,6 +431,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -459,6 +475,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <offset x="0.337233" y="-2.37443"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -539,7 +556,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -559,7 +576,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I</name>
+            <name>V.I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
