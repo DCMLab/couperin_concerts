@@ -524,6 +524,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.1475" y="0.271612"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -658,6 +663,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.59715" y="0.159201"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -736,6 +746,11 @@
             <harmonyType>1</harmonyType>
             <name>V7/III</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="5.39572" y="0.10488"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -926,6 +941,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.92268" y="-0.0712539"/>
+            <text>)</text>
+            </StaffText>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -2184,6 +2204,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.92268" y="-0.171071"/>
+            <text>)</text>
+            </StaffText>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -2531,6 +2556,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="8.99287" y="-0.0656207"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
