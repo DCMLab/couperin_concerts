@@ -1019,10 +1019,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
