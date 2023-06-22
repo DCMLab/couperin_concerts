@@ -1111,6 +1111,7 @@
       <Measure len="2/4">
         <Jump>
           <style>Repeat Text Right</style>
+          <offset x="-3.48474" y="-6.72126"/>
           <text>D.C.</text>
           <jumpTo>start</jumpTo>
           <playUntil>fine</playUntil>
@@ -1119,7 +1120,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1148,6 +1149,10 @@
           <label>2e</label>
           </Marker>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
