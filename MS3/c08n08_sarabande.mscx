@@ -1107,7 +1107,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI|DC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1151,7 +1151,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.IV</name>
+            <name>I.IV{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1875,6 +1875,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>4</digit>
               </FiguredBassItem>
+            <minDistance>-2.87233</minDistance>
+            <offset x="0.112411" y="3.02733"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
@@ -1894,6 +1896,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.54679</minDistance>
+            <offset x="-0.112411" y="3.08032"/>
             </FiguredBass>
           </voice>
         </Measure>
