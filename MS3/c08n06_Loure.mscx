@@ -1911,7 +1911,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1923,7 +1923,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V6</name>
+            <name>I.V6{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -1941,6 +1941,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
+            <offset x="-1.12411" y="-3.55794"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1965,6 +1966,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="0.899287"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -3408,6 +3410,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-2.98474</minDistance>
+            <offset x="0.224822" y="0.615037"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
@@ -3482,6 +3486,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.20956</minDistance>
+            <offset x="0.112411" y="0.390216"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
