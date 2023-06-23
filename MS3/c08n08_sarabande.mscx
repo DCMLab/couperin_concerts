@@ -461,7 +461,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>IV64</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
