@@ -263,7 +263,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <offset x="-1.34991" y="-10.3091"/>
+            <offset x="-4.49741" y="-8.2857"/>
             <text>Pesament</text>
             </StaffText>
           <Harmony>
@@ -629,6 +629,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.91098" y="-0.0656207"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1658,6 +1663,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.81027" y="-0.828262"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2239,6 +2249,11 @@
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.93438" y="-1.1553"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2389,6 +2404,11 @@
             <harmonyType>1</harmonyType>
             <name>vi</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="5.95777" y="-1.22131"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2775,6 +2795,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="10.117" y="-0.0656207"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -3725,6 +3750,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.88402</minDistance>
+            <offset x="-0.112411" y="2.05564"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
