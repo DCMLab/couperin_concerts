@@ -1543,7 +1543,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1555,7 +1555,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -2881,6 +2881,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0" y="0.276492"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
