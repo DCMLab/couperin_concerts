@@ -371,6 +371,11 @@
             <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.24822" y="0.10488"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -457,6 +462,11 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.92268" y="0.0467902"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
