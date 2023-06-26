@@ -852,6 +852,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.V{</name>
+            <offset x="1.23652" y="-4.06754"/>
             </Harmony>
           <Spanner type="Volta">
             <prev>
@@ -1189,7 +1190,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V/V{</name>
+            <name>I.V/V</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1216,7 +1217,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2140,7 +2141,7 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="-0.139943" y="-6.08895"/>
+            <offset x="-0.477176" y="-9.23645"/>
             <text>Reprise</text>
             </StaffText>
           <Rest>
