@@ -35,7 +35,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 20	19	59	0.0	1/2	1/2	3/4	1	1		}	G	vi									}		0	1				
 21	20	60	3.0	0	0	3/4	1	1		I.V6{	G	I		V6	V		6				{	M	0	0	5, 2, 1		1	5
 22	21	63	3.0	0	0	3/4	1	1		V	G	I		V	V							M	0	0	1, 5, 2		1	1
-23	22	66	3.0	0	0	3/4	1	1		I6	G	I		I6	I		6					M	0	0	4, 1, 0		0	4
+22	21	65	0.0	1/2	1/2	3/4	1	1		}	G	I									}		0	0				
+23	22	66	3.0	0	0	3/4	1	1		I6{	G	I		I6	I		6				{	M	0	0	4, 1, 0		0	4
 24	23	69	3.0	0	0	3/4	1	1		I	G	I		I	I							M	0	0	0, 4, 1		0	0
 25	24	72	3.0	0	0	3/4	1	1		V6	G	I		V6	V		6					M	0	0	5, 2, 1		1	5
 26	25	75	3.0	0	0	3/4	1	1		V43/V	G	I		V43/V	V		43		V			Mm7	0	0	3, 0, 2, 6		2	3
