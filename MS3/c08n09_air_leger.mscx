@@ -852,7 +852,12 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.V{</name>
@@ -1724,20 +1729,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            </Harmony>
           </voice>
         </Measure>
       </Staff>

@@ -10,6 +10,7 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c08n09_air_le
 	            6b         {            19a         }
 	           12a         {            29a         }
 	           20a         {            29a         }
-	           12b         {            19b         }
+	           29a         {            19b         }
+	           12b         {            29b         }
 	           20b         {            29b         }
-	           NaN       NaN            29b         }
+	           29b         {            NaN       NaN
