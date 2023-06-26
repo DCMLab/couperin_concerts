@@ -3332,7 +3332,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Spanner type="Volta">
             <Volta>
@@ -3362,7 +3362,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>III{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -3419,7 +3419,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Spanner type="Volta">
             <prev>
