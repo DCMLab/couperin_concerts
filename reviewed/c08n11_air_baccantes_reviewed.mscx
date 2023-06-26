@@ -367,10 +367,11 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0.337233" y="0.674465"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.742947" y="-0.883356"/>
+              <offset x="-0.493572" y="0.353163"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
