@@ -1,6 +1,9 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
+MISSING_END_REPEAT_WARNING (5, 12) ms3.Parse.couperin_concerts.c08n09_air_leger
+	The startRepeat in MC 12 is missing its endRepeat.
+	For correction, MC 12 is interpreted as such because it precedes the next startRepeat.
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c08n09_air_leger
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
@@ -9,8 +12,6 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c08n09_air_le
 	            1b         {             5b         }
 	            6b         {            19a         }
 	           12a         {            29a         }
-	           20a         {            29a         }
-	           29a         {            19b         }
+	           20a         {            19b         }
 	           12b         {            29b         }
-	           20b         {            29b         }
-	           29b         {            NaN       NaN
+	           20b         {            NaN       NaN

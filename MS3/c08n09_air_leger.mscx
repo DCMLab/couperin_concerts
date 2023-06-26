@@ -852,12 +852,7 @@
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            <visible>0</visible>
-            </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.V{</name>
@@ -1304,13 +1299,20 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1729,6 +1731,24 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <visible>0</visible>
+            </Harmony>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -2822,6 +2842,19 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
