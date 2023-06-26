@@ -262,18 +262,18 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <offset x="0" y="-11.7624"/>
+            <offset x="0.786876" y="-9.06454"/>
             <text>Lentement</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i</name>
+            <name>g.i{</name>
             </Harmony>
           <Tempo>
-            <tempo>1.3333333333333333</tempo>
+            <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
@@ -486,7 +486,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(11#72)</name>
+            <name>III+M7(9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
