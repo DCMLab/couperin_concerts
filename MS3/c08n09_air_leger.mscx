@@ -809,7 +809,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1146,6 +1146,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1217,7 +1221,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6{</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
