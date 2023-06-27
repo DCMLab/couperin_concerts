@@ -274,7 +274,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>E.I</name>
+            <name>E.I{</name>
             </Harmony>
           <Tempo>
             <tempo>1.3333333333333333</tempo>
@@ -396,7 +396,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-4.12941"/>
             </Harmony>
           <Beam>
@@ -446,6 +446,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -1513,9 +1517,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.169332" y="6.75593e-18"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
