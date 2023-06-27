@@ -1475,6 +1475,11 @@
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1494,7 +1499,6 @@
               <offset x="0" y="2.24822"/>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -3022,6 +3026,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -3029,6 +3039,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6249,6 +6260,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.53509</minDistance>
+            <offset x="0" y="1.06468"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -7443,7 +7456,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
-            <offset x="0.120817" y="6.04027"/>
+            <offset x="0.233228" y="0.419728"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
