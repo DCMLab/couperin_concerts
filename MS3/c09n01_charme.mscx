@@ -1184,6 +1184,11 @@
             <harmonyType>1</harmonyType>
             <name>I\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.0234" y="-0.891655"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -1710,6 +1715,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.03509" y="0.0345053"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -1749,7 +1759,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/iv</name>
-            <offset x="0" y="-5.52605"/>
+            <offset x="-0.112411" y="-4.17712"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1759,6 +1769,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.674465" y="1.68616"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -2257,6 +2268,11 @@
             <harmonyType>1</harmonyType>
             <name>i\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.24822" y="-0.104779"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2911,6 +2927,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.337233" y="1.34893"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -4522,6 +4539,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.41098</minDistance>
+            <offset x="0" y="2.47945"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5012,6 +5031,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0.112411" y="0.276492"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5093,6 +5114,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.74822</minDistance>
+            <offset x="-0.224822" y="1.85156"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
