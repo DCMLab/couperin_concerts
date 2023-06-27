@@ -1407,6 +1407,10 @@
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -5992,6 +5996,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.53509</minDistance>
+            <offset x="0" y="1.06468"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
