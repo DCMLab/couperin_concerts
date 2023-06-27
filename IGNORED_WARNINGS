@@ -41,3 +41,9 @@ MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.couperin_concerts.c14n02
 	0   1   1     1/8       7/8        <NA>              <NA>
 	1   2   1     7/8       1/8           1              <NA>
 	=> modernize this one would either delete the first eigth rest and make MC 1 anacrustic m. 0, or one would introduce a seconda volta after the first eight bars
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '7/8', 'IV') ms3.Parse.couperin_concerts.c09n01_charme
+       IV as label in m5 is fine, not sure why there was a warning
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 19, '7/8', 'V7') ms3.Parse.couperin_concerts.c09n01_charme
+       V7 in m19 is correct
