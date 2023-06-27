@@ -2271,7 +2271,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2286,6 +2286,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4735,6 +4739,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-4.33367</minDistance>
+            <offset x="0.224822" y="1.31849"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4859,6 +4865,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0" y="0.288423"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4878,6 +4886,8 @@
               <prefix>4</prefix>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-1.41098</minDistance>
+            <offset x="0" y="0.677325"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4893,6 +4903,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.18616</minDistance>
+            <offset x="0" y="1.29105"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
