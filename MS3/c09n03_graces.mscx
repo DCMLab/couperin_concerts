@@ -277,6 +277,13 @@
               <Node pos="44" action="512"/>
               </Groups>
             </TimeSig>
+          <Tempo>
+            <tempo>1.8333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-9.3301" y="-4.69786"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 110</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -4570,6 +4577,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>4</digit>
               </FiguredBassItem>
+            <minDistance>-4.78331</minDistance>
+            <offset x="0.449643" y="2.91624"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4590,6 +4599,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.54679</minDistance>
+            <offset x="0" y="2.96922"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
