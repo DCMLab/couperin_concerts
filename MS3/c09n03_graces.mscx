@@ -2042,7 +2042,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v65</name>
+            <name>v.ii65</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -2061,7 +2061,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V2</name>
+            <name>V2</name>
             <offset x="0" y="-3.54748"/>
             </Harmony>
           <Beam>
@@ -4118,6 +4118,8 @@
               <prefix>3</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="-0.224822" y="0.276492"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
