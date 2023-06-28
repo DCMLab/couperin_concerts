@@ -284,6 +284,10 @@
             <offset x="-9.3301" y="-4.69786"/>
             <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 110</b></text>
             </Tempo>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>E.I{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -296,10 +300,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>E.I</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -525,7 +525,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -574,6 +574,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
