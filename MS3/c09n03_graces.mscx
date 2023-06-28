@@ -887,6 +887,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V.ii6</name>
+            <offset x="-0.562054" y="-3.62411"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -925,6 +926,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.112411" y="1.23652"/>
               </Articulation>
             <Note>
               <pitch>75</pitch>
@@ -1794,7 +1797,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1807,6 +1810,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
