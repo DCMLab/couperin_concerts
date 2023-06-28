@@ -2125,6 +2125,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VIM7</name>
+            <offset x="-0.337233" y="-3.96134"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2363,6 +2364,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <offset x="0" y="-4.18616"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -4586,6 +4588,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.29857</minDistance>
+            <offset x="-0.224822" y="0.501313"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4606,8 +4610,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>4</digit>
               </FiguredBassItem>
-            <minDistance>-4.78331</minDistance>
-            <offset x="0.449643" y="2.91624"/>
+            <minDistance>-5.00813</minDistance>
+            <offset x="-0.449643" y="0.892842"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4628,8 +4632,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
-            <minDistance>-3.54679</minDistance>
-            <offset x="0" y="2.96922"/>
+            <minDistance>-2.75991</minDistance>
+            <offset x="0" y="1.7327"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
