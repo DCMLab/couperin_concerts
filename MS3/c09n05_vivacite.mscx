@@ -266,7 +266,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>E.I{</name>
-            <offset x="0" y="-4.692"/>
+            <offset x="-1.46134" y="-3.39105"/>
             </Harmony>
           <Tempo>
             <tempo>1.5</tempo>
@@ -290,6 +290,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.899287" y="0.899287"/>
               </Articulation>
             <Note>
               <pitch>80</pitch>
@@ -1137,6 +1138,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -1147,7 +1152,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I{</name>
+            <name>V.I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
