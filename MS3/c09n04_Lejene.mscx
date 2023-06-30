@@ -1315,7 +1315,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1336,7 +1336,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.v</name>
+            <name>vi.v{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
