@@ -2844,7 +2844,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             <offset x="0.684627" y="-2.97924"/>
             </Harmony>
           <Beam>
@@ -2855,7 +2855,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="6.06683" y="-1.54461"/>
+              <offset x="-0.452999" y="1.49048"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -2881,7 +2881,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6556,7 +6556,7 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>2</digit>
               </FiguredBassItem>
-            <offset x="-0.0684627" y="6.13693"/>
+            <offset x="-0.518106" y="0.403977"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6690,6 +6690,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-4.22126</minDistance>
+            <offset x="0" y="1.1784"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
