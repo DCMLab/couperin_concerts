@@ -2208,6 +2208,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <minDistance>-4.10884</minDistance>
+            <offset x="0" y="-3.37708"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2334,6 +2336,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.449643" y="2.24822"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2350,7 +2354,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2362,7 +2366,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I</name>
+            <name>I.I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
