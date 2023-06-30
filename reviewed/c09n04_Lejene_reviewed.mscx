@@ -1993,16 +1993,23 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V.V2/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.V2</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.112411" y="1.57375"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -2295,7 +2302,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
-            <offset x="0" y="-5.52605"/>
+            <offset x="-0.674465" y="-3.16542"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2311,8 +2318,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <minDistance>-4.10884</minDistance>
-            <offset x="0" y="-3.37708"/>
+            <minDistance>-2.98474</minDistance>
+            <offset x="0" y="-2.14056"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4691,6 +4698,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.77161</minDistance>
+            <offset x="0.112411" y="-0.171839"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
@@ -4774,7 +4783,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4794,7 +4802,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -4844,6 +4851,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.29857</minDistance>
+            <offset x="0" y="1.31269"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4988,6 +4997,8 @@
               <prefix>4</prefix>
               <digit>6</digit>
               </FiguredBassItem>
+            <minDistance>-1.63581</minDistance>
+            <offset x="-0.224822" y="0.164081"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -5092,6 +5103,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0.224822" y="2.0543"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>

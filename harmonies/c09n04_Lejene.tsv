@@ -73,7 +73,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 34	32	125/2	1.5	0	0	2/4	1	1	i|PAC}	E	vi		i	i					PAC	}	m	0	1	0, -3, 1		0	0
 34	32	64	0.5	3/8	3/8	2/4	1	1	V/iv{	E	vi		V/iv	V				iv		{	M	0	1	0, 4, 1		0	0
 35	33	129/2	2.0	0	0	2/4	1	1	iv	E	vi		iv	iv							m	0	1	-1, -4, 0		-1	-1
-36	34	133/2	1.5	0	0	2/4	1	1	V.V2/V	E	V		V2/V	V		2		V			Mm7	0	0	0, 2, 6, 3		2	0
+36	34	133/2	1.5	0	0	2/4	1	1	V.V2	E	V		V2	V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 36	34	68	0.5	3/8	3/8	2/4	1	1	V	E	V		V	V							M	0	0	1, 5, 2		1	1
 37	35	137/2	0.5	0	0	2/4	1	1	I6	E	V		I6	I		6					M	0	0	4, 1, 0		0	4
 37	35	69	0.5	1/8	1/8	2/4	1	1	I	E	V		I	I							M	0	0	0, 4, 1		0	0
