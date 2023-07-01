@@ -263,7 +263,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>e.i</name>
+            <name>e.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.3333333333333333</tempo>
@@ -450,7 +450,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -511,7 +511,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iv</name>
+            <name>V6/iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -867,11 +867,6 @@
           <Spanner type="Volta">
             <Volta>
               <beginText>2.</beginText>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.98629"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               <endings>2</endings>
               </Volta>
             <next>
