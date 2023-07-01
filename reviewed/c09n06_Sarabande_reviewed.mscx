@@ -1983,6 +1983,30 @@
             </Chord>
           </voice>
         </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
+            </BarLine>
+          </voice>
+        </Measure>
       </Staff>
     <Staff id="2">
       <Measure>
@@ -3523,6 +3547,19 @@ Sy l'onvent</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
