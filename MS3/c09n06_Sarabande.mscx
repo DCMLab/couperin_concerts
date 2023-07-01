@@ -1550,7 +1550,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.658281" y="-3.6"/>
+              <offset x="-0.690649" y="1.45849"/>
               </Articulation>
             <Note>
               <Accidental>
