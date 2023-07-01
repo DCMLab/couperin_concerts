@@ -265,6 +265,12 @@
             <harmonyType>1</harmonyType>
             <name>e.i</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
