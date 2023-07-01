@@ -780,7 +780,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             <offset x="-1.86219" y="-7.15546"/>
             </Harmony>
           <Fermata>
@@ -850,7 +850,7 @@
             </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             <offset x="-0.465546" y="-6.92269"/>
             </Harmony>
           <Fermata>
@@ -916,7 +916,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>III.I{</name>
             </Harmony>
           <Spanner type="Volta">
             <prev>
