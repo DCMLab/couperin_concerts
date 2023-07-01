@@ -1823,7 +1823,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <offset x="0" y="-3.2"/>
+            <offset x="0.674465" y="-4.96202"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1857,7 +1857,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
