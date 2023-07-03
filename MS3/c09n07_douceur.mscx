@@ -268,7 +268,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>e.i</name>
+            <name>e.i{</name>
             </Harmony>
           <Tempo>
             <tempo>1.4000000000000001</tempo>
@@ -718,7 +718,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -733,6 +733,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4777,6 +4781,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.08545</minDistance>
+            <offset x="-0.112411" y="1.51432"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4989,6 +4995,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.54679</minDistance>
+            <offset x="-0.224822" y="2.81563"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -5429,6 +5437,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.20956</minDistance>
+            <offset x="0.224822" y="0.390216"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
