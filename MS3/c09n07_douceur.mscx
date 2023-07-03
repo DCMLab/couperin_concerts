@@ -2382,7 +2382,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>i64</name>
             <offset x="0.232773" y="-4.12941"/>
             </Harmony>
           <Chord>
