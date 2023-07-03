@@ -1482,7 +1482,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I|PAC</name>
-            <offset x="0" y="-7.38824"/>
+            <offset x="-0.449643" y="-5.47726"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3471,7 +3471,7 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>3/16</fractions>
                 </location>
               </next>
             </Spanner>
@@ -3487,37 +3487,13 @@
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Spanner type="Volta">
             <prev>
               <location>
-                <measures>-1</measures>
+                <fractions>-3/16</fractions>
                 </location>
               </prev>
             </Spanner>
-          <Rest>
-            <visible>0</visible>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <visible>0</visible>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <BarLine>
-            <subtype>end</subtype>
-            <visible>0</visible>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -6083,19 +6059,6 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <visible>0</visible>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>

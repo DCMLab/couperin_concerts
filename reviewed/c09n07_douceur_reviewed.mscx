@@ -1044,12 +1044,18 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.112411" y="-5.35027"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -1067,6 +1073,7 @@
                 </next>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1924,6 +1931,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2468,6 +2481,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.232773" y="-4.12941"/>
             </Harmony>
           <Chord>
@@ -2504,7 +2523,6 @@
               <subtype>ornamentMordent</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -3594,7 +3612,7 @@
               </Volta>
             <next>
               <location>
-                <fractions>3/16</fractions>
+                <measures>1</measures>
                 </location>
               </next>
             </Spanner>
@@ -3610,13 +3628,38 @@
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Spanner type="Volta">
             <prev>
               <location>
-                <fractions>-3/16</fractions>
+                <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <visible>0</visible>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -4371,7 +4414,6 @@
               <subtype>ornamentShortTrill</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
@@ -5004,7 +5046,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
@@ -6211,6 +6252,19 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
