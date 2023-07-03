@@ -1,12 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-WARNING  ms3.Parse.couperin_concerts.c09n07_douceur --
-	The startRepeat in MC 45 is missing its endRepeat.
-	For correction, MC 46 is interpreted as such because it is the last bar of the piece..
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.couperin_concerts.c09n07_douceur --
-	The incomplete MC 45 (timesig 3/8, act_dur 3/16) is completed by 1 incorrect duration (expected: 3/16):
-	{46: Fraction(3, 8)}
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c09n07_douceur --
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
@@ -21,6 +15,4 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c09n07_douceu
 	           42a         {            24b         }
 	           20b         {            34b         }
 	           24b         {            42b         }
-	           34b         {            43a         }
-	           NaN       NaN            43a         }
-	           NaN       NaN            43b         }
+	           34b         {            NaN       NaN

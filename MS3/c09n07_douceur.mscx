@@ -3484,6 +3484,17 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <offset x="2.81027" y="-3.28688"/>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
