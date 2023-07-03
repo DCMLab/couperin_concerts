@@ -1016,7 +1016,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I2</name>
+            <name>viio</name>
+            <offset x="-0.112411" y="-5.35027"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
