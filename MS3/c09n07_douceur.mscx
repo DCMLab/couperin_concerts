@@ -720,6 +720,11 @@
             <harmonyType>1</harmonyType>
             <name>V\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.68616" y="-0.104779"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -1105,6 +1110,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.58545" y="-0.138009"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1132,6 +1142,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.112411" y="1.46134"/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -1421,6 +1432,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.82197" y="-0.82189"/>
+            <text>)</text>
+            </StaffText>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -1740,6 +1756,11 @@
             <harmonyType>1</harmonyType>
             <name>i\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.36063" y="-1.10424"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2160,6 +2181,11 @@
             <harmonyType>1</harmonyType>
             <name>v</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="7.98117" y="0.170187"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2439,6 +2465,11 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.1475" y="0.159201"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2764,6 +2795,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.0234" y="-1.27973"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -3056,6 +3092,11 @@
             <harmonyType>1</harmonyType>
             <name>V6</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.47304" y="-1.13164"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -3246,6 +3287,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.337233" y="1.91098"/>
               </Articulation>
             <Note>
               <Spanner type="Tie">
@@ -3338,7 +3381,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
-            <offset x="0" y="-7.85378"/>
+            <offset x="-0.449643" y="-5.38074"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3378,7 +3421,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
-            <offset x="0.232773" y="-7.38824"/>
+            <offset x="-0.21687" y="-5.14002"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -4501,6 +4544,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.48474" y="-0.311806"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -4953,6 +5001,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.36063" y="-0.852497"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -5042,6 +5095,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.0234" y="-1.07732"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -5433,6 +5491,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0.337233" y="0.276492"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5513,11 +5573,18 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-3.32197</minDistance>
+            <offset x="-0.224822" y="0.277805"/>
             </FiguredBass>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="5.05849" y="-0.178032"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
