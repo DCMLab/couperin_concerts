@@ -1007,6 +1007,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.562054" y="2.24822"/>
               </Articulation>
             <Note>
               <pitch>71</pitch>
@@ -1059,6 +1060,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.224822" y="1.34893"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -1430,8 +1432,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
-            <offset x="0" y="-7.03908"/>
+            <name>I|PAC}</name>
+            <offset x="-0.562054" y="-3.89158"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1478,7 +1480,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC</name>
             <offset x="0" y="-7.38824"/>
             </Harmony>
           <Fermata>
@@ -1516,6 +1518,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
