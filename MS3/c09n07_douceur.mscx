@@ -3404,7 +3404,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             <offset x="-0.449643" y="-5.38074"/>
             </Harmony>
           <Fermata>
@@ -3444,7 +3444,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             <offset x="-0.21687" y="-5.14002"/>
             </Harmony>
           <Fermata>
