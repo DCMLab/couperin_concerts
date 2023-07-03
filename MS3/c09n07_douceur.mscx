@@ -3470,7 +3470,7 @@
               </Volta>
             <next>
               <location>
-                <fractions>3/16</fractions>
+                <measures>1</measures>
                 </location>
               </next>
             </Spanner>
@@ -3486,13 +3486,37 @@
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Spanner type="Volta">
             <prev>
               <location>
-                <fractions>-3/16</fractions>
+                <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <visible>0</visible>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -6058,6 +6082,19 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <visible>0</visible>
+            <durationType>measure</durationType>
+            <duration>3/8</duration>
+            </Rest>
+          <BarLine>
+            <subtype>end</subtype>
+            <visible>0</visible>
             </BarLine>
           </voice>
         </Measure>
