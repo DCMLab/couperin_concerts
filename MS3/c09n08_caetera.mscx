@@ -429,6 +429,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.59715" y="0.159201"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -842,6 +847,11 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="4.27161" y="0.0467902"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1411,6 +1421,11 @@
             <harmonyType>1</harmonyType>
             <name>i\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.47304" y="-0.891655"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2269,6 +2284,11 @@ que ce jouë alternativement avec la première</text>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.91098" y="-1.11648"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2331,6 +2351,11 @@ que ce jouë alternativement avec la première</text>
             <name>IV</name>
             <offset x="0.7" y="-2.5"/>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="5.84536" y="-0.847529"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -3492,6 +3517,8 @@ que ce jouë alternativement avec la première</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.42268</minDistance>
+            <offset x="0.112411" y="3.67709"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3508,7 +3535,14 @@ que ce jouë alternativement avec la première</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0" y="3.95358"/>
             </FiguredBass>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.69786" y="-0.964907"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -3595,6 +3629,8 @@ que ce jouë alternativement avec la première</text>
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.20956</minDistance>
+            <offset x="-0.112411" y="0.390216"/>
             </FiguredBass>
           <Chord>
             <durationType>16th</durationType>
@@ -3717,6 +3753,8 @@ que ce jouë alternativement avec la première</text>
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.18616</minDistance>
+            <offset x="-0.112411" y="1.3786"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -4143,6 +4181,11 @@ que ce jouë alternativement avec la première</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.47304" y="-1.07732"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
