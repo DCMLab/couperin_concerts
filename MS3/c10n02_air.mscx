@@ -265,7 +265,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>a.i</name>
+            <name>a.i{</name>
             </Harmony>
           <Tempo>
             <tempo>2.1000000000000001</tempo>
@@ -591,7 +591,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -609,7 +609,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I</name>
+            <name>III.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
