@@ -2290,7 +2290,7 @@ que ce jouë alternativement avec la première</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2307,7 +2307,7 @@ que ce jouë alternativement avec la première</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/IV</name>
+            <name>V65/IV{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
