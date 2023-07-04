@@ -1777,7 +1777,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC.SIM}</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <StaffText>
@@ -1893,7 +1893,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I\\</name>
+            <name>I[I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
