@@ -2990,12 +2990,15 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
+            <offset x="-2.51641" y="-4.51304"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.419401" y="0.922682"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
