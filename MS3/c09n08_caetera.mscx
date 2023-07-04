@@ -2091,7 +2091,7 @@ que ce jouë alternativement avec la première</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
