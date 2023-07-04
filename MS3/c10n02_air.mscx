@@ -2656,7 +2656,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2674,7 +2674,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4671,7 +4671,7 @@
               <digit>2</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
-            <offset x="-0.244941" y="4.70712"/>
+            <offset x="-0.469763" y="0.210686"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4736,6 +4736,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>5</digit>
               </FiguredBassItem>
+            <minDistance>-1.5234</minDistance>
+            <offset x="0" y="0.276492"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4770,6 +4772,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.86063</minDistance>
+            <offset x="0.112411" y="0.70323"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -5576,6 +5580,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-4.89572</minDistance>
+            <offset x="0.224822" y="0.50394"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
