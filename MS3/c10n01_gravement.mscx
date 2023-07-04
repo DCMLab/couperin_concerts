@@ -1709,7 +1709,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio{</name>
+            <name>i.iio{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
