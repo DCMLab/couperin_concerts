@@ -497,6 +497,8 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.899287" y="2.13581"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -1344,7 +1346,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII6</name>
+            <name>II</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4629,6 +4631,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.00813</minDistance>
+            <offset x="0.112411" y="0.391529"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
