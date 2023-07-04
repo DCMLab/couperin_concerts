@@ -1152,7 +1152,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.279887" y="-4.19972"/>
+            <minDistance>-3.88402</minDistance>
+            <offset x="0.392298" y="-4.37577"/>
             <text>♯</text>
             </StaffText>
           <Harmony>
@@ -1165,6 +1166,7 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.112411" y="0.899287"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1317,7 +1319,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1363,6 +1365,10 @@
         <startRepeat/>
         <irregular>1</irregular>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
