@@ -2610,7 +2610,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -2665,7 +2665,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i-@none</name>
+            <name>i.i{</name>
             <offset x="0" y="-4.1"/>
             </Harmony>
           <Spanner type="Volta">
