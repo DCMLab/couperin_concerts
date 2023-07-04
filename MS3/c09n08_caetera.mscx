@@ -1117,7 +1117,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1158,7 +1158,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V/VII</name>
+            <name>v.V/VII{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
