@@ -277,7 +277,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I[I</name>
+            <name>A.I[I{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -1052,7 +1052,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             <offset x="0" y="-2.9"/>
             </Harmony>
           <Fermata>
@@ -1095,7 +1095,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
