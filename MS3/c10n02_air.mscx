@@ -3049,7 +3049,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -3089,7 +3089,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
