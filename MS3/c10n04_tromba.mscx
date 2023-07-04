@@ -2689,10 +2689,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2872,7 +2868,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
