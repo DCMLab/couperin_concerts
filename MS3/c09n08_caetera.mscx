@@ -1652,7 +1652,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1681,7 +1681,7 @@ que ce jouë alternativement avec la première</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I</name>
+            <name>I.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
