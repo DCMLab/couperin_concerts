@@ -442,7 +442,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>III+M7(9)</name>
+            <offset x="-2.92268" y="-1.4883"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
