@@ -287,6 +287,13 @@
             <offset x="-0.384844" y="2.12111"/>
             <text>1eme Viole</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.6000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="0" y="-12.1294"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
