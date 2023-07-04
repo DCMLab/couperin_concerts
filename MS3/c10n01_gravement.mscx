@@ -1502,7 +1502,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6{</name>
+            <name>iv.ii6{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -1538,7 +1538,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/iv</name>
+            <name>V2</name>
             <offset x="0" y="-5.17689"/>
             </Harmony>
           <Beam>
@@ -1584,7 +1584,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1631,7 +1631,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iv</name>
+            <name>ii%7</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1650,7 +1650,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -1671,7 +1671,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6}</name>
+            <name>I6}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
