@@ -809,7 +809,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             <offset x="0" y="-5.0605"/>
             </Harmony>
           <Beam>
@@ -872,7 +872,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
