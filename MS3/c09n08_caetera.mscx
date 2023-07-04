@@ -1849,7 +1849,7 @@ que ce jouë alternativement avec la première</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6\\</name>
+            <name>I6}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1885,6 +1885,10 @@ que ce jouë alternativement avec la première</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2017,7 +2021,7 @@ que ce jouë alternativement avec la première</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
           <Beam>
@@ -2081,7 +2085,7 @@ que ce jouë alternativement avec la première</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
