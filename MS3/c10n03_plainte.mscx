@@ -1059,6 +1059,11 @@
             <subtype>fermataAbove</subtype>
             <offset x="0.0540554" y="-3.41514"/>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.43909" y="-0.156222"/>
+            <text>)</text>
+            </StaffText>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -1771,6 +1776,11 @@
             <name>V</name>
             <offset x="0" y="-3.5"/>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.76805" y="0.153352"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -2467,6 +2477,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.43909" y="0.161914"/>
+            <text>)</text>
+            </StaffText>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -3460,6 +3475,11 @@
             <harmonyType>1</harmonyType>
             <name>I[I\\</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.42596" y="0.291016"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -3778,6 +3798,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.76805" y="-0.0160489"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -6549,6 +6574,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.18745" y="-1.02911"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -7394,6 +7424,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.84536" y="-0.0576321"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
