@@ -270,6 +270,12 @@
             <harmonyType>1</harmonyType>
             <name>A.I</name>
             </Harmony>
+          <Tempo>
+            <tempo>2.4000000000000004</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 96</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
