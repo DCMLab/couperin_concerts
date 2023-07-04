@@ -2207,7 +2207,7 @@ que ce jouë alternativement avec la première</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V</name>
+            <name>V.V43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2231,7 +2231,7 @@ que ce jouë alternativement avec la première</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/V</name>
+            <name>V65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
