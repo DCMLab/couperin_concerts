@@ -3017,7 +3017,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII.I-@none</name>
+            <name>bIII.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3484,7 +3484,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I\\</name>
+            <name>I[I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -3499,6 +3499,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
