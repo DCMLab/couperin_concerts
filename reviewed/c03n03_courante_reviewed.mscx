@@ -1868,7 +1868,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.26074"/>
             </Harmony>
           <Fermata>
@@ -2042,7 +2041,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i.i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3817,7 +3815,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-4.08467"/>
             </Harmony>
           <Spanner type="Volta">

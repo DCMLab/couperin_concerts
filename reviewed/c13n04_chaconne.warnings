@@ -1,0 +1,5 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+UNUSED_FINE_MARKER_WARNING (20, 93) ms3.Parse.couperin_concerts.c13n04_chaconne --
+	Piece has a Fine but the last MC is missing a repeat sign or a D.C. (da capo) or D.S. (dal segno). Ignoring Fine.

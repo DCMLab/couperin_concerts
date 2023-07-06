@@ -1063,7 +1063,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.9"/>
             </Harmony>
           <Fermata>
@@ -1101,7 +1100,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1135,7 +1133,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2500,7 +2497,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -4282,7 +4278,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.8"/>
             </Harmony>
           <Fermata>

@@ -1,0 +1,6 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+MISSING_END_REPEAT_WARNING (5, 6) ms3.Parse.couperin_concerts.c09n08_caetera --
+	The startRepeat in MC 6 is missing its endRepeat.
+	For correction, MC 19 is interpreted as such because it precedes the next startRepeat.
