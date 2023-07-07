@@ -2342,7 +2342,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             <offset x="0.112411" y="-5.42553"/>
             </Harmony>
           <Fermata>
@@ -2639,7 +2639,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
-            <offset x="0" y="-6.2"/>
+            <offset x="-0.224822" y="-4.40143"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -4155,7 +4155,7 @@
               <digit>3</digit>
               <continuationLine>2</continuationLine>
               </FiguredBassItem>
-            <offset x="0.34916" y="5.88361"/>
+            <offset x="0.686393" y="0.555609"/>
             </FiguredBass>
           <location>
             <fractions>1/8</fractions>
