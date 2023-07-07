@@ -3775,6 +3775,7 @@
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
+            <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
@@ -3784,13 +3785,16 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -4891,6 +4895,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-6.91912</minDistance>
+            <offset x="0.112411" y="0.280431"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -5928,6 +5934,7 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <offset x="0.337233" y="1.51666"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5951,6 +5958,7 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <offset x="0.449643" y="0.444219"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
