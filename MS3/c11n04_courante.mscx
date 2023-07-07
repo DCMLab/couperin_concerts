@@ -2008,6 +2008,12 @@
             <offset x="2.58545" y="-0.63996"/>
             <text>)</text>
             </StaffText>
+          <StaffText>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.337233" y="4.55759"/>
+            <text>petite reprise</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
