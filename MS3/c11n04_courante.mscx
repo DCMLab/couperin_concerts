@@ -2387,9 +2387,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-0.120352" y="5.88869"/>
-            <text>Petite Reprise</text>
+            <offset x="-3.04303" y="4.09012"/>
+            <text>pour la petite reprise</text>
             </StaffText>
           <Chord>
             <durationType>16th</durationType>
