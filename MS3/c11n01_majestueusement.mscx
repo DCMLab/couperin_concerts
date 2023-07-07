@@ -774,6 +774,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.25991" y="-0.874402"/>
+            <text>)</text>
+            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -1307,6 +1312,11 @@
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.69786" y="-1.09922"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1786,6 +1796,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.1475" y="-0.81186"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1975,6 +1990,11 @@
             <harmonyType>1</harmonyType>
             <name>i|IAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.1475" y="-1.06008"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -3478,6 +3498,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.48474" y="-1.07732"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
