@@ -2336,9 +2336,12 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC</name>
-            <offset x="0" y="-6.1"/>
+            <name>i</name>
+            <offset x="0.112411" y="-5.42553"/>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -2367,6 +2370,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.46134"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -2628,7 +2633,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             <offset x="0" y="-6.2"/>
             </Harmony>
           <Fermata>
