@@ -2342,7 +2342,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>i|PAC}</name>
             <offset x="0.112411" y="-5.42553"/>
             </Harmony>
           <Fermata>
@@ -2390,6 +2390,10 @@
             <offset x="-3.04303" y="4.09012"/>
             <text>pour la petite reprise</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
