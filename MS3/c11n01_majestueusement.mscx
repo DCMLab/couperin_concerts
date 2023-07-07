@@ -1551,12 +1551,16 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2{</name>
+            <name>V2</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -4506,6 +4510,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-4.89572</minDistance>
+            <offset x="0.112411" y="0.50394"/>
             </FiguredBass>
           <Chord>
             <durationType>half</durationType>
