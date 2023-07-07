@@ -1794,7 +1794,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1810,6 +1810,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -1988,7 +1992,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|IAC}{</name>
+            <name>i|IAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2030,6 +2034,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2047,6 +2055,7 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.224822" y="1.0117"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
