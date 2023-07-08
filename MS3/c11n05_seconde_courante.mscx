@@ -457,7 +457,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -501,7 +501,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -937,7 +937,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -980,7 +980,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1929,7 +1929,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1941,7 +1941,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.276617" y="-2.05473"/>
+              <minDistance>-999</minDistance>
+              <offset x="0.164206" y="1.76724"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1949,6 +1950,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -1971,7 +1976,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.912724" y="-1.89055"/>
+              <offset x="0.238259" y="0.470078"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
