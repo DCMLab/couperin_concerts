@@ -1963,7 +1963,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/IV</name>
+            <name>III.V65</name>
+            <offset x="-1.23652" y="-3.89368"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1990,7 +1991,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>I</name>
             <offset x="0.337233" y="-3.43645"/>
             </Harmony>
           <Beam>
@@ -2022,7 +2023,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PC}</name>
+            <name>V|HCSIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2047,7 +2048,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.v6{</name>
+            <name>{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2103,7 +2104,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i.iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
