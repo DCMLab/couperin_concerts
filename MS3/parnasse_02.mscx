@@ -270,10 +270,10 @@
             <text>Gaÿment</text>
             </StaffText>
           <Tempo>
-            <tempo>1.675</tempo>
+            <tempo>1.5750000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67</b></text>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 63</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
