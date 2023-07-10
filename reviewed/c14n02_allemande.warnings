@@ -4,16 +4,6 @@ Warnings encountered during the last execution of ms3 review
 INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.couperin_concerts.c14n02_allemande --
 	The incomplete MC 9 (timesig 1, act_dur 1/8) is completed by 1 incorrect duration (expected: 7/8):
 	{1: Fraction(1, 1), 10: Fraction(7, 8)}
-MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 10) ms3.Parse.couperin_concerts.c14n02_allemande --
-	MC 10 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
-	    mc  mn act_dur mc_offset  dont_count  numbering_offset
-	8    9   9     1/8         0        <NA>              <NA>
-	9   10  10     7/8       1/8        <NA>              <NA>
-	10  11  11       1         0        <NA>              <NA>
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.couperin_concerts.c14n02_allemande --
-	Score contains 1 labels that don't (and 98 that do) match the DCML standard:
-	    mc  mn     label harmony_layer
-	65  17  17  V|HCSIM}             1
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c14n02_allemande --
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
@@ -25,13 +15,14 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.couperin_concerts.c14n02_allema
 	            3b         {             6b         }
 	            6b         {             7b         }
 	            7b         {             9b         }
-	           10a         {            12a         }
-	           12a         {            14a         }
-	           14a         {            19a         }
-	           17a         {            24a         }
-	           19a         {            12b         }
-	           10b         {            14b         }
-	           12b         {            19b         }
-	           14b         {            24b         }
-	           17b         {            NaN       NaN
-	           19b         {            NaN       NaN
+	            9b         {            11a         }
+	           11a         {            13a         }
+	           13a         {            16a         }
+	           16a         {            18a         }
+	           18a         {            23a        }{
+	           23a        }{            11b         }
+	           23a         {            13b         }
+	           11b         {            16b         }
+	           13b         {            18b         }
+	           16b         {            23b         }
+	           18b         {            NaN       NaN
