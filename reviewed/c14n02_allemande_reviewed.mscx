@@ -3675,7 +3675,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/8">
+      <Measure len="1/4">
         <endRepeat>2</endRepeat>
         <irregular>1</irregular>
         <voice>
@@ -3686,7 +3686,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
@@ -3700,19 +3700,19 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>1/8</fractions>
                 </location>
               </next>
             </Spanner>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <location>
-            <fractions>1/8</fractions>
+            <fractions>0</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3754,6 +3754,7 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <irregular>1</irregular>
         <voice>
           <Harmony>
@@ -3769,13 +3770,6 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -5948,13 +5942,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/8">
+      <Measure len="1/4">
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
