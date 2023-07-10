@@ -2088,7 +2088,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/16">
+      <Measure len="8/16">
         <startRepeat/>
         <irregular>1</irregular>
         <Marker>
@@ -2106,12 +2106,28 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.iv{</name>
+            <name>i.i{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -5773,13 +5789,31 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="3/16">
+      <Measure len="8/16">
         <voice>
-          <Rest>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
+          <StaffText>
+            <offset x="-1.0117" y="-8.83987"/>
+            <text>Fin.</text>
+            </StaffText>
+          <Chord>
             <durationType>eighth</durationType>
-            </Rest>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>36</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
           <Rest>
-            <durationType>16th</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
