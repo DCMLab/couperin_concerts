@@ -484,7 +484,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}{</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -496,7 +496,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i</name>
+            <name>v.i{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -718,7 +718,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}{</name>
+            <name>I|IAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -741,7 +741,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1344,7 +1344,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1359,6 +1359,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -1700,7 +1704,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.PHR}{</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1717,7 +1721,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i</name>
+            <name>v.i{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1906,7 +1910,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.PHR}{</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -1923,7 +1927,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.i</name>
+            <name>ii.i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2163,7 +2167,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2178,6 +2182,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2897,7 +2905,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2912,6 +2920,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -3583,7 +3595,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.TEN}{</name>
+            <name>V|HC.TEN}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -3598,6 +3610,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3824,7 +3840,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -3839,6 +3855,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4155,7 +4175,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.PHR}{</name>
+            <name>V|HC.PHR}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -4170,6 +4190,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -4776,7 +4800,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM}{</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -4793,7 +4817,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5160,7 +5184,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -5175,6 +5199,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
