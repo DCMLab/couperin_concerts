@@ -1510,6 +1510,7 @@
         </Measure>
       <Measure len="1/8">
         <endRepeat>2</endRepeat>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3754,20 +3755,21 @@
         </Measure>
       <Measure>
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -3793,9 +3795,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -5967,9 +5966,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
