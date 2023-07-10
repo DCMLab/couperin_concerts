@@ -1792,6 +1792,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <minDistance>-4.33367</minDistance>
+            <offset x="0" y="-2.84808"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2234,7 +2236,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V7</name>
+            <name>i.V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2244,6 +2246,16 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
@@ -6974,6 +6986,8 @@
               <prefix>2</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-5.23295</minDistance>
+            <offset x="0" y="0.166707"/>
             </FiguredBass>
           <Chord>
             <BeamMode>mid</BeamMode>
