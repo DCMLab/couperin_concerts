@@ -2397,6 +2397,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/iv</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2416,9 +2420,12 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.562054" y="1.79857"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0" y="1.57375"/>
               </Articulation>
             <Note>
               <Accidental>
