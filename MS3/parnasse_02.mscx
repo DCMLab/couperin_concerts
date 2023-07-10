@@ -324,6 +324,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <offset x="0" y="-2.05036"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -730,6 +731,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.57375"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -11631,6 +11634,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.53509</minDistance>
+            <offset x="0" y="1.06468"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -11724,6 +11729,8 @@
               <digit>5</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-1.18616</minDistance>
+            <offset x="0" y="0.613724"/>
             </FiguredBass>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11759,6 +11766,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-2.6475</minDistance>
+            <offset x="0.112411" y="1.56599"/>
             </FiguredBass>
           <Chord>
             <durationType>eighth</durationType>
@@ -12477,6 +12486,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-3.77161</minDistance>
+            <offset x="0" y="1.09758"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -12777,6 +12788,8 @@
               <brackets b0="0" b1="0" b2="0" b3="0" b4="0"/>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-1.74822</minDistance>
+            <offset x="-0.112411" y="0.0516699"/>
             </FiguredBass>
           <location>
             <fractions>1/8</fractions>
@@ -12792,6 +12805,8 @@
               <prefix>4</prefix>
               <digit>3</digit>
               </FiguredBassItem>
+            <minDistance>-6.01983</minDistance>
+            <offset x="-0.224822" y="-0.568499"/>
             </FiguredBass>
           <Chord>
             <durationType>quarter</durationType>
