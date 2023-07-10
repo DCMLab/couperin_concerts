@@ -1076,6 +1076,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <offset x="0.112411" y="-3.17447"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1290,6 +1291,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <offset x="0" y="-3.96134"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -3359,6 +3361,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <offset x="-0.562054" y="-3.62411"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4338,6 +4341,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -4348,7 +4355,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV{</name>
+            <name>IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4641,6 +4648,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <offset x="0" y="-3.28688"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4790,6 +4798,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <offset x="-0.224822" y="-4.74822"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
