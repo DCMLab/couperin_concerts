@@ -1280,7 +1280,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/8">
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1305,6 +1306,12 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure len="7/8">
+        <startRepeat/>
+        <irregular>1</irregular>
+        <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III{</name>
@@ -1340,9 +1347,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -3080,7 +3084,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -4094,7 +4098,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/8">
         <voice>
           <FiguredBass>
             <ticks>1/8</ticks>
@@ -4112,6 +4116,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure len="7/8">
+        <voice>
           <StaffText>
             <offset x="0" y="-6.67581"/>
             <text>Reprise</text>
