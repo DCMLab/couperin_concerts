@@ -1054,6 +1054,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.337233" y="1.79857"/>
               </Articulation>
             <Note>
               <pitch>67</pitch>
@@ -1985,7 +1987,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
