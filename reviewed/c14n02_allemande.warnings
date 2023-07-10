@@ -7,3 +7,11 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.couperin_concerts.c14n0
 INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 25) ms3.Parse.couperin_concerts.c14n02_allemande --
 	The incomplete MC 25 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
 	{10: Fraction(7, 8)}
+INCORRECT_VOLTA_MN_WARNING (2, 26) ms3.Parse.couperin_concerts.c14n02_allemande --
+	MC 26, the 1st measure of a 2nd volta, should have MN 24, not MN 25.
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 10) ms3.Parse.couperin_concerts.c14n02_allemande --
+	MC 10 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	8    9   9     1/8         0        <NA>              <NA>
+	9   10  10     7/8       1/8        <NA>              <NA>
+	10  11  11       1         0        <NA>              <NA>
