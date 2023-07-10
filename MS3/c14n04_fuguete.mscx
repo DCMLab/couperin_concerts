@@ -988,7 +988,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio(2)/iv</name>
+            <name>v7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1011,6 +1011,13 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/IV</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -1637,9 +1644,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.0525708" y="-1.56532e-18"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2135,9 +2139,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.20913" y="-0.210283"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4150,9 +4151,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.10399" y="-0.315425"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4775,9 +4773,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.20913" y="-0.367995"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
