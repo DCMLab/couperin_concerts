@@ -1282,6 +1282,7 @@
         </Measure>
       <Measure len="1/8">
         <endRepeat>2</endRepeat>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
