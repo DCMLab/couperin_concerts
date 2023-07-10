@@ -720,6 +720,11 @@
             <harmonyType>1</harmonyType>
             <name>I|IAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="4.94608" y="-1.03785"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -943,6 +948,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.57375" y="-1.30214"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -1009,6 +1019,11 @@
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.03509" y="-0.90678"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1117,6 +1132,11 @@
             <harmonyType>1</harmonyType>
             <name>VII</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.24822" y="-1.24403"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1326,6 +1346,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.58545" y="-0.813301"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -1677,6 +1702,11 @@
             <harmonyType>1</harmonyType>
             <name>V|HC.PHR}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="7.19429" y="-1.21163"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -1878,6 +1908,11 @@
             <harmonyType>1</harmonyType>
             <name>V|HC.PHR}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="7.3067" y="-1.09922"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -2130,6 +2165,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.13581" y="-1.21919"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -2215,6 +2255,11 @@
             <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.79857" y="-1.01511"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -2399,6 +2444,11 @@
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.34893" y="-0.622707"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -2495,6 +2545,11 @@
             <harmonyType>1</harmonyType>
             <name>V65</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.46134" y="-1.01511"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -2844,6 +2899,11 @@
             <harmonyType>1</harmonyType>
             <name>i|PAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.79857" y="-0.874402"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -3262,6 +3322,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.91098" y="-1.41455"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -3520,6 +3585,11 @@
             <harmonyType>1</harmonyType>
             <name>V|HC.TEN}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.03509" y="-1.30879"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -3756,6 +3826,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="1.23652" y="-1.21163"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -4082,6 +4157,11 @@
             <harmonyType>1</harmonyType>
             <name>V|HC.PHR}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="4.38402" y="-0.91231"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -4484,6 +4564,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.70956" y="-1.20201"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -4693,6 +4778,11 @@
             <harmonyType>1</harmonyType>
             <name>V|HC.SIM}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="4.60884" y="-0.986813"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -4781,6 +4871,11 @@
             <harmonyType>1</harmonyType>
             <name>III</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.47304" y="-0.924071"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -4859,6 +4954,11 @@
             <harmonyType>1</harmonyType>
             <name>v7(9)</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="3.59715" y="-1.09922"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -5062,6 +5162,11 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}{</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.47304" y="-0.986813"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -5137,6 +5242,11 @@
             <harmonyType>1</harmonyType>
             <name>ii</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.0234" y="-1.22131"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -5245,6 +5355,11 @@
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.81027" y="-0.63996"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -6362,6 +6477,11 @@
               <digit>3</digit>
               </FiguredBassItem>
             </FiguredBass>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="5.39572" y="-0.964907"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -6751,6 +6871,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.36063" y="-1.41455"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -6940,6 +7065,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.36063" y="-0.740086"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -7367,6 +7497,11 @@
               <digit>3</digit>
               </FiguredBassItem>
             </FiguredBass>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="8.20599" y="-1.18973"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -9796,6 +9931,11 @@
               <digit>3</digit>
               </FiguredBassItem>
             </FiguredBass>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="4.83367" y="-0.964907"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -10324,6 +10464,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.36063" y="-1.18973"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -10424,6 +10569,11 @@
               <digit>3</digit>
               </FiguredBassItem>
             </FiguredBass>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.24822" y="-1.18973"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -10517,6 +10667,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="2.92268" y="-1.07732"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
