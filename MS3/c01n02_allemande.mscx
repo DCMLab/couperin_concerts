@@ -358,7 +358,7 @@
             <tempo>1.4666666666666666</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 88</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1223,7 +1223,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IVM7</name>
             <offset x="-2.14225" y="-2.89036"/>
             </Harmony>
           <Chord>
