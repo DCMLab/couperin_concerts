@@ -100,5 +100,4 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	volta	label
 43	41	245/4	0.5	1/8	1/8	3/8	1	1		V(4)	e	i		V(4)	V			4				M	1	1	1, 0, 2		1	1
 43	41	247/4	0.5	1/4	1/4	3/8	1	1		V	e	i		V	V							M	1	1	1, 5, 2		1	1
 44	42			0	0	3/8	1	1	1	i|PAC}	e	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
-45	42	249/4	0.75	0	0	3/8	1	1	2	i|PAC}	e	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
-45	42	251/4	0.0	1/8	1/8	3/8	1	1	2	}	e	i									}		1	1				
+45	42	249/4	0.75	0	3/16	3/8	1	1	2	i|PAC}	e	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
