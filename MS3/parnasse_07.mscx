@@ -2584,6 +2584,11 @@
             <harmonyType>1</harmonyType>
             <name>i/iv|IAC}</name>
             </Harmony>
+          <StaffText>
+            <minDistance>-999</minDistance>
+            <offset x="5.1709" y="-0.986813"/>
+            <text>)</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
