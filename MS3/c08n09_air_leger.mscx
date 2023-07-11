@@ -808,7 +808,6 @@
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <irregular>1</irregular>
         <voice>
           <Harmony>
@@ -852,7 +851,12 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.V{</name>
@@ -2162,6 +2166,10 @@
         </Measure>
       <Measure>
         <voice>
+          <BarLine>
+            <subtype>start-repeat</subtype>
+            <visible>0</visible>
+            </BarLine>
           <StaffText>
             <offset x="-0.477176" y="-9.23645"/>
             <text>Reprise</text>
