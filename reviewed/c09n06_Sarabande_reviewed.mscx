@@ -877,12 +877,8 @@
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <irregular>1</irregular>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
@@ -890,7 +886,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.SIM</name>
+            <name>V|HC.SIM}</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.465546" y="-6.92269"/>
             </Harmony>
@@ -955,6 +951,7 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2501,9 +2498,6 @@
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <FiguredBass>
             <ticks>1/4</ticks>
             <FiguredBassItem>
