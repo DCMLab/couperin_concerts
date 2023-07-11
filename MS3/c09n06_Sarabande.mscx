@@ -842,12 +842,8 @@
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <irregular>1</irregular>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC.SIM}</name>
@@ -913,6 +909,7 @@
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -2399,9 +2396,6 @@
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <FiguredBass>
             <ticks>1/4</ticks>
             <FiguredBassItem>
