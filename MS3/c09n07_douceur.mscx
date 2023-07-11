@@ -274,7 +274,7 @@
             <tempo>1.4000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 56</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 56</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1436,14 +1436,14 @@
             <name>I|PAC}</name>
             <offset x="-0.562054" y="-3.89158"/>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.82197" y="-0.82189"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -3441,6 +3441,7 @@
         </Measure>
       <Measure len="3/16">
         <startRepeat/>
+        <endRepeat>2</endRepeat>
         <irregular>1</irregular>
         <voice>
           <Harmony>
@@ -3484,20 +3485,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <offset x="2.81027" y="-3.28688"/>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -4577,14 +4564,14 @@
         </Measure>
       <Measure len="3/16">
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.48474" y="-0.311806"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -6068,9 +6055,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
