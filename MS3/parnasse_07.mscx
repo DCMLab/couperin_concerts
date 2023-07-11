@@ -6424,7 +6424,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}{</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6437,6 +6437,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
