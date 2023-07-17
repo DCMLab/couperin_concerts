@@ -3087,17 +3087,17 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure len="1/8">
         <endRepeat>2</endRepeat>
         <irregular>1</irregular>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -3111,7 +3111,7 @@
               </next>
             </Spanner>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -5291,13 +5291,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure len="1/8">
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
