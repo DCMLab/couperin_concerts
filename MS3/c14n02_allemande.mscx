@@ -251,23 +251,32 @@
           <text>c14n02</text>
           </Text>
         </VBox>
-      <Measure>
+      <Measure len="1/8">
         <voice>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <SystemText>
-            <offset x="-0.0951596" y="-4.71989"/>
-            <text>Vivement</text>
-            </SystemText>
           <Tempo>
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
+          <SystemText>
+            <offset x="-0.0951596" y="-4.71989"/>
+            <text>Vivement</text>
+            </SystemText>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <startRepeat/>
+        <irregular>1</irregular>
+        <voice>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -3090,18 +3099,6 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>1.</beginText>
-              <endings>1</endings>
-              </Volta>
-            <next>
-              <location>
-                <fractions>1/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -3115,13 +3112,13 @@
         <startRepeat/>
         <irregular>1</irregular>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -3158,13 +3155,20 @@
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure>
+      <Measure len="1/8">
         <voice>
           <TimeSig>
             <subtype>1</subtype>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
