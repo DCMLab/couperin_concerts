@@ -32,10 +32,10 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 60) ms3.Parse.couperin_concerts.c11n
 	The incomplete MC 60 (timesig 3/8, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/8):
 	{28: Fraction(3, 16)}
 
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 9) ms3.Parse.couperin_concerts.c14n02_allemande
-        The incomplete MC 9 (timesig 1, act_dur 1/8) is completed by 1 incorrect duration (expected: 7/8):
-        {1: Fraction(1, 1), 10: Fraction(7, 8)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 1) ms3.Parse.couperin_concerts.c14n02_allemande
+	This and the following are due to ms3 being hypersensitive to pickup measure erroneously counted as m. 1.
+	These warnings are actually a bug and should not appear in the case where the first two MC1 actually add up correctly.
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 2) ms3.Parse.couperin_concerts.c14n02_allemande -- /home/hentsche/miniconda3/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 2 (timesig 1, act_dur 7/8) is completed by 1 incorrect duration (expected: 1/8):
+	{3: Fraction(1, 1)}
 
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 25) ms3.Parse.couperin_concerts.c14n02_allemande
-        The incomplete MC 25 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
-        {10: Fraction(7, 8)}
