@@ -827,12 +827,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii7/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43(4)/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -847,6 +841,7 @@
               </Spanner>
             <appoggiatura/>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
