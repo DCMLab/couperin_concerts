@@ -341,7 +341,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-7.75694" y="-4.85526"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 78</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
             </Tempo>
           <StaffText>
             <offset x="0.598684" y="-3.92763"/>
@@ -2573,7 +2573,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43</name>
+            <name>I65</name>
             </Harmony>
           </voice>
         <voice>
