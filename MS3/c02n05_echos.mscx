@@ -355,7 +355,7 @@
             <tempo>1.8</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 108</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 108</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -999,7 +999,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7{</name>
+            <name>V{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1009,6 +1009,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
