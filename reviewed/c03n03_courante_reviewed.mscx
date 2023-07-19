@@ -1037,7 +1037,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI7</name>
+            <name>VIM7</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.6"/>
             </Harmony>
@@ -1156,7 +1156,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -3357,7 +3356,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|IAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
