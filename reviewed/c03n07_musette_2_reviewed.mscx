@@ -2076,6 +2076,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.64112"/>
             </Harmony>
           <Chord>
@@ -2085,7 +2091,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
