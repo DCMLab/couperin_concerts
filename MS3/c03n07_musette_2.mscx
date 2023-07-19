@@ -368,7 +368,7 @@
             <tempo>2.25</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -1964,7 +1964,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>iv64</name>
             <offset x="0" y="-3.64112"/>
             </Harmony>
           <Chord>
