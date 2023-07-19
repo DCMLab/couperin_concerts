@@ -344,7 +344,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.23" y="-7.9"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 152</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 152</b></text>
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1006,7 +1006,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI7</name>
+            <name>VIM7</name>
             <offset x="0" y="-3.6"/>
             </Harmony>
           <Chord>
