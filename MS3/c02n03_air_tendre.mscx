@@ -345,7 +345,7 @@
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -692,7 +692,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6|EC}</name>
+            <name>i6|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
