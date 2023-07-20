@@ -862,7 +862,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -903,6 +903,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
