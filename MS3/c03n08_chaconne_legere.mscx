@@ -4724,10 +4724,6 @@
             <harmonyType>1</harmonyType>
             <name>I.I{</name>
             </Harmony>
-          <StaffText>
-            <offset x="4.99635" y="-8.90355"/>
-            <text>67</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5201,10 +5197,6 @@
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
-          <StaffText>
-            <offset x="-0.624544" y="-7.73493"/>
-            <text>77</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6041,10 +6033,6 @@
             <harmonyType>1</harmonyType>
             <name>vi</name>
             </Harmony>
-          <StaffText>
-            <offset x="-9.74289" y="-6.42454"/>
-            <text>90</text>
-            </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -6432,10 +6420,6 @@
             <harmonyType>1</harmonyType>
             <name>I</name>
             </Harmony>
-          <StaffText>
-            <offset x="-10.2425" y="-4.84517"/>
-            <text>97</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6722,10 +6706,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="-9.49307" y="-7.97921"/>
-            <text>102</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -7242,10 +7222,6 @@
             <harmonyType>1</harmonyType>
             <name>VI</name>
             </Harmony>
-          <StaffText>
-            <offset x="-6.49526" y="-6.46899"/>
-            <text>109</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -7580,10 +7556,6 @@
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
-          <StaffText>
-            <offset x="-7.61944" y="-7.25446"/>
-            <text>114</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8046,10 +8018,6 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
-          <StaffText>
-            <offset x="-8.11907" y="-6.7199"/>
-            <text>121</text>
-            </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
