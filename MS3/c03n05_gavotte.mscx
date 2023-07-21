@@ -2994,7 +2994,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43-#viio6(2)</name>
+            <name>V43</name>
             <offset x="-0.0760745" y="-4.70616"/>
             </Harmony>
           <Chord>
@@ -3005,10 +3005,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
