@@ -49,6 +49,7 @@
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -211,20 +212,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.5875</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Eva-Maria Hamberger</metaTag>
+    <metaTag name="annotators">Eva-Maria Hamberger (2.1.0), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1722</metaTag>
     <metaTag name="composed_start">1722</metaTag>
     <metaTag name="composer">François Couperin</metaTag>
     <metaTag name="copyright">© Les Éditions Outremontaises, 2006</metaTag>
     <metaTag name="creationDate">2019-10-09</metaTag>
-    <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Concert Royal no 1: Gigue</metaTag>
@@ -232,7 +232,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Menke</metaTag>
+    <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -297,12 +297,13 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>41.5</height>
+        <height>28.3846</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
           <family>Times</family>
           <size>9</size>
+          <offset x="-2.57781" y="-19.0361"/>
           <text><font size="18"></font><font face="SnellRoundhand BoldScript"></font>François Couperin<font size="13.5"></font><font face="SnellRoundhand BoldScript"></font> 
 <font size="10.5"></font><font face="SnellRoundhand BoldScript"></font>(1668-1733)</text>
           </Text>
@@ -321,6 +322,7 @@
           <style>Subtitle</style>
           <family>Times</family>
           <size>9</size>
+          <offset x="0.198293" y="20.5095"/>
           <text><font size="27"></font><font face="SnellRoundhand BoldScript"></font>Gigue</text>
           </Text>
         <Text>
@@ -350,8 +352,14 @@
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I</name>
+            <name>G.I{</name>
             </Harmony>
+          <Tempo>
+            <tempo>1.9500000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 78</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -391,7 +399,7 @@
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0.743808" y="-3.2165"/>
+              <offset x="0.743808" y="1.90476"/>
               </Articulation>
             <Note>
               <pitch>78</pitch>
@@ -452,6 +460,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0" y="1.24909"/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -562,6 +572,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="-0.374726" y="1.12418"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -575,7 +586,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -588,6 +599,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -604,6 +619,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="0.249818" y="0.874362"/>
               </Articulation>
             <Note>
               <pitch>72</pitch>
@@ -645,6 +661,8 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.249818" y="1.99854"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -757,7 +775,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -773,6 +791,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -951,9 +973,11 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.12418"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
+              <offset x="-0.124909" y="1.374"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -1339,7 +1363,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1387,7 +1411,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1435,7 +1459,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V65</name>
+            <name>I.V65{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -1815,7 +1839,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -1836,7 +1860,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.V65</name>
+            <name>V.V65{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -2371,7 +2395,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2389,6 +2413,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2673,7 +2701,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2720,7 +2748,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -2733,6 +2761,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.124909" y="0.99927"/>
               </Articulation>
             <Note>
               <pitch>79</pitch>
@@ -2887,7 +2916,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2905,6 +2934,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3287,7 +3320,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3325,6 +3358,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -3373,7 +3410,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
