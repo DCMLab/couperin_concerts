@@ -292,7 +292,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-12.1294"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 96</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1052,18 +1052,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.CON}</name>
             <offset x="0" y="-2.9"/>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <offset x="0.0540554" y="-3.41514"/>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.43909" y="-0.156222"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <offset x="0.0540554" y="-3.41514"/>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -1189,7 +1189,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.CON}</name>
             <offset x="0" y="-3.7183"/>
             </Harmony>
           <Fermata>
@@ -2478,14 +2478,14 @@
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.43909" y="0.161914"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -6590,14 +6590,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.18745" y="-1.02911"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
