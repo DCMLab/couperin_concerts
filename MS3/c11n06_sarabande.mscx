@@ -2347,7 +2347,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>v.V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -2407,7 +2407,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/V</name>
+            <name>V6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2446,7 +2446,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/V</name>
+            <name>V65</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2467,7 +2467,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2507,7 +2507,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC.CON}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2581,7 +2581,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>i.ii%65</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
