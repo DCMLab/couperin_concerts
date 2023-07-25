@@ -1887,7 +1887,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I2</name>
+            <name>V2/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
