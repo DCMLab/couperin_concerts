@@ -1081,19 +1081,19 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.CON}</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.9"/>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <offset x="0.0540554" y="-3.41514"/>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.43909" y="-0.156222"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <offset x="0.0540554" y="-3.41514"/>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -1232,7 +1232,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.CON}</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-3.7183"/>
             </Harmony>
@@ -2569,14 +2569,14 @@
             <name>I|PAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.43909" y="0.161914"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -6818,14 +6818,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <StaffText>
             <minDistance>-999</minDistance>
             <offset x="3.18745" y="-1.02911"/>
             <text>)</text>
             </StaffText>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
