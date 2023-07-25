@@ -218,14 +218,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Eva-Maria Hamberger</metaTag>
+    <metaTag name="annotators">Eva-Maria Hamberger (2.1.0), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1722</metaTag>
     <metaTag name="composed_start">1722</metaTag>
     <metaTag name="composer">François Couperin</metaTag>
     <metaTag name="copyright">© Les Éditions Outremontaises, 2006</metaTag>
     <metaTag name="creationDate">2019-10-09</metaTag>
-    <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Concert Royal no 2: Prélude</metaTag>
@@ -233,7 +233,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Menke</metaTag>
+    <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -345,6 +345,12 @@
             <offset x="-4.66789" y="-7.61941"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Gracieusement</text>
             </Tempo>
+          <Tempo>
+            <tempo>1.8</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 108</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -359,7 +365,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>D.I</name>
+            <name>D.I{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -580,7 +586,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -627,7 +633,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>iii6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -888,7 +894,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -908,7 +914,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -999,7 +1005,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1165,7 +1171,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1175,6 +1181,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.I{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -1346,7 +1356,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.TEN}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1396,7 +1406,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>iii6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1481,7 +1491,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii43</name>
-            <offset x="0.874362" y="-13.1172"/>
+            <offset x="0.249818" y="-2.37504"/>
             </Harmony>
           </voice>
         </Measure>
@@ -1657,7 +1667,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1670,19 +1680,9 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I.I6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1939,7 +1939,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1989,7 +1989,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>vi6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2134,6 +2134,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.499635" y="1.24909"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2165,7 +2167,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC.TEN}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2191,7 +2193,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I</name>
+            <name>V.I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2318,7 +2320,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.III6</name>
+            <name>vi6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -2331,6 +2333,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.iii6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2540,10 +2546,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2952,7 +2954,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
