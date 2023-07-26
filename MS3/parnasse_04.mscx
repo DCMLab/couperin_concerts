@@ -2707,7 +2707,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2779,7 +2779,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.SIM}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
