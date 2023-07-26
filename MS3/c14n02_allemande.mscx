@@ -2409,7 +2409,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv</name>
+            <name>iv.V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2420,7 +2420,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII6</name>
+            <name>IV6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2448,7 +2448,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/iv</name>
+            <name>V65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -2471,7 +2471,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>I|IAC}</name>
             </Harmony>
           <StaffText>
             <minDistance>-999</minDistance>
@@ -2502,7 +2502,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>i.ii{</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3088,13 +3088,13 @@
         <endRepeat>2</endRepeat>
         <irregular>1</irregular>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
