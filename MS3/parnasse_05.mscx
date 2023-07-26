@@ -537,7 +537,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>ii(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -585,6 +585,10 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi(4)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -593,6 +597,8 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.112411" y="1.68616"/>
               </Articulation>
             <Note>
               <pitch>66</pitch>
@@ -616,7 +622,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>vi</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
