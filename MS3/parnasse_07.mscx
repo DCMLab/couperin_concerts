@@ -5996,7 +5996,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6424,7 +6424,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC.CON}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
