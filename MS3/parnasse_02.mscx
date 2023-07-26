@@ -273,7 +273,7 @@
             <tempo>1.5750000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 63</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 63</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -3433,10 +3433,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(4)</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3466,7 +3462,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v64</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3480,6 +3476,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0.224822" y="0.899287"/>
               </Articulation>
             <Note>
               <pitch>74</pitch>
@@ -3494,6 +3491,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
