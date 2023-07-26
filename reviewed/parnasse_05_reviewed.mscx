@@ -566,12 +566,6 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii(4)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -580,7 +574,6 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -597,6 +590,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -626,6 +620,11 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <name>vi</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -634,9 +633,10 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.112411" y="1.68616"/>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -645,6 +645,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -659,7 +660,7 @@ et sa Troupe joue le Sommeil suivat tres doux</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>vi</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
