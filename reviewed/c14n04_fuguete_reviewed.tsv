@@ -1,10 +1,11 @@
 mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	minDistance	offset	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note	n_colored	n_untouched	count_ratio	dur_colored	dur_untouched	dur_ratio
 1	1	1/8	1/8	6/8	1	1	d.i{					d	i		i	i						{	m	1	1	2, -1, 3		2	2	0	2	0.0	0.0	0.25	0.0
-1	1	3/8	3/8	6/8	1	1	V					d	i		V	V							M	1	1	3, 7, 4		3	3	0	2	0.0	0.0	0.25	0.0
-1	1	5/8	5/8	6/8	1	1	#viio/iv					d	i		#viio/iv	#vii	o			iv			o	1	1	6, 3, 0		6	6	0	1	0.0	0.0	0.125	0.0
-2	2	0	0	6/8	1	1	iv					d	i		iv	iv							m	1	1	1, -2, 2		1	1	0	1	0.0	0.0	0.125	0.0
-2	2	1/8	1/8	6/8	1	1	i6					d	i		i6	i		6					m	1	1	-1, 3, 2		2	-1	3	3	0.5	0.1875	0.1875	0.5
-2	2	1/2	1/2	6/8	1	1	#viio6					d	i		#viio6	#vii	o	6					o	1	1	4, 1, 7		7	4	1	2	0.3333333333333333	0.0	0.25	0.0
+1	1	3/8	3/8	6/8	1	1	V6					d	i		V6	V		6					M	1	1	7, 4, 3		3	7	0	2	0.0	0.0	0.25	0.0
+1	1	5/8	5/8	6/8	1	1	V2/iv	-1.46134	-3.85946	0.387589	/	d	i		V2/iv	V		2		iv			Mm7	1	1	0, 2, 6, 3		2	0	0	1	0.0	0.0	0.125	0.0
+2	2	0	0	6/8	1	1	iv6					d	i		iv6	iv		6					m	1	1	-2, 2, 1		1	-2	0	1	0.0	0.0	0.125	0.0
+2	2	1/8	1/8	6/8	1	1	ii%43					d	i		ii%43	ii	%	43					%7	1	1	-2, 2, 4, 1		4	-2	1	3	0.25	0.0625	0.1875	0.25
+2	2	3/8	3/8	6/8	1	1	V(64)					d	i		V(64)	V			64				M	1	1	3, 2, -1		3	3	1	1	0.5	0.0625	0.0625	0.5
+2	2	1/2	1/2	6/8	1	1	V	0.449643	-4.5517		/	d	i		V	V							M	1	1	3, 7, 4		3	3	1	2	0.3333333333333333	0.0	0.25	0.0
 3	3	0	0	6/8	1	1	i}					d	i		i	i						}	m	1	1	2, -1, 3		2	2	0	1	0.0	0.0	0.125	0.0
 3	3	1/8	1/8	6/8	1	1	v.i{					d	v		i	i						{	m	1	1	3, 0, 4		3	3	0	3	0.0	0.0	0.5	0.0
 3	3	3/8	3/8	6/8	1	1	ii%7					d	v		ii%7	ii	%	7					%7	1	1	5, 2, -1, 3		5	5	0	2	0.0	0.0	0.25	0.0
@@ -151,7 +152,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	minDistance	
 39	39	0	0	6/8	1	1	i					d	i		i	i							m	1	1	2, -1, 3		2	2	0	12	0.0	0.0	0.75	0.0
 39	39	3/8	3/8	6/8	1	1	ii6					d	i		ii6	ii		6					m	1	1	1, 5, 4		4	1	0	12	0.0	0.0	0.75	0.0
 40	40	0	0	6/8	1	1	V					d	i		V	V							M	1	1	3, 7, 4		3	3	0	8	0.0	0.0	0.75	0.0
-40	40	3/8	3/8	6/8	1	1	vii%7/VII					d	i		vii%7/VII	vii	%	7		VII			%7	1	1	5, 2, -1, 3		5	5	0	3	0.0	0.0	0.25	0.0
+40	40	3/8	3/8	6/8	1	1	#vi%7					d	i		#vi%7	#vi	%	7					%7	1	1	5, 2, -1, 3		5	5	0	3	0.0	0.0	0.25	0.0
 40	40	1/2	1/2	6/8	1	1	IV64					d	i		IV64	IV		64					M	1	1	2, 1, 5		1	2	0	5	0.0	0.0	0.5	0.0
 41	41	0	0	6/8	1	1	V65					d	i		V65	V		65					Mm7	1	1	7, 4, 1, 3		3	7	1	11	0.08333333333333333	0.0625	0.6875	0.08333333333333333
 41	41	3/8	3/8	6/8	1	1	i					d	i		i	i							m	1	1	2, -1, 3		2	2	1	5	0.16666666666666666	0.0	0.75	0.0
