@@ -49,6 +49,7 @@
       <pedalFramePadding>0</pedalFramePadding>
       <pedalFrameWidth>0</pedalFrameWidth>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <romanNumeralPlacement>0</romanNumeralPlacement>
       <harmonyPlay>0</harmonyPlay>
       <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
       <chordSymbolAFontSize>11</chordSymbolAFontSize>
@@ -211,20 +212,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.5875</Spatium>
-      <romanNumeralPlacement>0</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Eva-Maria Hamberger</metaTag>
+    <metaTag name="annotators">Eva-Maria Hamberger (2.1.0), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1722</metaTag>
     <metaTag name="composed_start">1722</metaTag>
     <metaTag name="composer">François Couperin</metaTag>
     <metaTag name="copyright">© Les Éditions Outremontaises, 2006</metaTag>
     <metaTag name="creationDate">2019-10-09</metaTag>
-    <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle">Concert Royal no 1: Gavotte</metaTag>
@@ -232,7 +232,7 @@
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Menke</metaTag>
+    <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -297,12 +297,13 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>41.5</height>
+        <height>23.3882</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
           <family>Times</family>
           <size>9</size>
+          <offset x="-2.7761" y="-20.8207"/>
           <text><font size="18"></font><font face="SnellRoundhand BoldScript"></font>François Couperin<font size="13.5"></font><font face="SnellRoundhand BoldScript"></font> 
 <font size="10.5"></font><font face="SnellRoundhand BoldScript"></font>(1668-1733)</text>
           </Text>
@@ -347,13 +348,25 @@
             <tempo>2.7999999999999998</tempo>
             <followText>1</followText>
             <family>Times</family>
-            <offset x="-3.63613" y="-4.87727"/>
+            <offset x="-3.63613" y="-11.2473"/>
             <text><font size="13.5"></font><font face="SnellRoundhand BoldScript"></font>Notes égales et coulées</text>
             </Tempo>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>g.i</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>g.i{</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <Tempo>
+            <tempo>2.6666666666666665</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteHalfUp</sym> = 80</text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -409,6 +422,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <offset x="0" y="1.66545"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -565,6 +579,7 @@
               </Spanner>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.166545" y="0.749453"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -609,6 +624,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0" y="1.08254"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
@@ -752,10 +768,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC.SIM}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
-            <offset x="0.541357" y="-6.01338"/>
+            <offset x="-0.124823" y="-3.09884"/>
             </Fermata>
           <Spanner type="Volta">
             <Volta>
@@ -763,7 +785,7 @@
               <beginText>1</beginText>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-2.72129"/>
+                <offset x="-0.208181" y="-9.67478"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <endings>1</endings>
@@ -778,7 +800,8 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.847393" y="-0.575857"/>
+              <minDistance>-999</minDistance>
+              <offset x="-0.56824" y="2.08886"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -801,6 +824,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC.SIM}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -833,7 +862,7 @@
             <durationType>half</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <offset x="0.541357" y="-0.422839"/>
+              <offset x="-0.208096" y="0.909522"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -866,6 +895,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Volta">
             <prev>
@@ -929,6 +964,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="0.249818" y="0.832725"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -1028,6 +1064,7 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <offset x="-0.499635" y="1.66545"/>
               </Articulation>
             <Note>
               <pitch>69</pitch>
@@ -1238,6 +1275,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1247,12 +1290,19 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.624544" y="1.76954"/>
               </Articulation>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -1305,13 +1355,18 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.V65/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.386726" y="-2.5"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -1348,7 +1403,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1375,6 +1429,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i.i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -1418,6 +1478,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentMordent</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="0.33309" y="1.91527"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1506,6 +1568,7 @@
               <Slur>
                 <SlurSegment no="0">
                   <o4 x="-0.0777512" y="-0.311005"/>
+                  <offset x="-0.416363" y="1.45727"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -1567,6 +1630,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC.SIM}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1579,6 +1648,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -1663,6 +1737,8 @@
             <durationType>quarter</durationType>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
+              <minDistance>-999</minDistance>
+              <offset x="-0.0832725" y="1.58218"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -1880,6 +1956,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1931,6 +2013,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -2100,6 +2188,8 @@
               <digit>3</digit>
               <continuationLine>1</continuationLine>
               </FiguredBassItem>
+            <minDistance>-5.57889</minDistance>
+            <offset x="0.166545" y="-0.245562"/>
             </FiguredBass>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2601,7 +2691,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -2612,7 +2701,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
@@ -2633,7 +2721,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
