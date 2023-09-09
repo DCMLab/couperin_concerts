@@ -50,10 +50,8 @@ CORPUS_PATH = resolve_dir(CORPUS_PATH)
 :tags: [hide-input]
 
 repo = Repo(CORPUS_PATH)
-notebook_repo = Repo('.', search_parent_directories=True)
 print_heading("Data and software versions")
-print(f"Notebook repository '{get_repo_name(notebook_repo)}' @ {notebook_repo.commit().hexsha[:7]}")
-print(f"Data repo '{get_repo_name(CORPUS_PATH)}' @ {repo.commit().hexsha[:7]}")
+print(f"Data repo '{get_repo_name(repo)}' @ {repo.commit().hexsha[:7]}")
 print(f"dimcat version {dc.__version__}")
 print(f"ms3 version {ms3.__version__}")
 ```

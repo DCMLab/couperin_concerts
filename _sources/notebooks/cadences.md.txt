@@ -37,7 +37,7 @@ from utils import STD_LAYOUT, CADENCE_COLORS, color_background, value_count_df, 
 ```{code-cell} ipython3
 :tags: [hide-input]
 
-CORPUS_PATH = os.getenv('CORPUS_PATH', "~/workflow_test_metarepo")
+CORPUS_PATH = os.path.abspath(os.path.join('..', '..'))
 print_heading("Notebook settings")
 print(f"CORPUS_PATH: {CORPUS_PATH!r}")
 CORPUS_PATH = resolve_dir(CORPUS_PATH)
@@ -47,10 +47,8 @@ CORPUS_PATH = resolve_dir(CORPUS_PATH)
 :tags: [hide-input]
 
 repo = Repo(CORPUS_PATH)
-notebook_repo = Repo('.', search_parent_directories=True)
 print_heading("Data and software versions")
-print(f"Notebook repository '{get_repo_name(notebook_repo)}' @ {notebook_repo.commit().hexsha[:7]}")
-print(f"Data repo '{get_repo_name(CORPUS_PATH)}' @ {repo.commit().hexsha[:7]}")
+print(f"Data repo '{get_repo_name(repo)}' @ {repo.commit().hexsha[:7]}")
 print(f"dimcat version {dc.__version__}")
 print(f"ms3 version {ms3.__version__}")
 ```
