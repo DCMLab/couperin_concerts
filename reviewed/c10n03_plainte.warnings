@@ -1,9 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 23) ms3.Parse.couperin_concerts.c10n03_plainte
-	None of the MCs following the irregular MC 23 complete it.
-	   nominal_duration actual_duration expected_completion   next
-	mc                                                            
-	23                1             7/8                 1/8  (24,)
-	24                1               1                   0  (25,)
