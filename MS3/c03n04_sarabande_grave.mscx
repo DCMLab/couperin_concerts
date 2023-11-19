@@ -225,17 +225,18 @@
     <metaTag name="creationDate">2019-10-09</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Concert Royal no 3: Sarabande</metaTag>
+    <metaTag name="movementNumber">4</metaTag>
+    <metaTag name="movementTitle">Sarabande</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="path">MS3/c03n04_sarabande_grave.mscx</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workTitle">Concert Royal no. 3</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">

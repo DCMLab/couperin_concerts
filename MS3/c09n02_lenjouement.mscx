@@ -155,21 +155,22 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1724</metaTag>
     <metaTag name="composed_start">1724</metaTag>
-    <metaTag name="composer">Francois Couperin </metaTag>
+    <metaTag name="composer">François Couperin</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-08-01</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">L’enjoüement. Gayement</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="path">MS3/c09n02_lenjouement.mscx</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Lenjouement c09n02</metaTag>
+    <metaTag name="workTitle">Nouveau Concert, ou Les Goûts-Réunis no. 9</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -272,7 +273,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-6.63224" y="-4.65506"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 108</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 108</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
