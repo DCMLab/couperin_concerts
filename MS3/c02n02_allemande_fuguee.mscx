@@ -226,17 +226,18 @@
     <metaTag name="creationDate">2019-10-09</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Concert Royal no 2: Allemande</metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Allemande Fuguée</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="path">MS3/c02n02_allemande_fuguee.mscx</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="workTitle">Concert Royal no. 2</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">

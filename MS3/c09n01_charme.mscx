@@ -155,21 +155,22 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1724</metaTag>
     <metaTag name="composed_start">1724</metaTag>
-    <metaTag name="composer">Francois Couperin</metaTag>
+    <metaTag name="composer">François Couperin</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-08-01</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Le charme. Gracieusement et gravement</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="path">MS3/c09n01_charme.mscx</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Johannes Menke (2.1.0)</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Le Charme c09n01</metaTag>
+    <metaTag name="workTitle">Nouveau Concert, ou Les Goûts-Réunis no. 9</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
