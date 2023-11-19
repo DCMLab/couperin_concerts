@@ -203,4 +203,4 @@ Concerts 12 & 13 not annotated
 |parnasse_07                 |      53|   235|2.3.0   |Johannes Menke (2.1.0), Hanné Becker (2.3.0)     |                      |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
