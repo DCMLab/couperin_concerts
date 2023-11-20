@@ -31,13 +31,13 @@ Cell [0;32mIn[3], line 1[0m
 [1;32m      2[0m print_heading([38;5;124m"[39m[38;5;124mData and software versions[39m[38;5;124m"[39m)
 [1;32m      3[0m [38;5;28mprint[39m([38;5;124mf[39m[38;5;124m"[39m[38;5;124mData repo [39m[38;5;124m'[39m[38;5;132;01m{[39;00mget_repo_name(repo)[38;5;132;01m}[39;00m[38;5;124m'[39m[38;5;124m @ [39m[38;5;132;01m{[39;00mrepo[38;5;241m.[39mcommit()[38;5;241m.[39mhexsha[:[38;5;241m7[39m][38;5;132;01m}[39;00m[38;5;124m"[39m)
 
-File [0;32m~/.local/lib/python3.10/site-packages/git/repo/base.py:214[0m, in [0;36mRepo.__init__[0;34m(self, path, odbt, search_parent_directories, expand_vars)[0m
-[1;32m    212[0m [38;5;28;01mif[39;00m epath [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m:
-[1;32m    213[0m     [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m os[38;5;241m.[39mpath[38;5;241m.[39mexists(epath):
-[0;32m--> 214[0m         [38;5;28;01mraise[39;00m NoSuchPathError(epath)
-[1;32m    216[0m [38;5;66;03m## Walk up the path to find the `.git` dir.[39;00m
-[1;32m    217[0m [38;5;66;03m#[39;00m
-[1;32m    218[0m curpath [38;5;241m=[39m epath
+File [0;32m~/.local/lib/python3.10/site-packages/git/repo/base.py:215[0m, in [0;36mRepo.__init__[0;34m(self, path, odbt, search_parent_directories, expand_vars)[0m
+[1;32m    213[0m [38;5;28;01mif[39;00m epath [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m:
+[1;32m    214[0m     [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m os[38;5;241m.[39mpath[38;5;241m.[39mexists(epath):
+[0;32m--> 215[0m         [38;5;28;01mraise[39;00m NoSuchPathError(epath)
+[1;32m    217[0m [38;5;66;03m## Walk up the path to find the `.git` dir.[39;00m
+[1;32m    218[0m [38;5;66;03m#[39;00m
+[1;32m    219[0m curpath [38;5;241m=[39m epath
 
 [0;31mNoSuchPathError[0m: /home/hentsche/tmp/all_subcorpora
 NoSuchPathError: /home/hentsche/tmp/all_subcorpora
