@@ -1,0 +1,97 @@
+{
+    "license": "CC-BY-NC-SA-4.0",
+    "contributors": [
+        {
+            "type": "DataCollector",
+            "name": "Eva-Maria Hamberger"
+        },
+        {
+            "orcid": "0000-0002-2105-525X",
+            "type": "DataCollector",
+            "name": "Hanné Becker"
+        },
+        {
+            "orcid": "0000-0003-0878-4084",
+            "type": "DataCollector",
+            "name": "Johannes Menke"
+        },
+        {
+            "type": "DataCollector",
+            "name": "Tobias Drewelius"
+        }
+    ],
+    "title": "François Couperin – Concerts Royaux (A corpus of annotated scores)",
+    "keywords": [
+        "music research",
+        "music theory",
+        "music analysis",
+        "music history",
+        "corpus studies",
+        "corpora",
+        "symbolic dataset",
+        "scores",
+        "annotated dataset",
+        "harmony",
+        "key annotations",
+        "chord annotations",
+        "phrase annotations",
+        "cadence annotations"
+    ],
+    "grants": [
+        {
+            "id": "10.13039/501100001711::105216_182811"
+        }
+    ],
+    "upload_type": "dataset",
+    "version": "v2.1",
+    "communities": [
+        {
+            "identifier": "dcml"
+        },
+        {
+            "identifier": "epfl"
+        }
+    ],
+    "publication_date": "2025-03-03",
+    "creators": [
+        {
+            "orcid": "0000-0002-1986-9545",
+            "affiliation": "Anton Bruckner University Linz",
+            "name": "Johannes Hentschel"
+        },
+        {
+            "orcid": "0000-0003-1455-5990",
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Yannis Rammos"
+        },
+        {
+            "orcid": "0000-0003-1990-052X",
+            "affiliation": "Anton Bruckner University Linz",
+            "name": "Markus Neuwirth"
+        },
+        {
+            "orcid": "0000-0002-4323-7257",
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
+            "name": "Martin Rohrmeier"
+        }
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/DCMLab/couperin_concerts/tree/v2.1",
+            "relation": "references"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://dcmlab.github.io/couperin_concerts/",
+            "relation": "isDocumentedBy"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.13844105",
+            "relation": "isPartOf",
+            "resource_type":"dataset"
+        }
+    ]
+}
