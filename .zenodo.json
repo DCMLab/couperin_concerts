@@ -43,7 +43,7 @@
         }
     ],
     "upload_type": "dataset",
-    "version": "v2.1",
+    "version": "v2.2",
     "communities": [
         {
             "identifier": "dcml"
@@ -52,7 +52,7 @@
             "identifier": "epfl"
         }
     ],
-    "publication_date": "2025-03-03",
+    "publication_date": "2025-03-14",
     "creators": [
         {
             "orcid": "0000-0002-1986-9545",
@@ -79,7 +79,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/DCMLab/couperin_concerts/tree/v2.1",
+            "identifier": "https://github.com/DCMLab/couperin_concerts/tree/v2.2",
             "relation": "references"
         },
         {
