@@ -2,22 +2,27 @@
     "license": "CC-BY-NC-SA-4.0",
     "contributors": [
         {
-            "type": "DataCollector",
-            "name": "Eva-Maria Hamberger"
+            "name": "Hamberger, Eva-Maria",
+            "type": "Annotator"
         },
         {
-            "orcid": "0000-0002-2105-525X",
-            "type": "DataCollector",
-            "name": "Hanné Becker"
+            "name": "Becker, Hanné",
+            "type": "Annotator",
+            "orcid": "0000-0002-2105-525X"
         },
         {
-            "orcid": "0000-0003-0878-4084",
-            "type": "DataCollector",
-            "name": "Johannes Menke"
+            "name": "Menke, Johannes",
+            "type": "Annotator",
+            "orcid": "0000-0003-0878-4084"
         },
         {
-            "type": "DataCollector",
-            "name": "Tobias Drewelius"
+            "name": "Drewelius, Tobias",
+            "type": "Annotator"
+        },
+        {
+            "name": "Hentschel, Johannes",
+            "type": "DataCurator",
+            "orcid": "0000-0002-1986-9545"
         }
     ],
     "title": "François Couperin – Concerts Royaux (A corpus of annotated scores)",
