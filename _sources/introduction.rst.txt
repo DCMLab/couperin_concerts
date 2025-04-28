@@ -32,12 +32,13 @@ If you are only interested in the current version of the corpus, you can downloa
 Data Formats
 ============
 
-Each piece in this corpus is represented by four files with identical names, each in its own folder. For example, the first *Prélude* of the first concert has the following files:
+Each piece in this corpus is represented by five files with identical names, each in its own folder. For example, the first *Prélude* of the first concert has the following files:
 
--  ``MS3/c01n01_prelude.mscx``: Uncompressed MuseScore file including the music and annotation labels.
--  ``notes/c01n01_prelude.tsv``: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
--  ``measures/c01n01_prelude.tsv``: A table with relevant information about the measures in the score.
--  ``harmonies/c01n01_prelude.tsv``: A list of the included harmony labels (including cadences and phrases) with their positions in the score.
+-  ``MS3/c01n01_prelude.mscx``: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.
+-  ``notes/c01n01_prelude.notes.tsv``: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+-  ``measures/c01n01_prelude.measures.tsv``: A table with relevant information about the measures in the score.
+-  ``chords/c01n01_prelude.chords.tsv``: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).
+-  ``harmonies/c01n01_prelude.harmonies.tsv``: A table of the included harmony labels (including cadences and phrases) with their positions in the score.
 
 Opening Scores
 --------------
